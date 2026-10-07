@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Country,Product_Category,Product_Name,Quantity,Item_Price,Product_Cost,Platform,Return_Status,Customer_Name,Customer_Segment,Region,Discount,Payment_Method,Shipping_Mode,Order_Status,Rating,Sales_Rep
+ORD-2026-1302,2026-01-01,Singapore,Fashion,Jeans,9,56.88,38.64,Ebay,Not Returned,David Davis,Corporate,Asia,0.0008,Credit Card,Same Day,Delivered,4.0,Priya
+ORD-2026-1485,2026-01-02,France,Home & Kitchen,Blender,6,125.05,101.0,Ebay,Not Returned,Alex Sharma,Consumer,Europe,0.0005,Cash On Delivery,Express,Delivered,5.0,Rahul
+ORD-2026-1521,2026-01-03,India,Books,Children's Book,11,55.7,39.99,Amazon,Not Returned,Lucas Shah,Corporate,Asia,0.0,Upi,Express,Delivered,2.0,Emma
+ORD-2026-1990,2026-01-03,India,Electronics,Tablet,5,1516.02,844.85,Shopify,Not Returned,Sofia Mehta,Wholesale,Asia,0.001,Paypal,Express,Cancelled,4.0,Vikram
+ORD-2026-1148,2026-01-03,USA,Electronics,Headphones,3,733.6,553.99,Shopify,Not Returned,Maya Williams,Premium,North America,0.0002,Credit Card,Express,Delivered,3.0,Arjun
+ORD-2026-1309,2026-01-04,Singapore,Beauty,Lipstick,1,133.47,108.76,Shopify,Not Returned,Kavya Shah,Premium,Asia,0.001,Credit Card,Same Day,Delivered,5.0,Vikram
+ORD-2026-1333,2026-01-04,UAE,Electronics,Smartwatch,8,489.15,340.77,Amazon,Not Returned,Emily Brown,Corporate,Middle East,0.0008,Credit Card,Express,Delivered,5.0,Daniel
+ORD-2026-1937,2026-01-05,France,Home & Kitchen,Desk Lamp,3,184.65,129.14,Amazon,Not Returned,Sarah Miller,Wholesale,Europe,0.001,Credit Card,Express,Delivered,3.0,Aisha
+ORD-2026-1539,2026-01-05,France,Electronics,Tablet,2,556.03,346.21,Amazon,Not Returned,Emma Sharma,Consumer,Europe,0.001,Credit Card,Express,Delivered,5.0,Vikram
+ORD-2026-1295,2026-01-05,Canada,Electronics,Smartphone,1,1747.91,920.52,Amazon,Not Returned,Rohan Gupta,Consumer,North America,0.0,Paypal,Express,Delivered,4.0,Meera
+ORD-2026-1292,2026-01-05,Australia,Fashion,Sneakers,5,22.43,15.18,Ebay,Not Returned,Sam Taylor,Premium,Oceania,0.002,Credit Card,Economy,Delivered,4.0,Karan
+ORD-2026-1902,2026-01-05,France,Home & Kitchen,Vacuum Cleaner,1,201.63,135.71,Shopify,Not Returned,Ananya Johnson,Corporate,Europe,0.0,Paypal,Express,Delivered,5.0,Emma
+ORD-2026-1562,2026-01-06,Australia,Electronics,Headphones,11,233.04,184.75,Amazon,Returned,Lucas Verma,Wholesale,Oceania,0.002,Credit Card,Standard,Delivered,4.0,Daniel
+ORD-2026-1440,2026-01-06,UK,Electronics,Headphones,5,485.04,317.84,Shopify,Not Returned,Ananya Johnson,Wholesale,Europe,0.0002,Cash On Delivery,Express,Delivered,4.0,Rahul
+ORD-2026-1513,2026-01-06,UK,Home & Kitchen,Coffee Maker,7,159.81,94.27,Amazon,Not Returned,Noah Miller,Wholesale,Europe,0.0015,Debit Card,Standard,Delivered,4.0,Daniel
+ORD-2026-1649,2026-01-07,France,Books,Cookbook,8,43.33,27.09,Shopify,Not Returned,Liam Johnson,Wholesale,Europe,0.001,Credit Card,Same Day,Delivered,4.0,Vikram
+ORD-2026-1178,2026-01-07,Germany,Electronics,Tablet,2,859.8,604.14,Ebay,Not Returned,Ananya Sharma,Corporate,Europe,0.0005,Paypal,Same Day,Delivered,3.0,Vikram
+ORD-2026-1683,2026-01-08,Japan,Books,Children's Book,9,26.73,21.6,Shopify,Refunded,Emma Singh,Corporate,Asia,0.0008,Bank Transfer,Same Day,Delivered,3.0,Meera
+ORD-2026-1411,2026-01-08,Canada,Fashion,Sneakers,9,199.58,140.48,Ebay,Not Returned,Aisha Shah,Premium,North America,0.001,Debit Card,Standard,Delivered,5.0,Arjun
+ORD-2026-1989,2026-01-09,India,Books,Self-Help Book,1,37.28,22.07,Ebay,Not Returned,Michael Mehta,Corporate,Asia,0.001,Credit Card,Standard,Delivered,5.0,Karan
+ORD-2026-1926,2026-01-09,Japan,Fashion,Backpack,2,159.01,102.36,Amazon,Not Returned,Leo Gupta,Wholesale,Asia,0.0008,Bank Transfer,Express,Delivered,4.0,Karan
+ORD-2026-1955,2026-01-09,UAE,Beauty,Lipstick,6,119.23,69.12,Ebay,Not Returned,Mia Johnson,Wholesale,Middle East,0.0,Cash On Delivery,Standard,Delivered,5.0,Meera
+ORD-2026-1426,2026-01-10,France,Beauty,Skincare Set,6,44.01,28.2,Ebay,Not Returned,Michael Mehta,Wholesale,Europe,0.001,Debit Card,Economy,Delivered,4.0,Karan
+ORD-2026-1868,2026-01-10,UK,Fashion,Jeans,4,182.86,128.52,Shopify,Not Returned,David Kumar,Wholesale,Europe,0.002,Debit Card,Same Day,Delivered,4.0,Arjun
+ORD-2026-1647,2026-01-11,Canada,Books,Novel,3,21.49,16.98,Amazon,Not Returned,Sofia Singh,Corporate,North America,0.0002,Cash On Delivery,Standard,Pending,4.0,Priya
+ORD-2026-1456,2026-01-11,France,Beauty,Perfume,8,81.72,45.35,Shopify,Not Returned,John Verma,Corporate,Europe,0.0002,Upi,Economy,Delivered,4.0,Aisha
+ORD-2026-1556,2026-01-11,France,Sports,Running Shoes,2,127.33,93.48,Shopify,Not Returned,Emily Thomas,Wholesale,Europe,0.002,Credit Card,Standard,Delivered,5.0,Emma
+ORD-2026-1980,2026-01-11,Australia,Home & Kitchen,Desk Lamp,8,157.61,94.26,Amazon,Not Returned,Grace Smith,Wholesale,Oceania,0.0002,Bank Transfer,Economy,Cancelled,4.0,Arjun
+ORD-2026-1501,2026-01-11,France,Books,Business Book,6,69.02,40.98,Ebay,Returned,Ananya Davis,Consumer,Europe,0.0002,Upi,Express,Delivered,5.0,Karan
+ORD-2026-1588,2026-01-11,Germany,Beauty,Lipstick,2,133.13,74.71,Amazon,Not Returned,Aarav Patel,Corporate,Europe,0.002,Debit Card,Standard,Delivered,4.0,Karan
+ORD-2026-1759,2026-01-12,Australia,Home & Kitchen,Coffee Maker,10,131.49,92.43,Shopify,Not Returned,Anna Verma,Corporate,Oceania,0.001,Bank Transfer,Economy,Pending,5.0,Arjun
+ORD-2026-1511,2026-01-12,Canada,Fashion,Sneakers,7,117.92,87.94,Ebay,Not Returned,Aditya Gupta,Corporate,North America,0.002,Upi,Economy,Delivered,4.0,Rahul
+ORD-2026-1131,2026-01-12,UAE,Home & Kitchen,Blender,2,109.77,74.77,Shopify,Refunded,Ryan Thomas,Wholesale,Middle East,0.001,Bank Transfer,Economy,Delivered,5.0,Emma
+ORD-2026-1863,2026-01-13,Singapore,Beauty,Shampoo,7,88.82,70.14,Amazon,Not Returned,Noah Davis,Corporate,Asia,0.0008,Paypal,Same Day,Delivered,4.0,Aisha
+ORD-2026-1660,2026-01-13,Singapore,Sports,Running Shoes,2,42.16,23.86,Ebay,Not Returned,Maya Davis,Consumer,Asia,0.0,Credit Card,Same Day,Delivered,3.0,Rahul
+ORD-2026-1174,2026-01-14,UK,Home & Kitchen,Blender,11,65.02,44.6,Ebay,Not Returned,Liam Shah,Corporate,Europe,0.001,Cash On Delivery,Economy,Delivered,5.0,Karan
+ORD-2026-1069,2026-01-14,Canada,Home & Kitchen,Desk Lamp,1,156.71,127.75,Amazon,Not Returned,Aarav Williams,Corporate,North America,0.0002,Bank Transfer,Same Day,Delivered,3.0,Aisha
+ORD-2026-1339,2026-01-15,France,Sports,Sports Bag,6,273.12,151.35,Amazon,Not Returned,Meera Johnson,Premium,Europe,0.0005,Cash On Delivery,Economy,Delivered,5.0,Sofia
+ORD-2026-1474,2026-01-15,USA,Fashion,Jeans,5,29.26,16.56,Amazon,Not Returned,Priya Martin,Wholesale,North America,0.0005,Credit Card,Same Day,Delivered,4.0,Karan
+ORD-2026-1277,2026-01-15,Japan,Beauty,Perfume,6,173.41,114.04,Shopify,Not Returned,Vikram Brown,Consumer,Asia,0.0008,Paypal,Express,Cancelled,4.0,Emma
+ORD-2026-1179,2026-01-16,UAE,Books,Cookbook,3,34.77,25.9,Shopify,Returned,Leo Brown,Consumer,Middle East,0.002,Upi,Standard,Delivered,5.0,Sofia
+ORD-2026-1998,2026-01-16,Singapore,Sports,Fitness Band,9,257.69,174.54,Ebay,Not Returned,Karan Johnson,Wholesale,Asia,0.0,Credit Card,Express,Delivered,5.0,Priya
+ORD-2026-1341,2026-01-16,UAE,Electronics,Smartphone,10,1259.05,956.7,Shopify,Refunded,Lucas Thomas,Corporate,Middle East,0.002,Bank Transfer,Economy,Delivered,4.0,Daniel
+ORD-2026-1419,2026-01-17,UAE,Electronics,Laptop,7,1593.82,885.75,Amazon,Not Returned,Emily Smith,Corporate,Middle East,0.0008,Paypal,Economy,Delivered,4.0,Daniel
+ORD-2026-1281,2026-01-17,UK,Sports,Dumbbells,7,93.29,64.65,Ebay,Not Returned,Daniel Davis,Corporate,Europe,0.0,Paypal,Standard,Delivered,5.0,Vikram
+ORD-2026-1001,2026-01-17,USA,Electronics,Headphones,4,463.92,343.74,Amazon,Not Returned,Rohan Shah,Corporate,North America,0.0015,Bank Transfer,Standard,Delivered,5.0,Vikram
+ORD-2026-1654,2026-01-17,UAE,Home & Kitchen,Coffee Maker,12,153.57,125.74,Shopify,Returned,Daniel Verma,Wholesale,Middle East,0.0002,Paypal,Economy,Delivered,4.0,Arjun
+ORD-2026-1853,2026-01-17,France,Beauty,Lipstick,6,16.88,12.58,Amazon,Not Returned,Anna Sharma,Consumer,Europe,0.002,Upi,Economy,Delivered,4.0,Emma
+ORD-2026-1369,2026-01-18,Singapore,Electronics,Smartphone,9,1402.18,821.0,Amazon,Not Returned,Rahul Martin,Premium,Asia,0.0015,Paypal,Standard,Delivered,4.0,Sofia
+ORD-2026-1997,2026-01-18,Japan,Electronics,Smartphone,8,452.87,290.52,Ebay,Not Returned,Rahul Singh,Wholesale,Asia,0.0005,Upi,Economy,Pending,4.0,Arjun
+ORD-2026-1493,2026-01-18,Germany,Electronics,Smartwatch,10,834.27,457.76,Shopify,Not Returned,Noah Singh,Corporate,Europe,0.0008,Credit Card,Economy,Delivered,3.0,Aisha
+ORD-2026-1694,2026-01-18,UK,Beauty,Face Cream,3,30.53,18.29,Shopify,Not Returned,Vivaan Mehta,Consumer,Europe,0.001,Debit Card,Economy,Delivered,3.0,Rahul
+ORD-2026-1883,2026-01-18,India,Fashion,Sneakers,11,63.88,41.33,Amazon,Not Returned,Liam Gupta,Premium,Asia,0.0005,Paypal,Express,Delivered,2.0,Arjun
+ORD-2026-1680,2026-01-18,Canada,Books,Business Book,1,78.41,57.2,Shopify,Refunded,Emma Martin,Wholesale,North America,0.0015,Upi,Standard,Delivered,2.0,Aisha
+ORD-2026-1274,2026-01-19,India,Home & Kitchen,Desk Lamp,5,117.5,88.73,Shopify,Not Returned,Sneha Sharma,Corporate,Asia,0.001,Credit Card,Same Day,Delivered,3.0,Rahul
+ORD-2026-1748,2026-01-19,UAE,Fashion,Sneakers,5,102.08,53.62,Ebay,Not Returned,Grace Verma,Corporate,Middle East,0.0005,Credit Card,Standard,Delivered,3.0,Daniel
+ORD-2026-1702,2026-01-20,Singapore,Books,Children's Book,11,63.95,46.81,Shopify,Not Returned,Karan Anderson,Premium,Asia,0.0005,Debit Card,Standard,Cancelled,4.0,Aisha
+ORD-2026-1122,2026-01-20,Germany,Fashion,Backpack,5,168.56,133.56,Amazon,Not Returned,Ava Mehta,Consumer,Europe,0.0,Paypal,Economy,Delivered,5.0,Daniel
+ORD-2026-1897,2026-01-21,Australia,Sports,Yoga Mat,5,213.27,155.57,Shopify,Not Returned,Robert Johnson,Wholesale,Oceania,0.0008,Credit Card,Express,Delivered,5.0,Arjun
+ORD-2026-1877,2026-01-21,Australia,Books,Self-Help Book,1,44.74,27.15,Amazon,Not Returned,John Patel,Corporate,Oceania,0.0,Debit Card,Economy,Delivered,5.0,Aisha
+ORD-2026-1402,2026-01-22,UK,Sports,Fitness Band,12,207.41,164.78,Shopify,Not Returned,John Smith,Wholesale,Europe,0.0002,Bank Transfer,Economy,Delivered,5.0,Emma
+ORD-2026-1876,2026-01-22,USA,Fashion,Sneakers,4,33.0,23.93,Amazon,Returned,Kavya Verma,Corporate,North America,0.0,Debit Card,Same Day,Delivered,4.0,Meera
+ORD-2026-1097,2026-01-23,Singapore,Books,Self-Help Book,11,21.12,11.84,Amazon,Not Returned,Aditya Johnson,Premium,Asia,0.0015,Bank Transfer,Economy,Delivered,4.0,Vikram
+ORD-2026-1931,2026-01-23,Singapore,Books,Cookbook,3,18.24,14.49,Shopify,Not Returned,Aarav Gupta,Corporate,Asia,0.0,Paypal,Express,Delivered,4.0,Rahul
+ORD-2026-1089,2026-01-23,UK,Sports,Fitness Band,3,73.54,56.58,Shopify,Returned,Mia Verma,Wholesale,Europe,0.002,Bank Transfer,Same Day,Delivered,5.0,Sofia
+ORD-2026-1885,2026-01-23,USA,Beauty,Lipstick,1,16.32,10.6,Ebay,Refunded,Rahul Brown,Premium,North America,0.0008,Cash On Delivery,Economy,Delivered,5.0,Emma
+ORD-2026-1331,2026-01-23,Canada,Electronics,Smartwatch,12,740.63,560.89,Amazon,Not Returned,Ethan Martin,Corporate,North America,0.001,Debit Card,Express,Delivered,5.0,Daniel
+ORD-2026-1316,2026-01-23,Japan,Books,Novel,5,20.19,12.62,Amazon,Not Returned,Meera Williams,Corporate,Asia,0.002,Cash On Delivery,Standard,Pending,3.0,Arjun
+ORD-2026-1476,2026-01-24,Singapore,Home & Kitchen,Blender,2,404.91,291.27,Ebay,Returned,Maya Brown,Consumer,Asia,0.0008,Debit Card,Standard,Delivered,4.0,Priya
+ORD-2026-1478,2026-01-24,France,Home & Kitchen,Air Fryer,12,423.49,293.85,Shopify,Not Returned,Vivaan Johnson,Wholesale,Europe,0.0,Debit Card,Economy,Delivered,4.0,Aisha
+ORD-2026-1634,2026-01-24,USA,Sports,Fitness Band,11,269.55,165.86,Shopify,Not Returned,Ava Kumar,Consumer,North America,0.0005,Paypal,Express,Delivered,4.0,Priya
+ORD-2026-1169,2026-01-25,Singapore,Fashion,Backpack,5,97.68,67.73,Amazon,Not Returned,Karan Wilson,Consumer,Asia,0.001,Credit Card,Express,Delivered,5.0,Sofia
+ORD-2026-1111,2026-01-25,Singapore,Beauty,Shampoo,8,13.94,11.2,Amazon,Not Returned,Olivia Taylor,Wholesale,Asia,0.001,Upi,Standard,Delivered,5.0,Arjun
+ORD-2026-1334,2026-01-26,India,Books,Cookbook,1,18.47,9.78,Amazon,Not Returned,Ava Mehta,Corporate,Asia,0.001,Cash On Delivery,Same Day,Delivered,5.0,Priya
+ORD-2026-1751,2026-01-26,Australia,Electronics,Smartphone,10,528.88,323.12,Shopify,Not Returned,James Taylor,Corporate,Oceania,0.001,Paypal,Same Day,Delivered,5.0,Daniel
+ORD-2026-1328,2026-01-26,Singapore,Electronics,Smartphone,9,1005.13,819.33,Amazon,Not Returned,Olivia Wilson,Wholesale,Asia,0.0,Upi,Same Day,Delivered,5.0,Sofia
+ORD-2026-1136,2026-01-27,Germany,Fashion,Sneakers,6,168.74,134.43,Shopify,Not Returned,Lucas Lee,Consumer,Europe,0.002,Credit Card,Express,Delivered,5.0,Priya
+ORD-2026-1934,2026-01-27,Germany,Home & Kitchen,Coffee Maker,7,254.61,157.46,Ebay,Refunded,Liam Brown,Consumer,Europe,0.001,Debit Card,Express,Delivered,5.0,Emma
+ORD-2026-1360,2026-01-27,India,Books,Children's Book,12,29.89,22.58,Ebay,Not Returned,Olivia Lee,Consumer,Asia,0.0005,Upi,Economy,Delivered,3.0,Arjun
+ORD-2026-1298,2026-01-27,UK,Books,Novel,12,75.49,51.05,Ebay,Not Returned,Aisha Kumar,Corporate,Europe,0.0005,Cash On Delivery,Economy,Delivered,4.0,Meera
+ORD-2026-1211,2026-01-29,Japan,Books,Novel,4,39.8,31.6,Ebay,Not Returned,Neha Singh,Premium,Asia,0.0008,Cash On Delivery,Economy,Delivered,5.0,Daniel
+ORD-2026-1366,2026-01-30,USA,Sports,Yoga Mat,11,167.16,97.93,Ebay,Not Returned,Aisha Lee,Consumer,North America,0.0005,Cash On Delivery,Standard,Delivered,5.0,Arjun
+ORD-2026-1682,2026-01-30,Japan,Fashion,Backpack,10,69.81,36.87,Amazon,Not Returned,Emily Davis,Premium,Asia,0.0015,Bank Transfer,Economy,Delivered,4.0,Rahul
+ORD-2026-1496,2026-01-31,UK,Books,Children's Book,5,33.59,22.32,Amazon,Not Returned,Liam Martin,Wholesale,Europe,0.001,Bank Transfer,Same Day,Delivered,5.0,Karan
+ORD-2026-1824,2026-02-01,Germany,Home & Kitchen,Blender,11,325.68,202.55,Ebay,Not Returned,Arjun Williams,Consumer,Europe,0.002,Debit Card,Standard,Delivered,5.0,Vikram
+ORD-2026-1243,2026-02-01,Australia,Home & Kitchen,Coffee Maker,11,51.89,31.14,Ebay,Not Returned,Olivia Shah,Consumer,Oceania,0.002,Upi,Economy,Delivered,4.0,Arjun
+ORD-2026-1770,2026-02-02,Germany,Home & Kitchen,Vacuum Cleaner,3,44.11,31.0,Amazon,Not Returned,Michael Smith,Consumer,Europe,0.001,Debit Card,Express,Delivered,5.0,Emma
+ORD-2026-1631,2026-02-02,Japan,Books,Cookbook,6,52.85,37.11,Shopify,Not Returned,Neha Patel,Premium,Asia,0.0008,Bank Transfer,Economy,Delivered,5.0,Karan
+ORD-2026-1422,2026-02-03,Canada,Fashion,Jacket,6,32.98,19.57,Shopify,Not Returned,Vikram Johnson,Corporate,North America,0.0002,Credit Card,Same Day,Delivered,5.0,Aisha
+ORD-2026-1918,2026-02-03,Germany,Books,Cookbook,4,35.32,27.67,Shopify,Not Returned,Vivaan Davis,Premium,Europe,0.0,Upi,Economy,Delivered,5.0,Aisha
+ORD-2026-1502,2026-02-03,Singapore,Home & Kitchen,Blender,6,338.93,271.94,Amazon,Returned,Priya Gupta,Corporate,Asia,0.002,Debit Card,Economy,Pending,5.0,Meera
+ORD-2026-1835,2026-02-04,India,Books,Self-Help Book,3,55.73,32.71,Amazon,Not Returned,Sarah Johnson,Corporate,Asia,0.0015,Cash On Delivery,Same Day,Delivered,5.0,Rahul
+ORD-2026-1024,2026-02-05,Germany,Beauty,Shampoo,5,149.49,116.81,Shopify,Not Returned,Daniel Anderson,Wholesale,Europe,0.0002,Cash On Delivery,Same Day,Delivered,4.0,Aisha
+ORD-2026-1910,2026-02-06,Singapore,Fashion,Sneakers,7,131.4,79.0,Shopify,Not Returned,Vikram Davis,Wholesale,Asia,0.001,Credit Card,Standard,Delivered,4.0,Emma
+ORD-2026-1018,2026-02-07,Germany,Fashion,Jacket,3,174.49,106.44,Amazon,Not Returned,Ryan Lee,Consumer,Europe,0.0005,Credit Card,Express,Cancelled,4.0,Vikram
+ORD-2026-1632,2026-02-07,Japan,Books,Children's Book,6,36.68,20.34,Amazon,Not Returned,Mia Williams,Corporate,Asia,0.002,Upi,Standard,Delivered,4.0,Aisha
+ORD-2026-1598,2026-02-07,USA,Books,Business Book,7,60.78,44.3,Shopify,Not Returned,Robert Mehta,Consumer,North America,0.0008,Debit Card,Same Day,Delivered,5.0,Daniel
+ORD-2026-1673,2026-02-07,Canada,Electronics,Smartphone,4,1020.99,755.7,Ebay,Returned,Anna Patel,Premium,North America,0.002,Credit Card,Economy,Delivered,4.0,Priya
+ORD-2026-1071,2026-02-07,France,Beauty,Face Cream,1,179.76,139.17,Amazon,Not Returned,Noah Lee,Corporate,Europe,0.0008,Credit Card,Express,Delivered,5.0,Karan
+ORD-2026-1424,2026-02-08,Canada,Beauty,Skincare Set,11,67.72,47.71,Ebay,Not Returned,Aisha Smith,Premium,North America,0.0005,Credit Card,Same Day,Pending,5.0,Priya
+ORD-2026-1171,2026-02-09,Australia,Books,Cookbook,12,58.36,34.45,Amazon,Not Returned,John Verma,Wholesale,Oceania,0.0015,Credit Card,Standard,Delivered,4.0,Meera
+ORD-2026-1305,2026-02-10,Japan,Books,Novel,1,74.98,43.68,Shopify,Not Returned,Arjun Williams,Wholesale,Asia,0.0008,Upi,Standard,Cancelled,4.0,Priya
+ORD-2026-1701,2026-02-10,USA,Beauty,Lipstick,8,54.72,42.65,Ebay,Not Returned,Kavya Singh,Premium,North America,0.0005,Debit Card,Same Day,Delivered,4.0,Karan
+ORD-2026-1003,2026-02-10,Australia,Electronics,Headphones,6,1118.41,852.38,Ebay,Not Returned,Olivia Lee,Premium,Oceania,0.0015,Bank Transfer,Express,Delivered,5.0,Arjun
+ORD-2026-1685,2026-02-10,India,Beauty,Face Cream,8,16.29,10.22,Shopify,Not Returned,Anna Thomas,Premium,Asia,0.0015,Credit Card,Economy,Delivered,2.0,Daniel
+ORD-2026-1670,2026-02-10,Canada,Fashion,Jeans,9,216.29,164.48,Amazon,Not Returned,Michael Smith,Consumer,North America,0.0008,Credit Card,Economy,Delivered,3.0,Emma
+ORD-2026-1287,2026-02-10,UK,Home & Kitchen,Blender,7,324.85,224.63,Amazon,Not Returned,Ethan Verma,Premium,Europe,0.002,Upi,Same Day,Cancelled,4.0,Karan
+ORD-2026-1724,2026-02-10,USA,Home & Kitchen,Desk Lamp,7,204.22,129.81,Ebay,Returned,Aisha Mehta,Premium,North America,0.0008,Cash On Delivery,Express,Delivered,4.0,Rahul
+ORD-2026-1935,2026-02-11,Germany,Beauty,Perfume,2,128.55,86.35,Amazon,Not Returned,Neha Lee,Wholesale,Europe,0.0008,Cash On Delivery,Standard,Delivered,4.0,Meera
+ORD-2026-1693,2026-02-11,UK,Sports,Running Shoes,7,242.45,174.51,Shopify,Not Returned,Ava Anderson,Corporate,Europe,0.001,Bank Transfer,Economy,Delivered,4.0,Emma
+ORD-2026-1091,2026-02-12,UK,Fashion,T-Shirt,11,130.54,82.42,Amazon,Not Returned,Emma Wilson,Corporate,Europe,0.0,Paypal,Standard,Delivered,3.0,Emma
+ORD-2026-1289,2026-02-12,Germany,Home & Kitchen,Vacuum Cleaner,2,70.39,56.39,Amazon,Not Returned,Sofia Lee,Corporate,Europe,0.0008,Credit Card,Economy,Delivered,4.0,Karan
+ORD-2026-1185,2026-02-13,UK,Books,Cookbook,2,11.16,6.58,Ebay,Not Returned,Karan Anderson,Corporate,Europe,0.002,Cash On Delivery,Economy,Delivered,4.0,Arjun
+ORD-2026-1156,2026-02-13,Canada,Beauty,Lipstick,11,110.06,73.76,Amazon,Not Returned,Priya Williams,Premium,North America,0.0005,Upi,Economy,Pending,4.0,Emma
+ORD-2026-1711,2026-02-13,Germany,Electronics,Headphones,12,292.67,221.03,Amazon,Not Returned,Rahul Anderson,Wholesale,Europe,0.0015,Credit Card,Standard,Delivered,5.0,Vikram
+ORD-2026-1344,2026-02-14,India,Beauty,Lipstick,12,157.02,87.11,Shopify,Not Returned,Ryan Patel,Consumer,Asia,0.0005,Bank Transfer,Same Day,Pending,5.0,Aisha
+ORD-2026-1607,2026-02-14,Japan,Books,Self-Help Book,2,65.94,37.11,Shopify,Returned,Karan Wilson,Premium,Asia,0.002,Debit Card,Same Day,Delivered,5.0,Daniel
+ORD-2026-1953,2026-02-14,Canada,Electronics,Headphones,3,747.15,430.95,Amazon,Returned,Neha Gupta,Premium,North America,0.0005,Debit Card,Express,Delivered,5.0,Sofia
+ORD-2026-1596,2026-02-14,UAE,Home & Kitchen,Vacuum Cleaner,2,300.96,194.59,Amazon,Not Returned,Mia Sharma,Corporate,Middle East,0.001,Credit Card,Same Day,Delivered,4.0,Vikram
+ORD-2026-1836,2026-02-14,France,Sports,Dumbbells,5,302.32,180.92,Ebay,Returned,Sam Shah,Corporate,Europe,0.002,Bank Transfer,Standard,Delivered,5.0,Sofia
+ORD-2026-1479,2026-02-15,UAE,Fashion,Jacket,5,40.94,33.32,Amazon,Not Returned,Liam Miller,Corporate,Middle East,0.001,Credit Card,Same Day,Delivered,4.0,Daniel
+ORD-2026-1222,2026-02-15,India,Electronics,Tablet,5,440.14,331.01,Amazon,Not Returned,Anna Miller,Wholesale,Asia,0.001,Paypal,Economy,Delivered,5.0,Sofia
+ORD-2026-1536,2026-02-15,France,Books,Cookbook,9,77.67,55.73,Amazon,Not Returned,James Williams,Corporate,Europe,0.0008,Upi,Express,Delivered,5.0,Rahul
+ORD-2026-1330,2026-02-16,Singapore,Electronics,Smartphone,8,1095.34,803.75,Shopify,Not Returned,Noah Mehta,Consumer,Asia,0.0002,Credit Card,Standard,Cancelled,4.0,Sofia
+ORD-2026-1907,2026-02-16,Singapore,Beauty,Skincare Set,12,105.23,76.26,Ebay,Not Returned,Sam Johnson,Consumer,Asia,0.001,Upi,Same Day,Delivered,4.0,Karan
+ORD-2026-1313,2026-02-16,UAE,Books,Business Book,3,11.64,8.61,Amazon,Not Returned,Leo Smith,Wholesale,Middle East,0.0008,Debit Card,Express,Pending,5.0,Meera
+ORD-2026-1731,2026-02-16,France,Sports,Dumbbells,2,132.68,91.61,Amazon,Refunded,Rohan Mehta,Premium,Europe,0.0015,Bank Transfer,Standard,Delivered,3.0,Daniel
+ORD-2026-1450,2026-02-17,Singapore,Fashion,Jeans,10,117.31,87.62,Amazon,Not Returned,David Johnson,Wholesale,Asia,0.002,Cash On Delivery,Express,Delivered,5.0,Daniel
+ORD-2026-1170,2026-02-17,Singapore,Electronics,Tablet,4,1792.59,1421.21,Ebay,Returned,Mia Brown,Consumer,Asia,0.0015,Upi,Express,Delivered,5.0,Aisha
+ORD-2026-1512,2026-02-17,Germany,Beauty,Face Cream,9,75.69,50.14,Amazon,Not Returned,Karan Thomas,Corporate,Europe,0.0005,Credit Card,Economy,Delivered,5.0,Aisha
+ORD-2026-1297,2026-02-18,Australia,Electronics,Laptop,12,508.22,381.86,Ebay,Refunded,Aisha Taylor,Wholesale,Oceania,0.0008,Cash On Delivery,Same Day,Delivered,3.0,Meera
+ORD-2026-1144,2026-02-18,UAE,Beauty,Face Cream,11,11.61,6.63,Ebay,Not Returned,Aditya Verma,Corporate,Middle East,0.0008,Cash On Delivery,Economy,Delivered,4.0,Karan
+ORD-2026-1311,2026-02-18,Germany,Books,Novel,12,31.38,20.86,Ebay,Not Returned,Liam Patel,Wholesale,Europe,0.0008,Credit Card,Standard,Delivered,5.0,Meera
+ORD-2026-1847,2026-02-19,Singapore,Home & Kitchen,Air Fryer,8,175.2,140.14,Amazon,Not Returned,Rohan Sharma,Consumer,Asia,0.001,Credit Card,Same Day,Delivered,2.0,Arjun
+ORD-2026-1756,2026-02-19,India,Fashion,Jeans,12,132.87,78.45,Shopify,Not Returned,Aisha Shah,Consumer,Asia,0.001,Bank Transfer,Same Day,Delivered,5.0,Daniel
+ORD-2026-1522,2026-02-19,USA,Electronics,Tablet,1,1781.58,1106.6,Ebay,Not Returned,Neha Mehta,Consumer,North America,0.0002,Paypal,Standard,Delivered,5.0,Meera
+ORD-2026-1666,2026-02-19,Canada,Sports,Sports Bag,6,212.88,163.7,Ebay,Returned,Karan Taylor,Wholesale,North America,0.0,Upi,Express,Delivered,3.0,Emma
+ORD-2026-1058,2026-02-20,Singapore,Sports,Yoga Mat,10,42.58,30.2,Ebay,Not Returned,Karan Wilson,Corporate,Asia,0.0005,Cash On Delivery,Same Day,Pending,4.0,Aisha
+ORD-2026-1463,2026-02-20,USA,Home & Kitchen,Coffee Maker,4,457.72,259.58,Amazon,Not Returned,Mia Johnson,Corporate,North America,0.0005,Credit Card,Express,Delivered,4.0,Sofia
+ORD-2026-1072,2026-02-20,Japan,Books,Children's Book,9,59.28,37.6,Ebay,Not Returned,Vikram Thomas,Corporate,Asia,0.001,Paypal,Economy,Delivered,5.0,Emma
+ORD-2026-1210,2026-02-20,Singapore,Fashion,Backpack,1,97.71,74.07,Amazon,Not Returned,Ananya Smith,Wholesale,Asia,0.0005,Upi,Same Day,Delivered,5.0,Rahul
+ORD-2026-1460,2026-02-21,UK,Sports,Running Shoes,5,247.93,135.33,Shopify,Not Returned,Sam Smith,Corporate,Europe,0.0008,Debit Card,Standard,Delivered,5.0,Aisha
+ORD-2026-1173,2026-02-21,UK,Beauty,Shampoo,12,46.22,34.41,Amazon,Not Returned,Vikram Martin,Wholesale,Europe,0.0008,Upi,Economy,Delivered,4.0,Meera
+ORD-2026-1088,2026-02-21,Canada,Fashion,Sneakers,4,98.6,73.93,Ebay,Not Returned,Sarah Anderson,Consumer,North America,0.0002,Cash On Delivery,Same Day,Delivered,3.0,Priya
+ORD-2026-1790,2026-02-21,USA,Sports,Dumbbells,8,104.24,57.71,Shopify,Not Returned,Mia Smith,Consumer,North America,0.0008,Paypal,Same Day,Delivered,4.0,Emma
+ORD-2026-1590,2026-02-22,France,Fashion,Jacket,3,76.08,51.97,Ebay,Not Returned,Olivia Kumar,Wholesale,Europe,0.0005,Debit Card,Standard,Delivered,5.0,Emma
+ORD-2026-1524,2026-02-22,Germany,Electronics,Headphones,11,1153.12,614.82,Ebay,Not Returned,Sarah Martin,Corporate,Europe,0.0002,Upi,Standard,Delivered,4.0,Priya
+ORD-2026-1227,2026-02-23,UK,Home & Kitchen,Coffee Maker,5,224.91,123.77,Ebay,Not Returned,Anna Kumar,Premium,Europe,0.001,Credit Card,Standard,Delivered,3.0,Sofia
+ORD-2026-1865,2026-02-24,Germany,Beauty,Skincare Set,12,94.85,61.7,Amazon,Refunded,Noah Taylor,Premium,Europe,0.002,Debit Card,Express,Delivered,2.0,Vikram
+ORD-2026-1662,2026-02-24,Singapore,Fashion,Backpack,11,43.0,29.96,Shopify,Not Returned,Ava Miller,Corporate,Asia,0.0005,Credit Card,Same Day,Delivered,5.0,Sofia
+ORD-2026-1216,2026-02-25,USA,Electronics,Smartwatch,11,1742.35,1344.77,Shopify,Not Returned,Rahul Johnson,Premium,North America,0.001,Cash On Delivery,Same Day,Delivered,4.0,Karan
+ORD-2026-1495,2026-02-25,Australia,Sports,Sports Bag,2,132.07,105.82,Amazon,Not Returned,Aarav Lee,Consumer,Oceania,0.002,Bank Transfer,Express,Delivered,5.0,Priya
+ORD-2026-1571,2026-02-25,India,Home & Kitchen,Blender,4,248.58,157.18,Shopify,Not Returned,Maya Mehta,Corporate,Asia,0.0005,Upi,Economy,Delivered,5.0,Aisha
+ORD-2026-1319,2026-02-25,France,Electronics,Tablet,11,1705.7,921.04,Amazon,Returned,Olivia Davis,Corporate,Europe,0.0015,Paypal,Standard,Delivered,5.0,Meera
+ORD-2026-1714,2026-02-25,Canada,Sports,Yoga Mat,8,93.94,76.33,Ebay,Not Returned,Liam Johnson,Corporate,North America,0.0008,Cash On Delivery,Standard,Delivered,4.0,Arjun
+ORD-2026-2000,2026-02-25,Canada,Home & Kitchen,Coffee Maker,2,172.83,93.55,Ebay,Not Returned,Olivia Verma,Corporate,North America,0.0,Paypal,Economy,Delivered,5.0,Meera
+ORD-2026-1851,2026-02-26,USA,Fashion,T-Shirt,3,51.04,31.14,Ebay,Not Returned,Meera Johnson,Premium,North America,0.0008,Cash On Delivery,Standard,Cancelled,4.0,Meera
+ORD-2026-1354,2026-02-26,UAE,Beauty,Perfume,5,20.61,16.29,Shopify,Not Returned,Vivaan Verma,Wholesale,Middle East,0.0,Cash On Delivery,Economy,Delivered,5.0,Meera
+ORD-2026-1021,2026-02-27,India,Electronics,Headphones,3,1175.84,703.84,Amazon,Not Returned,Priya Thomas,Consumer,Asia,0.0015,Upi,Express,Delivered,5.0,Rahul
+ORD-2026-1814,2026-02-27,Germany,Fashion,Jacket,6,97.51,63.51,Amazon,Refunded,John Smith,Premium,Europe,0.0005,Bank Transfer,Express,Delivered,4.0,Rahul
+ORD-2026-1157,2026-02-28,UAE,Beauty,Shampoo,8,26.6,19.59,Amazon,Not Returned,Ethan Kumar,Corporate,Middle East,0.0008,Cash On Delivery,Express,Delivered,5.0,Vikram
+ORD-2026-1771,2026-03-01,Japan,Sports,Fitness Band,8,52.43,41.13,Shopify,Not Returned,Rohan Taylor,Corporate,Asia,0.0,Credit Card,Express,Delivered,3.0,Priya
+ORD-2026-1583,2026-03-02,India,Sports,Fitness Band,9,253.56,171.79,Amazon,Not Returned,Kavya Patel,Corporate,Asia,0.0005,Upi,Standard,Delivered,4.0,Daniel
+ORD-2026-1789,2026-03-03,Australia,Sports,Yoga Mat,2,339.85,228.38,Shopify,Not Returned,Robert Williams,Premium,Oceania,0.001,Paypal,Express,Delivered,5.0,Emma
+ORD-2026-1404,2026-03-03,USA,Sports,Dumbbells,10,178.56,116.21,Shopify,Not Returned,David Martin,Consumer,North America,0.0005,Upi,Express,Delivered,5.0,Priya
+ORD-2026-1376,2026-03-03,Japan,Sports,Running Shoes,2,285.47,184.95,Ebay,Not Returned,James Thomas,Corporate,Asia,0.002,Upi,Express,Delivered,4.0,Aisha
+ORD-2026-1430,2026-03-03,Australia,Fashion,T-Shirt,7,236.93,174.68,Ebay,Not Returned,John Anderson,Premium,Oceania,0.0002,Paypal,Standard,Delivered,4.0,Emma
+ORD-2026-1030,2026-03-04,India,Electronics,Tablet,4,382.53,308.85,Shopify,Not Returned,Ananya Wilson,Premium,Asia,0.001,Paypal,Economy,Delivered,5.0,Vikram
+ORD-2026-1617,2026-03-05,Canada,Home & Kitchen,Air Fryer,11,299.0,156.77,Ebay,Not Returned,Sam Wilson,Wholesale,North America,0.002,Paypal,Same Day,Delivered,4.0,Meera
+ORD-2026-1533,2026-03-05,Australia,Books,Cookbook,7,43.25,30.81,Shopify,Returned,James Mehta,Corporate,Oceania,0.001,Paypal,Same Day,Delivered,5.0,Meera
+ORD-2026-1963,2026-03-05,UAE,Fashion,Backpack,3,113.04,78.81,Ebay,Not Returned,Ava Brown,Wholesale,Middle East,0.001,Credit Card,Standard,Delivered,5.0,Rahul
+ORD-2026-1684,2026-03-05,Japan,Beauty,Face Cream,10,56.63,34.01,Shopify,Not Returned,James Johnson,Premium,Asia,0.0005,Debit Card,Economy,Delivered,5.0,Sofia
+ORD-2026-1068,2026-03-06,Germany,Electronics,Tablet,2,1219.96,869.24,Ebay,Not Returned,Aisha Singh,Corporate,Europe,0.001,Bank Transfer,Express,Pending,4.0,Emma
+ORD-2026-1675,2026-03-06,Germany,Sports,Sports Bag,7,245.04,181.67,Shopify,Not Returned,Leo Thomas,Corporate,Europe,0.001,Credit Card,Economy,Delivered,4.0,Arjun
+ORD-2026-1036,2026-03-06,Germany,Books,Novel,11,10.9,5.77,Shopify,Not Returned,Vikram Martin,Corporate,Europe,0.0002,Paypal,Same Day,Delivered,3.0,Meera
+ORD-2026-1529,2026-03-06,Singapore,Books,Novel,2,70.63,38.21,Amazon,Refunded,Isha Martin,Corporate,Asia,0.0002,Debit Card,Standard,Delivered,5.0,Rahul
+ORD-2026-1087,2026-03-07,France,Books,Self-Help Book,3,50.84,40.74,Ebay,Not Returned,Michael Singh,Wholesale,Europe,0.0005,Bank Transfer,Same Day,Delivered,4.0,Aisha
+ORD-2026-1795,2026-03-07,Australia,Sports,Fitness Band,3,302.78,230.97,Shopify,Not Returned,Sarah Williams,Consumer,Oceania,0.0,Paypal,Economy,Delivered,5.0,Priya
+ORD-2026-1246,2026-03-08,Singapore,Home & Kitchen,Coffee Maker,3,482.18,357.07,Amazon,Not Returned,John Brown,Consumer,Asia,0.0,Upi,Economy,Delivered,5.0,Daniel
+ORD-2026-1581,2026-03-08,Australia,Electronics,Tablet,7,980.87,790.32,Shopify,Not Returned,Aditya Martin,Consumer,Oceania,0.002,Cash On Delivery,Express,Delivered,5.0,Rahul
+ORD-2026-1923,2026-03-09,UK,Fashion,Jeans,1,135.21,106.61,Amazon,Not Returned,Robert Williams,Premium,Europe,0.0008,Paypal,Express,Delivered,3.0,Sofia
+ORD-2026-1283,2026-03-09,UK,Beauty,Lipstick,4,81.25,60.58,Ebay,Not Returned,Kavya Kumar,Premium,Europe,0.0005,Debit Card,Economy,Delivered,3.0,Rahul
+ORD-2026-1449,2026-03-09,Australia,Fashion,Sneakers,2,88.67,67.42,Shopify,Not Returned,Karan Williams,Corporate,Oceania,0.0015,Paypal,Economy,Delivered,5.0,Rahul
+ORD-2026-1977,2026-03-10,India,Books,Business Book,4,67.56,39.14,Amazon,Not Returned,Vikram Shah,Premium,Asia,0.0005,Cash On Delivery,Same Day,Delivered,4.0,Rahul
+ORD-2026-1818,2026-03-10,Canada,Fashion,Jacket,6,103.84,82.83,Shopify,Not Returned,Sneha Thomas,Corporate,North America,0.0002,Credit Card,Economy,Delivered,5.0,Vikram
+ORD-2026-1719,2026-03-11,France,Sports,Running Shoes,10,334.16,210.98,Amazon,Not Returned,Michael Taylor,Consumer,Europe,0.001,Upi,Economy,Delivered,5.0,Daniel
+ORD-2026-1166,2026-03-11,UAE,Home & Kitchen,Blender,12,164.0,113.46,Shopify,Returned,Arjun Brown,Corporate,Middle East,0.002,Cash On Delivery,Express,Delivered,5.0,Emma
+ORD-2026-1314,2026-03-11,USA,Beauty,Skincare Set,12,18.38,11.76,Shopify,Not Returned,Emily Shah,Wholesale,North America,0.0,Paypal,Express,Delivered,5.0,Vikram
+ORD-2026-1723,2026-03-12,Germany,Home & Kitchen,Coffee Maker,10,94.58,53.86,Ebay,Not Returned,Maya Miller,Wholesale,Europe,0.002,Upi,Same Day,Delivered,5.0,Vikram
+ORD-2026-1121,2026-03-12,India,Books,Children's Book,4,53.93,28.89,Amazon,Not Returned,Emily Mehta,Wholesale,Asia,0.0008,Cash On Delivery,Economy,Delivered,5.0,Sofia
+ORD-2026-1117,2026-03-12,UK,Beauty,Perfume,7,95.31,67.05,Ebay,Not Returned,Aisha Thomas,Premium,Europe,0.0008,Cash On Delivery,Economy,Delivered,3.0,Vikram
+ORD-2026-1230,2026-03-12,India,Fashion,Backpack,11,91.92,68.16,Ebay,Returned,Neha Johnson,Premium,Asia,0.0,Paypal,Same Day,Delivered,1.0,Arjun
+ORD-2026-1782,2026-03-13,Canada,Beauty,Perfume,8,71.57,41.49,Amazon,Not Returned,Ava Miller,Wholesale,North America,0.0015,Paypal,Standard,Delivered,5.0,Vikram
+ORD-2026-1781,2026-03-13,USA,Beauty,Perfume,6,107.36,80.4,Amazon,Not Returned,Noah Williams,Wholesale,North America,0.0005,Cash On Delivery,Express,Delivered,5.0,Daniel
+ORD-2026-1258,2026-03-13,Singapore,Beauty,Shampoo,5,92.79,51.28,Ebay,Returned,Meera Brown,Consumer,Asia,0.0015,Cash On Delivery,Standard,Delivered,5.0,Aisha
+ORD-2026-1541,2026-03-13,Japan,Electronics,Headphones,6,1466.78,764.08,Amazon,Not Returned,Robert Kumar,Premium,Asia,0.002,Cash On Delivery,Express,Delivered,5.0,Meera
+ORD-2026-1133,2026-03-13,Japan,Books,Novel,4,61.32,39.29,Ebay,Not Returned,Olivia Verma,Premium,Asia,0.0002,Bank Transfer,Same Day,Delivered,5.0,Emma
+ORD-2026-1739,2026-03-13,India,Home & Kitchen,Desk Lamp,3,463.12,364.0,Amazon,Not Returned,Ethan Patel,Consumer,Asia,0.0015,Upi,Express,Pending,5.0,Meera
+ORD-2026-1874,2026-03-13,Canada,Sports,Sports Bag,1,311.48,167.19,Amazon,Not Returned,Karan Anderson,Corporate,North America,0.0015,Cash On Delivery,Express,Delivered,5.0,Arjun
+ORD-2026-1048,2026-03-14,Germany,Fashion,Jeans,11,204.9,118.71,Amazon,Not Returned,Arjun Mehta,Premium,Europe,0.0,Bank Transfer,Same Day,Delivered,5.0,Sofia
+ORD-2026-1006,2026-03-15,France,Electronics,Smartphone,10,1587.35,975.27,Shopify,Returned,Ananya Verma,Premium,Europe,0.0015,Cash On Delivery,Economy,Delivered,5.0,Priya
+ORD-2026-1221,2026-03-15,France,Beauty,Face Cream,3,33.35,19.35,Shopify,Returned,Isha Singh,Wholesale,Europe,0.0008,Upi,Express,Pending,5.0,Meera
+ORD-2026-1625,2026-03-15,Germany,Sports,Running Shoes,12,277.41,209.67,Ebay,Not Returned,Vivaan Martin,Consumer,Europe,0.002,Credit Card,Economy,Delivered,3.0,Priya
+ORD-2026-1840,2026-03-15,USA,Books,Novel,7,45.3,23.79,Amazon,Refunded,Kavya Sharma,Wholesale,North America,0.0015,Credit Card,Standard,Delivered,4.0,Rahul
+ORD-2026-1597,2026-03-15,Singapore,Home & Kitchen,Coffee Maker,1,457.9,287.68,Ebay,Not Returned,Ava Verma,Corporate,Asia,0.002,Debit Card,Standard,Delivered,4.0,Daniel
+ORD-2026-1431,2026-03-15,Japan,Electronics,Headphones,6,1511.61,1120.36,Amazon,Not Returned,Isha Shah,Premium,Asia,0.002,Paypal,Economy,Delivered,4.0,Karan
+ORD-2026-1763,2026-03-16,France,Beauty,Face Cream,6,77.9,62.18,Shopify,Not Returned,John Kumar,Corporate,Europe,0.0015,Upi,Economy,Delivered,3.0,Meera
+ORD-2026-1826,2026-03-18,USA,Books,Business Book,10,34.94,20.02,Shopify,Returned,Vivaan Lee,Consumer,North America,0.0008,Bank Transfer,Standard,Delivered,3.0,Karan
+ORD-2026-1380,2026-03-18,USA,Sports,Dumbbells,9,187.49,123.61,Ebay,Not Returned,Alex Taylor,Corporate,North America,0.0015,Debit Card,Standard,Delivered,3.0,Aisha
+ORD-2026-1345,2026-03-18,Japan,Fashion,Sneakers,6,66.13,40.07,Amazon,Not Returned,Emma Kumar,Consumer,Asia,0.001,Bank Transfer,Standard,Delivered,3.0,Emma
+ORD-2026-1503,2026-03-18,Canada,Sports,Fitness Band,11,100.7,53.76,Shopify,Returned,Sneha Patel,Premium,North America,0.001,Debit Card,Economy,Delivered,4.0,Emma
+ORD-2026-1615,2026-03-19,Japan,Sports,Running Shoes,6,239.14,183.43,Shopify,Not Returned,Priya Taylor,Premium,Asia,0.0015,Credit Card,Economy,Delivered,4.0,Karan
+ORD-2026-1728,2026-03-20,Singapore,Beauty,Perfume,8,137.49,98.2,Ebay,Not Returned,Isha Gupta,Consumer,Asia,0.001,Paypal,Standard,Delivered,2.0,Aisha
+ORD-2026-1270,2026-03-21,India,Sports,Sports Bag,2,191.52,121.14,Shopify,Not Returned,John Brown,Premium,Asia,0.0002,Bank Transfer,Economy,Delivered,4.0,Priya
+ORD-2026-1564,2026-03-21,Canada,Books,Children's Book,9,50.81,39.37,Ebay,Not Returned,Ananya Gupta,Wholesale,North America,0.0008,Bank Transfer,Same Day,Delivered,5.0,Aisha
+ORD-2026-1532,2026-03-21,Australia,Beauty,Shampoo,8,58.15,40.04,Amazon,Not Returned,Aarav Sharma,Premium,Oceania,0.0008,Paypal,Economy,Delivered,4.0,Rahul
+ORD-2026-1755,2026-03-21,Canada,Electronics,Smartphone,12,1773.97,1118.94,Ebay,Not Returned,John Mehta,Premium,North America,0.0005,Bank Transfer,Economy,Delivered,4.0,Rahul
+ORD-2026-1709,2026-03-22,USA,Books,Cookbook,6,63.21,43.35,Ebay,Not Returned,Grace Verma,Premium,North America,0.0015,Debit Card,Same Day,Delivered,4.0,Meera
+ORD-2026-1919,2026-03-22,Singapore,Beauty,Lipstick,7,25.21,15.04,Amazon,Returned,Kavya Martin,Corporate,Asia,0.0002,Credit Card,Economy,Delivered,4.0,Meera
+ORD-2026-1110,2026-03-23,USA,Fashion,Jacket,4,52.4,28.04,Shopify,Not Returned,James Johnson,Corporate,North America,0.0008,Debit Card,Economy,Delivered,5.0,Vikram
+ORD-2026-1387,2026-03-24,India,Books,Self-Help Book,4,17.56,10.69,Ebay,Not Returned,Ryan Martin,Consumer,Asia,0.0015,Paypal,Economy,Pending,5.0,Daniel
+ORD-2026-1804,2026-03-24,UAE,Books,Cookbook,4,74.46,52.42,Amazon,Not Returned,Grace Mehta,Wholesale,Middle East,0.0,Paypal,Express,Delivered,3.0,Emma
+ORD-2026-1802,2026-03-27,Japan,Home & Kitchen,Desk Lamp,9,274.4,208.57,Shopify,Not Returned,Neha Kumar,Corporate,Asia,0.0005,Cash On Delivery,Express,Delivered,5.0,Daniel
+ORD-2026-1717,2026-03-27,UAE,Sports,Yoga Mat,2,160.48,87.18,Amazon,Not Returned,Maya Kumar,Consumer,Middle East,0.0002,Paypal,Economy,Delivered,5.0,Daniel
+ORD-2026-1288,2026-03-27,Japan,Books,Self-Help Book,5,71.91,54.24,Amazon,Not Returned,Vivaan Gupta,Corporate,Asia,0.0005,Cash On Delivery,Same Day,Delivered,4.0,Arjun
+ORD-2026-1265,2026-03-27,India,Home & Kitchen,Coffee Maker,3,297.41,169.03,Shopify,Returned,Isha Anderson,Wholesale,Asia,0.0015,Bank Transfer,Standard,Delivered,3.0,Karan
+ORD-2026-1163,2026-03-28,Singapore,Beauty,Perfume,2,106.12,80.52,Shopify,Not Returned,James Taylor,Consumer,Asia,0.0002,Bank Transfer,Standard,Delivered,4.0,Karan
+ORD-2026-1081,2026-03-28,Australia,Electronics,Smartphone,7,1092.86,740.07,Amazon,Not Returned,David Kumar,Corporate,Oceania,0.0008,Upi,Same Day,Delivered,4.0,Daniel
+ORD-2026-1415,2026-03-28,Singapore,Sports,Yoga Mat,2,67.31,43.09,Amazon,Not Returned,Mia Shah,Premium,Asia,0.001,Debit Card,Economy,Pending,5.0,Arjun
+ORD-2026-1917,2026-03-28,UAE,Sports,Fitness Band,8,220.16,139.12,Shopify,Returned,Aisha Shah,Premium,Middle East,0.0015,Upi,Economy,Delivered,5.0,Karan
+ORD-2026-1028,2026-03-28,France,Home & Kitchen,Vacuum Cleaner,10,313.16,193.12,Ebay,Not Returned,Rohan Smith,Premium,Europe,0.0008,Credit Card,Express,Delivered,4.0,Karan
+ORD-2026-1059,2026-03-29,India,Fashion,T-Shirt,5,102.45,66.51,Amazon,Not Returned,Rohan Lee,Wholesale,Asia,0.0002,Bank Transfer,Express,Delivered,5.0,Sofia
+ORD-2026-1201,2026-03-29,Germany,Home & Kitchen,Vacuum Cleaner,2,404.62,214.46,Shopify,Refunded,Neha Singh,Consumer,Europe,0.0,Upi,Economy,Delivered,3.0,Aisha
+ORD-2026-1384,2026-03-29,France,Home & Kitchen,Blender,3,40.24,27.79,Shopify,Returned,Kavya Smith,Corporate,Europe,0.0005,Cash On Delivery,Express,Delivered,4.0,Priya
+ORD-2026-1523,2026-03-30,Canada,Sports,Running Shoes,10,88.35,60.3,Amazon,Not Returned,Grace Johnson,Consumer,North America,0.0008,Paypal,Express,Delivered,4.0,Sofia
+ORD-2026-1986,2026-03-31,USA,Sports,Running Shoes,10,240.49,164.02,Shopify,Returned,David Lee,Consumer,North America,0.0005,Upi,Economy,Delivered,3.0,Sofia
+ORD-2026-1027,2026-03-31,UAE,Fashion,Jacket,6,112.55,68.51,Ebay,Not Returned,James Smith,Wholesale,Middle East,0.0002,Bank Transfer,Standard,Delivered,4.0,Karan
+ORD-2026-1361,2026-03-31,UK,Sports,Yoga Mat,5,103.18,72.72,Ebay,Not Returned,Priya Wilson,Premium,Europe,0.0005,Debit Card,Same Day,Delivered,3.0,Emma
+ORD-2026-1921,2026-04-01,Germany,Beauty,Shampoo,3,98.49,58.06,Shopify,Not Returned,Emily Taylor,Wholesale,Europe,0.0,Debit Card,Express,Delivered,5.0,Aisha
+ORD-2026-1585,2026-04-01,Australia,Sports,Dumbbells,6,345.14,244.29,Shopify,Not Returned,Vivaan Thomas,Consumer,Oceania,0.0,Cash On Delivery,Economy,Delivered,5.0,Karan
+ORD-2026-1587,2026-04-01,UK,Beauty,Perfume,3,42.11,28.09,Shopify,Not Returned,Robert Shah,Consumer,Europe,0.0015,Debit Card,Standard,Delivered,4.0,Rahul
+ORD-2026-1733,2026-04-01,France,Home & Kitchen,Desk Lamp,6,221.64,170.79,Shopify,Not Returned,Sofia Wilson,Premium,Europe,0.0005,Credit Card,Economy,Cancelled,4.0,Meera
+ORD-2026-1368,2026-04-02,France,Home & Kitchen,Coffee Maker,5,394.13,250.21,Shopify,Not Returned,Rahul Taylor,Corporate,Europe,0.0005,Bank Transfer,Economy,Pending,5.0,Daniel
+ORD-2026-1627,2026-04-02,Germany,Books,Self-Help Book,7,72.06,51.17,Ebay,Not Returned,James Lee,Consumer,Europe,0.0008,Credit Card,Same Day,Delivered,1.0,Meera
+ORD-2026-1142,2026-04-02,India,Sports,Dumbbells,9,342.57,179.9,Amazon,Not Returned,Karan Anderson,Corporate,Asia,0.002,Debit Card,Express,Delivered,5.0,Priya
+ORD-2026-1822,2026-04-02,Japan,Electronics,Laptop,10,189.44,122.02,Amazon,Not Returned,Vivaan Taylor,Consumer,Asia,0.0002,Upi,Standard,Delivered,5.0,Arjun
+ORD-2026-1504,2026-04-02,USA,Beauty,Skincare Set,2,38.46,24.48,Shopify,Not Returned,Mia Anderson,Wholesale,North America,0.0015,Cash On Delivery,Economy,Delivered,4.0,Sofia
+ORD-2026-1448,2026-04-02,India,Books,Cookbook,6,65.47,48.65,Amazon,Not Returned,Grace Singh,Consumer,Asia,0.001,Debit Card,Express,Pending,4.0,Rahul
+ORD-2026-1365,2026-04-03,Japan,Beauty,Lipstick,11,137.35,101.68,Shopify,Not Returned,Emily Sharma,Consumer,Asia,0.001,Credit Card,Standard,Delivered,5.0,Rahul
+ORD-2026-1337,2026-04-03,UAE,Sports,Sports Bag,6,325.94,229.56,Ebay,Not Returned,Kavya Smith,Corporate,Middle East,0.0008,Credit Card,Standard,Delivered,4.0,Aisha
+ORD-2026-1307,2026-04-03,UAE,Beauty,Face Cream,11,108.02,78.03,Ebay,Returned,Grace Anderson,Premium,Middle East,0.0015,Cash On Delivery,Express,Delivered,3.0,Vikram
+ORD-2026-1577,2026-04-04,UAE,Beauty,Face Cream,5,28.71,18.06,Amazon,Not Returned,Aarav Patel,Premium,Middle East,0.0005,Debit Card,Same Day,Delivered,5.0,Sofia
+ORD-2026-1901,2026-04-05,UK,Books,Business Book,8,55.51,37.96,Ebay,Not Returned,Ava Kumar,Consumer,Europe,0.001,Debit Card,Express,Delivered,5.0,Daniel
+ORD-2026-1646,2026-04-05,France,Beauty,Perfume,3,143.57,89.63,Ebay,Not Returned,Anna Taylor,Premium,Europe,0.0005,Cash On Delivery,Express,Delivered,1.0,Daniel
+ORD-2026-1859,2026-04-06,UK,Home & Kitchen,Blender,3,442.13,306.23,Shopify,Not Returned,Kavya Mehta,Wholesale,Europe,0.0002,Cash On Delivery,Same Day,Delivered,3.0,Priya
+ORD-2026-1159,2026-04-06,India,Books,Business Book,4,28.04,20.5,Shopify,Not Returned,Noah Shah,Wholesale,Asia,0.002,Credit Card,Same Day,Delivered,5.0,Sofia
+ORD-2026-1825,2026-04-07,India,Electronics,Headphones,7,606.77,461.15,Ebay,Returned,Anna Taylor,Corporate,Asia,0.001,Bank Transfer,Express,Delivered,5.0,Meera
+ORD-2026-1891,2026-04-07,Japan,Fashion,Jacket,12,192.86,106.44,Ebay,Not Returned,Aarav Anderson,Consumer,Asia,0.0015,Paypal,Express,Delivered,5.0,Arjun
+ORD-2026-1407,2026-04-07,UAE,Fashion,Backpack,8,114.76,91.38,Ebay,Not Returned,Anna Anderson,Consumer,Middle East,0.0002,Paypal,Economy,Delivered,4.0,Arjun
+ORD-2026-1831,2026-04-07,Japan,Books,Children's Book,9,20.48,12.58,Shopify,Not Returned,Sarah Patel,Wholesale,Asia,0.0,Cash On Delivery,Express,Delivered,4.0,Vikram
+ORD-2026-1954,2026-04-08,Canada,Electronics,Headphones,7,1443.38,937.79,Ebay,Not Returned,Alex Martin,Consumer,North America,0.002,Cash On Delivery,Express,Delivered,4.0,Sofia
+ORD-2026-1844,2026-04-08,Singapore,Beauty,Lipstick,6,67.43,48.52,Ebay,Not Returned,Meera Lee,Premium,Asia,0.0002,Paypal,Economy,Delivered,4.0,Meera
+ORD-2026-1732,2026-04-08,India,Home & Kitchen,Blender,8,63.61,46.9,Ebay,Not Returned,Ananya Smith,Consumer,Asia,0.0002,Paypal,Same Day,Delivered,5.0,Daniel
+ORD-2026-1862,2026-04-08,France,Books,Cookbook,8,33.78,25.78,Amazon,Not Returned,John Mehta,Consumer,Europe,0.0005,Cash On Delivery,Same Day,Delivered,4.0,Rahul
+ORD-2026-1124,2026-04-09,UK,Books,Self-Help Book,11,26.52,15.27,Amazon,Not Returned,Anna Davis,Wholesale,Europe,0.0015,Bank Transfer,Same Day,Delivered,5.0,Arjun
+ORD-2026-1580,2026-04-09,USA,Sports,Sports Bag,6,119.49,79.13,Shopify,Not Returned,Emily Brown,Premium,North America,0.002,Upi,Economy,Delivered,2.0,Arjun
+ORD-2026-1628,2026-04-09,Singapore,Sports,Sports Bag,9,21.65,14.65,Ebay,Not Returned,Vivaan Thomas,Consumer,Asia,0.0005,Bank Transfer,Express,Cancelled,4.0,Emma
+ORD-2026-1538,2026-04-09,Singapore,Home & Kitchen,Desk Lamp,2,239.06,182.72,Shopify,Not Returned,Ava Wilson,Consumer,Asia,0.0002,Cash On Delivery,Express,Delivered,5.0,Arjun
+ORD-2026-1726,2026-04-10,Germany,Sports,Sports Bag,4,146.21,83.88,Amazon,Not Returned,John Smith,Premium,Europe,0.0015,Credit Card,Same Day,Pending,4.0,Karan
+ORD-2026-1801,2026-04-10,Singapore,Beauty,Skincare Set,2,174.27,141.42,Amazon,Refunded,Kavya Sharma,Corporate,Asia,0.0002,Cash On Delivery,Same Day,Delivered,5.0,Vikram
+ORD-2026-1256,2026-04-10,USA,Home & Kitchen,Desk Lamp,8,476.98,299.13,Shopify,Not Returned,Sam Wilson,Premium,North America,0.0015,Bank Transfer,Same Day,Delivered,5.0,Priya
+ORD-2026-1864,2026-04-12,Australia,Books,Business Book,3,50.69,29.16,Amazon,Not Returned,Sam Davis,Corporate,Oceania,0.0,Upi,Same Day,Delivered,4.0,Emma
+ORD-2026-1410,2026-04-13,USA,Fashion,T-Shirt,2,89.38,46.75,Amazon,Refunded,Daniel Sharma,Consumer,North America,0.0,Debit Card,Same Day,Delivered,4.0,Priya
+ORD-2026-1629,2026-04-13,Canada,Electronics,Smartphone,1,643.37,376.97,Amazon,Not Returned,Daniel Thomas,Premium,North America,0.0015,Paypal,Economy,Delivered,4.0,Rahul
+ORD-2026-1241,2026-04-13,Australia,Sports,Sports Bag,5,298.21,204.08,Amazon,Refunded,Anna Smith,Premium,Oceania,0.0005,Cash On Delivery,Express,Delivered,5.0,Daniel
+ORD-2026-1332,2026-04-14,India,Beauty,Shampoo,5,134.13,108.42,Amazon,Not Returned,Anna Brown,Consumer,Asia,0.0005,Paypal,Economy,Delivered,3.0,Sofia
+ORD-2026-1995,2026-04-15,Singapore,Sports,Yoga Mat,11,247.12,131.29,Amazon,Refunded,Aisha Williams,Corporate,Asia,0.0015,Bank Transfer,Same Day,Delivered,4.0,Priya
+ORD-2026-1679,2026-04-15,France,Fashion,Jeans,9,44.01,27.46,Amazon,Not Returned,Michael Verma,Premium,Europe,0.0008,Cash On Delivery,Express,Delivered,4.0,Arjun
+ORD-2026-1927,2026-04-15,Australia,Home & Kitchen,Air Fryer,1,452.74,358.16,Shopify,Not Returned,Ananya Miller,Consumer,Oceania,0.0005,Debit Card,Express,Delivered,4.0,Arjun
+ORD-2026-1392,2026-04-15,USA,Beauty,Perfume,5,172.9,93.9,Ebay,Not Returned,Vivaan Smith,Wholesale,North America,0.0002,Cash On Delivery,Express,Delivered,4.0,Sofia
+ORD-2026-1740,2026-04-15,Singapore,Beauty,Perfume,8,10.14,5.72,Shopify,Not Returned,Rohan Verma,Corporate,Asia,0.0002,Cash On Delivery,Same Day,Delivered,4.0,Aisha
+ORD-2026-1439,2026-04-16,Germany,Books,Business Book,4,76.12,58.16,Ebay,Not Returned,Aisha Smith,Corporate,Europe,0.0005,Paypal,Express,Delivered,3.0,Rahul
+ORD-2026-1832,2026-04-16,Canada,Books,Novel,4,15.1,12.16,Ebay,Not Returned,Anna Sharma,Consumer,North America,0.0002,Paypal,Express,Delivered,4.0,Arjun
+ORD-2026-1889,2026-04-16,UK,Sports,Dumbbells,9,228.79,170.09,Ebay,Not Returned,Grace Singh,Wholesale,Europe,0.002,Credit Card,Standard,Delivered,5.0,Vikram
+ORD-2026-1165,2026-04-16,USA,Home & Kitchen,Air Fryer,12,304.26,190.22,Amazon,Not Returned,Arjun Martin,Premium,North America,0.0015,Bank Transfer,Same Day,Delivered,5.0,Priya
+ORD-2026-1788,2026-04-17,Germany,Home & Kitchen,Blender,1,90.22,71.24,Shopify,Refunded,Arjun Wilson,Wholesale,Europe,0.0008,Paypal,Express,Delivered,2.0,Emma
+ORD-2026-1187,2026-04-17,Germany,Home & Kitchen,Desk Lamp,2,98.82,56.26,Shopify,Not Returned,Liam Wilson,Premium,Europe,0.0008,Credit Card,Standard,Delivered,4.0,Daniel
+ORD-2026-1974,2026-04-18,Canada,Electronics,Laptop,5,100.12,69.71,Amazon,Not Returned,Ethan Verma,Consumer,North America,0.0,Credit Card,Same Day,Pending,5.0,Priya
+ORD-2026-1484,2026-04-18,Japan,Electronics,Headphones,2,759.92,423.19,Ebay,Refunded,David Johnson,Premium,Asia,0.0002,Cash On Delivery,Same Day,Delivered,5.0,Sofia
+ORD-2026-1225,2026-04-19,Singapore,Fashion,Sneakers,3,238.06,189.37,Ebay,Not Returned,Vivaan Martin,Corporate,Asia,0.0008,Credit Card,Same Day,Delivered,5.0,Aisha
+ORD-2026-1040,2026-04-19,France,Beauty,Perfume,8,106.87,77.0,Shopify,Returned,Sofia Johnson,Premium,Europe,0.0005,Bank Transfer,Same Day,Delivered,3.0,Vikram
+ORD-2026-1743,2026-04-19,Canada,Sports,Yoga Mat,10,217.73,139.23,Shopify,Not Returned,Leo Singh,Premium,North America,0.0,Paypal,Express,Delivered,3.0,Rahul
+ORD-2026-1611,2026-04-19,USA,Home & Kitchen,Coffee Maker,7,389.9,226.08,Ebay,Not Returned,Alex Kumar,Premium,North America,0.0005,Paypal,Standard,Delivered,5.0,Vikram
+ORD-2026-1616,2026-04-22,UAE,Books,Novel,8,75.92,59.0,Ebay,Refunded,Meera Miller,Corporate,Middle East,0.0015,Bank Transfer,Economy,Delivered,3.0,Emma
+ORD-2026-1552,2026-04-22,Japan,Electronics,Headphones,8,1205.97,835.91,Ebay,Not Returned,Meera Sharma,Premium,Asia,0.0008,Cash On Delivery,Standard,Delivered,3.0,Daniel
+ORD-2026-1929,2026-04-22,Germany,Fashion,Jeans,3,22.54,12.41,Ebay,Not Returned,Michael Williams,Consumer,Europe,0.0015,Paypal,Economy,Delivered,2.0,Meera
+ORD-2026-1678,2026-04-23,USA,Fashion,Jeans,4,133.83,99.11,Shopify,Not Returned,Liam Williams,Premium,North America,0.0005,Cash On Delivery,Express,Cancelled,4.0,Vikram
+ORD-2026-1005,2026-04-23,Japan,Books,Business Book,9,60.5,34.43,Ebay,Refunded,Noah Patel,Corporate,Asia,0.0008,Credit Card,Same Day,Delivered,5.0,Rahul
+ORD-2026-1189,2026-04-24,UAE,Books,Children's Book,4,14.82,8.16,Amazon,Not Returned,Meera Davis,Premium,Middle East,0.002,Cash On Delivery,Standard,Delivered,5.0,Priya
+ORD-2026-1237,2026-04-24,Singapore,Fashion,Jeans,10,157.99,116.12,Amazon,Not Returned,Ethan Williams,Premium,Asia,0.0005,Bank Transfer,Same Day,Delivered,5.0,Arjun
+ORD-2026-1816,2026-04-25,Japan,Electronics,Headphones,4,841.16,447.69,Ebay,Refunded,Kavya Verma,Corporate,Asia,0.001,Paypal,Express,Delivered,2.0,Daniel
+ORD-2026-1233,2026-04-25,India,Electronics,Headphones,11,620.49,453.81,Ebay,Not Returned,Ethan Anderson,Consumer,Asia,0.0015,Paypal,Express,Delivered,5.0,Sofia
+ORD-2026-1690,2026-04-25,Australia,Sports,Yoga Mat,11,259.67,164.72,Ebay,Not Returned,David Martin,Wholesale,Oceania,0.0015,Bank Transfer,Standard,Delivered,5.0,Vikram
+ORD-2026-1940,2026-04-25,France,Home & Kitchen,Coffee Maker,8,312.93,187.13,Ebay,Not Returned,Olivia Patel,Wholesale,Europe,0.0015,Upi,Express,Delivered,4.0,Sofia
+ORD-2026-1550,2026-04-26,France,Books,Self-Help Book,1,78.64,48.75,Ebay,Returned,Arjun Mehta,Wholesale,Europe,0.002,Cash On Delivery,Economy,Delivered,5.0,Karan
+ORD-2026-1491,2026-04-26,India,Fashion,Jacket,9,123.24,64.28,Ebay,Returned,Leo Singh,Corporate,Asia,0.0002,Debit Card,Express,Delivered,5.0,Meera
+ORD-2026-1390,2026-04-26,Canada,Home & Kitchen,Desk Lamp,2,333.29,247.04,Shopify,Refunded,Daniel Brown,Wholesale,North America,0.002,Upi,Standard,Delivered,4.0,Arjun
+ORD-2026-1776,2026-04-28,Japan,Books,Business Book,6,76.88,62.61,Shopify,Not Returned,Alex Smith,Premium,Asia,0.0015,Debit Card,Same Day,Delivered,5.0,Meera
+ORD-2026-1229,2026-04-29,USA,Sports,Fitness Band,3,333.32,251.28,Shopify,Not Returned,Olivia Brown,Wholesale,North America,0.0,Credit Card,Standard,Delivered,4.0,Daniel
+ORD-2026-1481,2026-04-30,UAE,Sports,Fitness Band,2,108.86,67.0,Amazon,Not Returned,Emma Thomas,Consumer,Middle East,0.001,Debit Card,Express,Delivered,4.0,Karan
+ORD-2026-1505,2026-05-01,France,Sports,Fitness Band,11,323.99,225.24,Shopify,Returned,Aisha Smith,Wholesale,Europe,0.0,Paypal,Express,Delivered,4.0,Meera
+ORD-2026-1526,2026-05-02,UAE,Books,Business Book,9,50.3,41.07,Ebay,Not Returned,Leo Verma,Consumer,Middle East,0.0002,Credit Card,Express,Delivered,3.0,Meera
+ORD-2026-1760,2026-05-03,Canada,Electronics,Smartwatch,11,749.66,504.82,Amazon,Not Returned,Alex Shah,Premium,North America,0.0002,Debit Card,Same Day,Delivered,4.0,Arjun
+ORD-2026-1031,2026-05-03,Singapore,Home & Kitchen,Vacuum Cleaner,8,148.12,88.01,Shopify,Not Returned,Maya Singh,Premium,Asia,0.0015,Debit Card,Same Day,Delivered,4.0,Meera
+ORD-2026-1972,2026-05-04,Japan,Sports,Dumbbells,2,145.37,102.83,Ebay,Returned,Ethan Taylor,Corporate,Asia,0.0002,Paypal,Standard,Delivered,4.0,Arjun
+ORD-2026-1639,2026-05-04,UK,Fashion,Sneakers,10,224.19,181.54,Ebay,Not Returned,Alex Taylor,Premium,Europe,0.0008,Upi,Economy,Delivered,4.0,Emma
+ORD-2026-1377,2026-05-05,Japan,Home & Kitchen,Blender,2,82.35,46.31,Ebay,Not Returned,Aditya Gupta,Consumer,Asia,0.0008,Cash On Delivery,Economy,Delivered,3.0,Daniel
+ORD-2026-1657,2026-05-05,Australia,Beauty,Face Cream,9,14.49,10.87,Ebay,Not Returned,David Williams,Corporate,Oceania,0.0,Bank Transfer,Same Day,Delivered,4.0,Aisha
+ORD-2026-1595,2026-05-06,Canada,Beauty,Lipstick,8,127.88,82.38,Shopify,Not Returned,Ava Thomas,Wholesale,North America,0.002,Bank Transfer,Economy,Delivered,5.0,Vikram
+ORD-2026-1764,2026-05-06,UK,Home & Kitchen,Vacuum Cleaner,4,150.64,93.25,Shopify,Returned,Ethan Smith,Wholesale,Europe,0.0015,Upi,Economy,Delivered,4.0,Karan
+ORD-2026-1482,2026-05-06,Japan,Beauty,Lipstick,2,153.87,103.11,Ebay,Not Returned,Leo Thomas,Wholesale,Asia,0.002,Credit Card,Standard,Pending,5.0,Sofia
+ORD-2026-1492,2026-05-07,France,Electronics,Laptop,1,905.54,690.4,Amazon,Refunded,Alex Verma,Premium,Europe,0.001,Credit Card,Same Day,Delivered,5.0,Vikram
+ORD-2026-1164,2026-05-07,UAE,Fashion,Jeans,1,194.8,127.09,Shopify,Not Returned,Aditya Wilson,Premium,Middle East,0.0002,Upi,Standard,Pending,5.0,Sofia
+ORD-2026-1011,2026-05-07,UAE,Books,Business Book,12,30.44,24.92,Amazon,Returned,Rahul Johnson,Consumer,Middle East,0.0015,Bank Transfer,Express,Delivered,4.0,Priya
+ORD-2026-1791,2026-05-08,USA,Books,Self-Help Book,8,9.14,7.4,Amazon,Not Returned,James Sharma,Corporate,North America,0.0015,Bank Transfer,Express,Delivered,3.0,Daniel
+ORD-2026-1310,2026-05-08,UAE,Sports,Sports Bag,10,71.06,37.76,Amazon,Not Returned,Sofia Smith,Consumer,Middle East,0.0005,Bank Transfer,Economy,Delivered,5.0,Priya
+ORD-2026-1240,2026-05-08,USA,Beauty,Skincare Set,10,160.06,107.44,Shopify,Not Returned,Grace Johnson,Premium,North America,0.0008,Paypal,Express,Delivered,5.0,Daniel
+ORD-2026-1023,2026-05-08,UK,Home & Kitchen,Vacuum Cleaner,1,110.2,87.87,Shopify,Not Returned,Neha Kumar,Wholesale,Europe,0.002,Credit Card,Economy,Pending,5.0,Emma
+ORD-2026-1992,2026-05-09,India,Home & Kitchen,Vacuum Cleaner,12,86.99,64.08,Amazon,Not Returned,Ryan Patel,Wholesale,Asia,0.002,Upi,Economy,Delivered,4.0,Daniel
+ORD-2026-1251,2026-05-09,Australia,Books,Novel,12,57.4,30.26,Ebay,Not Returned,Rahul Martin,Corporate,Oceania,0.0015,Upi,Economy,Delivered,2.0,Rahul
+ORD-2026-1655,2026-05-09,France,Fashion,Jeans,5,59.86,38.95,Amazon,Not Returned,Ava Thomas,Corporate,Europe,0.0005,Upi,Same Day,Delivered,5.0,Arjun
+ORD-2026-1671,2026-05-09,India,Sports,Sports Bag,6,27.44,21.03,Shopify,Not Returned,Daniel Singh,Corporate,Asia,0.0005,Upi,Standard,Cancelled,4.0,Vikram
+ORD-2026-1808,2026-05-09,Australia,Electronics,Laptop,5,1528.8,1130.9,Shopify,Not Returned,Rohan Sharma,Consumer,Oceania,0.0005,Cash On Delivery,Economy,Delivered,5.0,Emma
+ORD-2026-1086,2026-05-10,Canada,Books,Children's Book,1,64.82,46.29,Ebay,Not Returned,Robert Gupta,Premium,North America,0.0,Credit Card,Express,Delivered,4.0,Meera
+ORD-2026-1367,2026-05-10,Japan,Home & Kitchen,Vacuum Cleaner,11,387.83,277.05,Shopify,Returned,Ryan Singh,Wholesale,Asia,0.002,Upi,Economy,Pending,5.0,Meera
+ORD-2026-1560,2026-05-11,UK,Books,Children's Book,7,13.35,7.96,Ebay,Not Returned,Leo Gupta,Corporate,Europe,0.0008,Credit Card,Same Day,Delivered,4.0,Emma
+ORD-2026-1129,2026-05-11,Singapore,Home & Kitchen,Desk Lamp,7,241.98,130.02,Amazon,Not Returned,Aisha Martin,Consumer,Asia,0.0008,Credit Card,Economy,Delivered,2.0,Meera
+ORD-2026-1920,2026-05-11,India,Home & Kitchen,Coffee Maker,12,460.03,251.96,Shopify,Not Returned,Priya Smith,Corporate,Asia,0.0015,Paypal,Same Day,Delivered,4.0,Daniel
+ORD-2026-1754,2026-05-11,Canada,Fashion,Backpack,8,54.91,42.63,Shopify,Not Returned,Aditya Martin,Consumer,North America,0.0008,Cash On Delivery,Economy,Delivered,5.0,Vikram
+ORD-2026-1721,2026-05-11,India,Home & Kitchen,Blender,5,414.86,323.77,Ebay,Not Returned,Sarah Shah,Consumer,Asia,0.001,Bank Transfer,Express,Delivered,5.0,Arjun
+ORD-2026-1452,2026-05-11,USA,Electronics,Smartwatch,2,958.32,617.07,Ebay,Not Returned,Rohan Anderson,Consumer,North America,0.0008,Credit Card,Economy,Delivered,4.0,Daniel
+ORD-2026-1608,2026-05-12,USA,Fashion,Jeans,6,101.27,54.82,Shopify,Not Returned,Ananya Kumar,Wholesale,North America,0.0015,Credit Card,Same Day,Delivered,4.0,Karan
+ORD-2026-1249,2026-05-12,Germany,Books,Children's Book,10,25.56,13.6,Ebay,Not Returned,Olivia Sharma,Premium,Europe,0.0005,Bank Transfer,Economy,Delivered,3.0,Sofia
+ORD-2026-1982,2026-05-13,Germany,Electronics,Smartwatch,10,1015.11,550.45,Shopify,Not Returned,Ethan Thomas,Corporate,Europe,0.001,Debit Card,Standard,Delivered,4.0,Rahul
+ORD-2026-1213,2026-05-13,India,Home & Kitchen,Blender,8,307.17,176.09,Ebay,Not Returned,Rohan Smith,Consumer,Asia,0.002,Paypal,Standard,Delivered,4.0,Daniel
+ORD-2026-1735,2026-05-13,France,Home & Kitchen,Blender,12,485.03,332.48,Amazon,Not Returned,Ryan Brown,Consumer,Europe,0.0015,Credit Card,Express,Delivered,5.0,Sofia
+ORD-2026-1480,2026-05-13,India,Books,Novel,5,36.08,22.23,Shopify,Not Returned,Vikram Patel,Corporate,Asia,0.0008,Debit Card,Express,Cancelled,4.0,Sofia
+ORD-2026-1707,2026-05-14,Germany,Beauty,Face Cream,9,141.21,84.51,Amazon,Not Returned,Emma Taylor,Corporate,Europe,0.0005,Upi,Standard,Delivered,4.0,Karan
+ORD-2026-1444,2026-05-14,Singapore,Home & Kitchen,Desk Lamp,11,327.41,213.47,Amazon,Not Returned,Ryan Miller,Consumer,Asia,0.0002,Paypal,Standard,Delivered,2.0,Sofia
+ORD-2026-1762,2026-05-14,USA,Electronics,Laptop,11,1244.22,970.64,Ebay,Not Returned,Sarah Kumar,Consumer,North America,0.0008,Paypal,Economy,Delivered,4.0,Aisha
+ORD-2026-1443,2026-05-15,France,Electronics,Headphones,1,1763.05,1180.83,Ebay,Not Returned,Sofia Anderson,Premium,Europe,0.002,Paypal,Express,Delivered,4.0,Meera
+ORD-2026-1672,2026-05-15,Japan,Home & Kitchen,Desk Lamp,10,262.52,167.95,Ebay,Returned,Vivaan Patel,Premium,Asia,0.0,Paypal,Same Day,Delivered,5.0,Emma
+ORD-2026-1279,2026-05-16,Japan,Fashion,Sneakers,12,177.11,140.44,Amazon,Not Returned,Kavya Shah,Corporate,Asia,0.0008,Bank Transfer,Same Day,Delivered,4.0,Daniel
+ORD-2026-1593,2026-05-16,UK,Books,Cookbook,10,66.86,41.76,Ebay,Not Returned,Rahul Sharma,Corporate,Europe,0.0,Cash On Delivery,Express,Delivered,4.0,Meera
+ORD-2026-1057,2026-05-16,Singapore,Electronics,Smartwatch,8,106.4,59.93,Shopify,Not Returned,Anna Davis,Consumer,Asia,0.002,Upi,Economy,Delivered,4.0,Meera
+ORD-2026-1020,2026-05-16,France,Electronics,Laptop,12,1031.54,620.68,Ebay,Not Returned,Sam Brown,Consumer,Europe,0.001,Credit Card,Economy,Delivered,5.0,Karan
+ORD-2026-1793,2026-05-16,USA,Home & Kitchen,Coffee Maker,8,121.94,78.18,Ebay,Not Returned,Noah Sharma,Consumer,North America,0.0005,Upi,Standard,Cancelled,4.0,Sofia
+ORD-2026-1204,2026-05-16,France,Electronics,Tablet,2,610.37,390.17,Amazon,Not Returned,Sarah Davis,Corporate,Europe,0.0008,Upi,Economy,Cancelled,4.0,Meera
+ORD-2026-1125,2026-05-17,Australia,Books,Novel,3,78.68,52.18,Shopify,Not Returned,Liam Martin,Consumer,Oceania,0.0002,Upi,Same Day,Delivered,4.0,Emma
+ORD-2026-1296,2026-05-17,Australia,Fashion,Jacket,6,126.65,95.93,Shopify,Not Returned,Rahul Thomas,Wholesale,Oceania,0.0005,Debit Card,Express,Delivered,3.0,Karan
+ORD-2026-1819,2026-05-18,Canada,Electronics,Smartwatch,4,1318.58,969.51,Ebay,Returned,Arjun Wilson,Wholesale,North America,0.0015,Paypal,Economy,Pending,4.0,Arjun
+ORD-2026-1603,2026-05-18,USA,Electronics,Smartphone,10,98.88,78.4,Amazon,Not Returned,James Martin,Consumer,North America,0.0002,Bank Transfer,Economy,Delivered,2.0,Aisha
+ORD-2026-1357,2026-05-18,Singapore,Beauty,Shampoo,4,41.58,29.16,Shopify,Not Returned,Sarah Martin,Premium,Asia,0.001,Credit Card,Standard,Delivered,5.0,Priya
+ORD-2026-1658,2026-05-19,Australia,Home & Kitchen,Vacuum Cleaner,11,27.83,21.21,Ebay,Returned,Karan Johnson,Consumer,Oceania,0.002,Upi,Economy,Delivered,3.0,Meera
+ORD-2026-1884,2026-05-19,India,Beauty,Perfume,1,29.14,21.49,Amazon,Not Returned,James Taylor,Consumer,Asia,0.0008,Cash On Delivery,Express,Delivered,5.0,Emma
+ORD-2026-1563,2026-05-19,UAE,Books,Cookbook,10,67.14,44.77,Ebay,Not Returned,Karan Patel,Corporate,Middle East,0.001,Upi,Economy,Delivered,4.0,Daniel
+ORD-2026-1916,2026-05-20,USA,Beauty,Lipstick,8,35.57,27.97,Amazon,Not Returned,Sam Miller,Premium,North America,0.002,Upi,Standard,Delivered,4.0,Sofia
+ORD-2026-1882,2026-05-21,Japan,Fashion,Sneakers,2,161.77,127.04,Amazon,Not Returned,Liam Wilson,Wholesale,Asia,0.002,Cash On Delivery,Express,Delivered,1.0,Arjun
+ORD-2026-1727,2026-05-21,UAE,Electronics,Smartwatch,5,137.67,82.94,Ebay,Refunded,Arjun Martin,Consumer,Middle East,0.0008,Cash On Delivery,Economy,Delivered,5.0,Priya
+ORD-2026-1490,2026-05-21,Singapore,Electronics,Tablet,11,1237.73,884.99,Amazon,Not Returned,Michael Wilson,Wholesale,Asia,0.002,Upi,Standard,Pending,5.0,Emma
+ORD-2026-1119,2026-05-21,France,Home & Kitchen,Blender,5,359.83,261.62,Shopify,Not Returned,Vikram Martin,Wholesale,Europe,0.0008,Paypal,Same Day,Delivered,5.0,Daniel
+ORD-2026-1773,2026-05-21,France,Beauty,Perfume,6,96.24,64.89,Ebay,Returned,Emily Anderson,Premium,Europe,0.0015,Cash On Delivery,Economy,Delivered,4.0,Arjun
+ORD-2026-1508,2026-05-21,USA,Fashion,T-Shirt,9,66.07,38.25,Amazon,Not Returned,Robert Gupta,Premium,North America,0.0005,Credit Card,Same Day,Delivered,5.0,Karan
+ORD-2026-1730,2026-05-22,Australia,Books,Novel,2,21.89,16.38,Ebay,Not Returned,Meera Anderson,Wholesale,Oceania,0.0002,Debit Card,Standard,Delivered,4.0,Karan
+ORD-2026-1645,2026-05-22,India,Books,Business Book,2,23.81,12.76,Amazon,Not Returned,Anna Davis,Wholesale,Asia,0.0,Paypal,Standard,Delivered,4.0,Emma
+ORD-2026-1869,2026-05-22,UAE,Beauty,Lipstick,10,163.07,131.13,Ebay,Not Returned,Priya Williams,Consumer,Middle East,0.0015,Paypal,Express,Delivered,5.0,Emma
+ORD-2026-1594,2026-05-23,UK,Beauty,Lipstick,12,145.46,118.24,Amazon,Not Returned,Rohan Johnson,Corporate,Europe,0.002,Debit Card,Economy,Delivered,5.0,Meera
+ORD-2026-1432,2026-05-23,Japan,Electronics,Tablet,9,724.49,582.93,Amazon,Not Returned,Mia Taylor,Premium,Asia,0.0005,Upi,Standard,Delivered,4.0,Priya
+ORD-2026-1757,2026-05-23,UK,Books,Self-Help Book,9,37.41,27.88,Shopify,Not Returned,Mia Kumar,Premium,Europe,0.0008,Bank Transfer,Economy,Cancelled,4.0,Emma
+ORD-2026-1050,2026-05-23,Japan,Sports,Yoga Mat,11,291.07,201.67,Amazon,Not Returned,John Miller,Wholesale,Asia,0.002,Credit Card,Economy,Delivered,5.0,Meera
+ORD-2026-1193,2026-05-24,UAE,Beauty,Shampoo,10,95.41,60.73,Amazon,Not Returned,Alex Anderson,Premium,Middle East,0.0002,Bank Transfer,Express,Delivered,2.0,Daniel
+ORD-2026-1849,2026-05-24,UK,Home & Kitchen,Air Fryer,7,81.26,64.44,Ebay,Not Returned,Sneha Kumar,Corporate,Europe,0.0008,Paypal,Standard,Delivered,4.0,Aisha
+ORD-2026-1358,2026-05-24,Singapore,Books,Cookbook,2,49.78,40.25,Shopify,Not Returned,Michael Singh,Consumer,Asia,0.0,Debit Card,Economy,Delivered,5.0,Arjun
+ORD-2026-1783,2026-05-25,India,Sports,Dumbbells,1,206.69,169.22,Ebay,Not Returned,Ethan Singh,Consumer,Asia,0.001,Bank Transfer,Standard,Delivered,4.0,Vikram
+ORD-2026-1349,2026-05-25,Australia,Home & Kitchen,Blender,6,240.31,127.14,Shopify,Not Returned,Robert Martin,Corporate,Oceania,0.0008,Bank Transfer,Standard,Delivered,5.0,Rahul
+ORD-2026-1796,2026-05-25,Germany,Home & Kitchen,Air Fryer,9,86.66,69.56,Ebay,Not Returned,Karan Verma,Corporate,Europe,0.0002,Upi,Express,Delivered,5.0,Karan
+ORD-2026-1551,2026-05-25,UK,Electronics,Smartwatch,7,660.35,477.68,Shopify,Not Returned,Meera Thomas,Wholesale,Europe,0.0005,Credit Card,Express,Delivered,4.0,Meera
+ORD-2026-1446,2026-05-26,India,Sports,Sports Bag,3,157.42,85.49,Ebay,Not Returned,Vikram Davis,Premium,Asia,0.002,Bank Transfer,Standard,Delivered,4.0,Meera
+ORD-2026-1106,2026-05-26,India,Electronics,Smartwatch,3,603.09,342.91,Amazon,Refunded,Sofia Shah,Premium,Asia,0.0015,Debit Card,Same Day,Delivered,4.0,Priya
+ORD-2026-1633,2026-05-26,Canada,Books,Novel,12,31.68,20.9,Ebay,Not Returned,Aisha Anderson,Corporate,North America,0.002,Credit Card,Same Day,Delivered,3.0,Priya
+ORD-2026-1445,2026-05-26,Canada,Books,Children's Book,8,40.96,22.68,Amazon,Not Returned,Neha Anderson,Premium,North America,0.0015,Bank Transfer,Express,Delivered,3.0,Priya
+ORD-2026-1565,2026-05-27,Canada,Books,Business Book,11,51.83,37.94,Shopify,Not Returned,Leo Anderson,Corporate,North America,0.0002,Upi,Standard,Delivered,4.0,Karan
+ORD-2026-1842,2026-05-27,Japan,Fashion,Backpack,11,124.65,99.2,Ebay,Returned,Isha Davis,Premium,Asia,0.0002,Debit Card,Same Day,Delivered,4.0,Aisha
+ORD-2026-1705,2026-05-28,Singapore,Beauty,Lipstick,10,70.71,46.97,Shopify,Refunded,Maya Johnson,Corporate,Asia,0.0,Cash On Delivery,Economy,Delivered,5.0,Arjun
+ORD-2026-1924,2026-05-28,UK,Books,Novel,12,25.87,18.42,Shopify,Refunded,Michael Taylor,Wholesale,Europe,0.002,Bank Transfer,Economy,Delivered,3.0,Vikram
+ORD-2026-1648,2026-05-29,Canada,Beauty,Skincare Set,1,93.01,55.27,Amazon,Not Returned,Michael Anderson,Corporate,North America,0.0,Debit Card,Standard,Delivered,5.0,Arjun
+ORD-2026-1652,2026-05-29,Singapore,Sports,Dumbbells,5,56.36,29.45,Ebay,Not Returned,Emily Mehta,Premium,Asia,0.0015,Paypal,Same Day,Delivered,4.0,Arjun
+ORD-2026-1294,2026-05-29,UAE,Sports,Dumbbells,5,233.99,159.02,Amazon,Returned,Ryan Lee,Wholesale,Middle East,0.0005,Upi,Economy,Delivered,3.0,Emma
+ORD-2026-1047,2026-05-30,Germany,Fashion,T-Shirt,3,75.17,51.54,Amazon,Not Returned,Kavya Smith,Premium,Europe,0.0002,Cash On Delivery,Economy,Delivered,5.0,Arjun
+ORD-2026-1677,2026-05-30,UK,Beauty,Perfume,5,17.43,10.89,Amazon,Not Returned,Robert Davis,Wholesale,Europe,0.0015,Cash On Delivery,Standard,Cancelled,4.0,Arjun
+ORD-2026-1829,2026-05-30,Japan,Sports,Sports Bag,9,150.08,102.64,Ebay,Not Returned,Leo Davis,Wholesale,Asia,0.0002,Paypal,Standard,Delivered,5.0,Sofia
+ORD-2026-1391,2026-05-30,Canada,Fashion,Jacket,8,135.33,104.05,Shopify,Not Returned,Anna Williams,Consumer,North America,0.0008,Debit Card,Economy,Delivered,4.0,Arjun
+ORD-2026-1765,2026-05-30,Japan,Fashion,Jeans,1,195.1,110.12,Shopify,Returned,Neha Martin,Premium,Asia,0.0005,Paypal,Economy,Delivered,5.0,Karan
+ORD-2026-1008,2026-05-31,France,Sports,Yoga Mat,11,257.84,186.81,Shopify,Not Returned,Neha Wilson,Consumer,Europe,0.001,Cash On Delivery,Same Day,Delivered,4.0,Vikram
+ORD-2026-1099,2026-05-31,Singapore,Fashion,Jeans,5,204.26,150.77,Shopify,Refunded,Karan Singh,Premium,Asia,0.0,Cash On Delivery,Same Day,Delivered,3.0,Karan
+ORD-2026-1993,2026-05-31,Canada,Fashion,Backpack,1,62.92,47.61,Amazon,Not Returned,Vivaan Singh,Wholesale,North America,0.0015,Paypal,Same Day,Delivered,5.0,Rahul
+ORD-2026-1871,2026-06-01,UAE,Sports,Dumbbells,4,280.93,181.73,Amazon,Not Returned,Vivaan Miller,Consumer,Middle East,0.002,Upi,Economy,Delivered,4.0,Daniel
+ORD-2026-1892,2026-06-01,France,Home & Kitchen,Vacuum Cleaner,5,416.99,284.63,Amazon,Not Returned,Aisha Mehta,Consumer,Europe,0.0,Credit Card,Same Day,Pending,1.0,Sofia
+ORD-2026-1559,2026-06-03,UAE,Fashion,Jeans,9,137.44,99.83,Amazon,Not Returned,Ananya Lee,Corporate,Middle East,0.0015,Bank Transfer,Same Day,Delivered,3.0,Karan
+ORD-2026-1143,2026-06-03,UAE,Fashion,Backpack,5,202.84,110.29,Ebay,Not Returned,Rohan Patel,Consumer,Middle East,0.0008,Paypal,Economy,Delivered,5.0,Rahul
+ORD-2026-1172,2026-06-03,USA,Beauty,Perfume,8,22.04,13.99,Amazon,Not Returned,Lucas Gupta,Corporate,North America,0.0015,Credit Card,Standard,Delivered,4.0,Priya
+ORD-2026-1451,2026-06-03,Singapore,Sports,Sports Bag,2,115.93,75.49,Amazon,Not Returned,Michael Miller,Premium,Asia,0.002,Bank Transfer,Standard,Delivered,3.0,Vikram
+ORD-2026-1750,2026-06-04,UK,Sports,Yoga Mat,7,189.17,139.54,Shopify,Not Returned,Grace Sharma,Corporate,Europe,0.0005,Cash On Delivery,Same Day,Cancelled,4.0,Arjun
+ORD-2026-1898,2026-06-04,Germany,Beauty,Lipstick,4,10.97,8.26,Amazon,Not Returned,Kavya Johnson,Wholesale,Europe,0.002,Debit Card,Economy,Delivered,4.0,Arjun
+ORD-2026-1379,2026-06-04,Singapore,Beauty,Perfume,3,113.79,60.46,Shopify,Not Returned,Ava Sharma,Corporate,Asia,0.0002,Debit Card,Standard,Delivered,3.0,Vikram
+ORD-2026-1766,2026-06-05,UK,Books,Business Book,3,51.74,40.24,Amazon,Not Returned,John Sharma,Premium,Europe,0.0005,Upi,Economy,Delivered,4.0,Sofia
+ORD-2026-1880,2026-06-05,Australia,Electronics,Smartphone,4,1386.79,1027.21,Shopify,Not Returned,Ryan Patel,Corporate,Oceania,0.0005,Bank Transfer,Same Day,Delivered,5.0,Emma
+ORD-2026-1774,2026-06-05,UK,Beauty,Face Cream,6,161.87,108.92,Amazon,Not Returned,Maya Johnson,Corporate,Europe,0.0008,Debit Card,Standard,Delivered,4.0,Emma
+ORD-2026-1371,2026-06-05,Germany,Electronics,Tablet,12,1486.92,988.24,Shopify,Refunded,Arjun Singh,Premium,Europe,0.001,Bank Transfer,Same Day,Delivered,4.0,Arjun
+ORD-2026-1394,2026-06-06,Japan,Books,Children's Book,9,40.06,24.49,Amazon,Not Returned,Sofia Verma,Wholesale,Asia,0.0002,Upi,Same Day,Cancelled,4.0,Aisha
+ORD-2026-1184,2026-06-07,Germany,Sports,Dumbbells,11,297.06,232.65,Amazon,Not Returned,Aisha Anderson,Corporate,Europe,0.0005,Paypal,Economy,Delivered,5.0,Aisha
+ORD-2026-1941,2026-06-08,Singapore,Fashion,Jeans,5,87.54,64.05,Ebay,Refunded,Noah Shah,Corporate,Asia,0.0008,Paypal,Express,Delivered,5.0,Daniel
+ORD-2026-1651,2026-06-08,UAE,Beauty,Skincare Set,3,55.1,39.88,Amazon,Not Returned,Aditya Martin,Premium,Middle East,0.0005,Bank Transfer,Standard,Delivered,5.0,Rahul
+ORD-2026-1428,2026-06-08,France,Fashion,Sneakers,5,177.98,105.16,Shopify,Not Returned,Sam Thomas,Wholesale,Europe,0.0002,Paypal,Standard,Delivered,4.0,Emma
+ORD-2026-1641,2026-06-09,Singapore,Beauty,Perfume,8,27.77,16.18,Ebay,Not Returned,Ryan Gupta,Consumer,Asia,0.001,Debit Card,Express,Delivered,4.0,Meera
+ORD-2026-1037,2026-06-09,UK,Sports,Sports Bag,12,257.06,193.65,Ebay,Not Returned,Lucas Davis,Corporate,Europe,0.0002,Credit Card,Express,Pending,2.0,Arjun
+ORD-2026-1867,2026-06-10,Canada,Sports,Fitness Band,2,25.84,16.31,Ebay,Not Returned,Alex Brown,Premium,North America,0.0002,Bank Transfer,Same Day,Delivered,4.0,Emma
+ORD-2026-1327,2026-06-10,Singapore,Books,Cookbook,8,71.91,46.62,Shopify,Not Returned,Anna Martin,Consumer,Asia,0.002,Bank Transfer,Standard,Delivered,4.0,Sofia
+ORD-2026-1656,2026-06-10,France,Sports,Fitness Band,9,80.51,60.76,Ebay,Not Returned,Daniel Wilson,Premium,Europe,0.002,Paypal,Economy,Delivered,4.0,Rahul
+ORD-2026-1787,2026-06-11,UK,Electronics,Laptop,9,1115.3,862.58,Amazon,Not Returned,Aisha Shah,Premium,Europe,0.002,Debit Card,Economy,Delivered,3.0,Karan
+ORD-2026-1525,2026-06-12,Canada,Books,Self-Help Book,11,74.57,56.03,Ebay,Not Returned,Alex Singh,Premium,North America,0.0002,Credit Card,Economy,Delivered,5.0,Rahul
+ORD-2026-1092,2026-06-13,Singapore,Fashion,T-Shirt,7,32.25,21.63,Amazon,Not Returned,Ethan Gupta,Corporate,Asia,0.0002,Credit Card,Same Day,Delivered,4.0,Sofia
+ORD-2026-1103,2026-06-13,Germany,Electronics,Smartphone,2,857.51,677.09,Ebay,Not Returned,Daniel Singh,Premium,Europe,0.0008,Upi,Express,Pending,5.0,Daniel
+ORD-2026-1904,2026-06-14,UK,Home & Kitchen,Vacuum Cleaner,11,196.82,115.65,Shopify,Not Returned,Vivaan Shah,Premium,Europe,0.0005,Paypal,Economy,Delivered,2.0,Priya
+ORD-2026-1736,2026-06-15,UK,Beauty,Skincare Set,6,73.29,46.42,Ebay,Not Returned,Karan Williams,Consumer,Europe,0.001,Debit Card,Economy,Cancelled,4.0,Sofia
+ORD-2026-1196,2026-06-15,Japan,Home & Kitchen,Coffee Maker,9,252.04,156.14,Amazon,Not Returned,Vivaan Gupta,Corporate,Asia,0.001,Credit Card,Same Day,Delivered,5.0,Arjun
+ORD-2026-1308,2026-06-15,Japan,Beauty,Shampoo,6,103.51,84.78,Ebay,Not Returned,Sneha Martin,Corporate,Asia,0.002,Paypal,Same Day,Delivered,4.0,Meera
+ORD-2026-1637,2026-06-15,Singapore,Books,Novel,6,75.51,41.59,Ebay,Not Returned,Leo Verma,Corporate,Asia,0.0002,Credit Card,Express,Delivered,3.0,Meera
+ORD-2026-1149,2026-06-16,UK,Beauty,Lipstick,9,104.31,67.01,Shopify,Not Returned,Aarav Smith,Wholesale,Europe,0.0,Paypal,Standard,Delivered,5.0,Vikram
+ORD-2026-1382,2026-06-16,Germany,Books,Self-Help Book,10,49.74,32.12,Amazon,Not Returned,Karan Verma,Wholesale,Europe,0.0015,Debit Card,Economy,Delivered,5.0,Emma
+ORD-2026-1290,2026-06-16,Germany,Home & Kitchen,Blender,8,322.58,180.45,Shopify,Not Returned,Ryan Thomas,Premium,Europe,0.002,Bank Transfer,Economy,Delivered,4.0,Daniel
+ORD-2026-1881,2026-06-17,UAE,Electronics,Headphones,1,452.25,259.72,Shopify,Refunded,Grace Lee,Corporate,Middle East,0.0005,Paypal,Economy,Delivered,4.0,Vikram
+ORD-2026-1708,2026-06-18,Singapore,Beauty,Perfume,10,158.86,108.15,Amazon,Refunded,Robert Thomas,Consumer,Asia,0.002,Cash On Delivery,Standard,Delivered,5.0,Rahul
+ORD-2026-1691,2026-06-18,India,Sports,Fitness Band,11,193.07,125.94,Amazon,Not Returned,Mia Verma,Wholesale,Asia,0.0005,Upi,Standard,Delivered,5.0,Emma
+ORD-2026-1447,2026-06-18,UK,Electronics,Laptop,8,1508.8,1083.11,Amazon,Not Returned,Anna Wilson,Premium,Europe,0.0008,Cash On Delivery,Express,Delivered,5.0,Emma
+ORD-2026-1139,2026-06-18,India,Sports,Running Shoes,12,68.15,40.77,Amazon,Not Returned,Lucas Martin,Corporate,Asia,0.001,Paypal,Same Day,Delivered,3.0,Karan
+ORD-2026-1190,2026-06-19,Japan,Fashion,T-Shirt,1,249.35,144.45,Amazon,Not Returned,Aditya Wilson,Consumer,Asia,0.0015,Debit Card,Economy,Delivered,5.0,Rahul
+ORD-2026-1942,2026-06-20,India,Electronics,Laptop,10,1585.24,894.56,Ebay,Not Returned,Noah Martin,Corporate,Asia,0.0008,Cash On Delivery,Economy,Delivered,4.0,Rahul
+ORD-2026-1908,2026-06-21,France,Sports,Sports Bag,4,123.31,97.63,Ebay,Not Returned,Ava Brown,Premium,Europe,0.0002,Bank Transfer,Economy,Delivered,4.0,Emma
+ORD-2026-1758,2026-06-21,Australia,Beauty,Lipstick,5,150.44,98.51,Shopify,Not Returned,Isha Kumar,Wholesale,Oceania,0.002,Bank Transfer,Economy,Delivered,4.0,Rahul
+ORD-2026-1799,2026-06-22,France,Sports,Fitness Band,2,265.84,190.51,Amazon,Not Returned,Sofia Johnson,Wholesale,Europe,0.001,Bank Transfer,Economy,Cancelled,4.0,Arjun
+ORD-2026-1107,2026-06-22,UAE,Electronics,Smartwatch,11,370.05,296.96,Ebay,Not Returned,Aditya Sharma,Consumer,Middle East,0.0002,Credit Card,Same Day,Delivered,5.0,Emma
+ORD-2026-1827,2026-06-22,France,Electronics,Headphones,11,390.32,263.68,Shopify,Not Returned,Emily Davis,Wholesale,Europe,0.0,Credit Card,Standard,Delivered,5.0,Meera
+ORD-2026-1442,2026-06-23,Australia,Books,Cookbook,3,77.7,53.45,Shopify,Not Returned,Ananya Singh,Premium,Oceania,0.001,Cash On Delivery,Economy,Delivered,4.0,Daniel
+ORD-2026-1553,2026-06-23,Australia,Beauty,Perfume,1,26.33,21.39,Ebay,Not Returned,Leo Gupta,Wholesale,Oceania,0.0002,Debit Card,Standard,Pending,4.0,Arjun
+ORD-2026-1856,2026-06-24,Canada,Electronics,Smartphone,10,1458.51,1099.23,Ebay,Not Returned,Rahul Gupta,Wholesale,North America,0.002,Cash On Delivery,Same Day,Delivered,5.0,Arjun
+ORD-2026-1965,2026-06-24,UK,Home & Kitchen,Blender,2,297.92,213.18,Amazon,Not Returned,Maya Gupta,Corporate,Europe,0.0015,Cash On Delivery,Standard,Delivered,4.0,Meera
+ORD-2026-1408,2026-06-25,USA,Home & Kitchen,Coffee Maker,8,190.4,138.48,Amazon,Returned,Liam Sharma,Consumer,North America,0.0002,Debit Card,Express,Delivered,5.0,Daniel
+ORD-2026-1278,2026-06-25,Canada,Beauty,Shampoo,9,101.06,73.8,Amazon,Not Returned,Emily Mehta,Wholesale,North America,0.0005,Upi,Same Day,Delivered,5.0,Emma
+ORD-2026-1518,2026-06-25,Singapore,Home & Kitchen,Blender,4,265.38,174.79,Ebay,Not Returned,Grace Shah,Wholesale,Asia,0.0,Credit Card,Standard,Delivered,4.0,Karan
+ORD-2026-1798,2026-06-26,UK,Electronics,Smartphone,11,138.68,105.18,Amazon,Not Returned,James Davis,Wholesale,Europe,0.0002,Debit Card,Economy,Delivered,4.0,Priya
+ORD-2026-1567,2026-06-26,UAE,Books,Novel,7,9.0,5.19,Amazon,Not Returned,Michael Lee,Consumer,Middle East,0.002,Bank Transfer,Economy,Delivered,5.0,Daniel
+ORD-2026-1105,2026-06-26,Singapore,Sports,Fitness Band,7,291.7,158.14,Amazon,Not Returned,Emily Martin,Corporate,Asia,0.0005,Debit Card,Economy,Delivered,5.0,Vikram
+ORD-2026-1109,2026-06-26,Singapore,Beauty,Lipstick,8,44.68,31.37,Shopify,Not Returned,Ananya Williams,Consumer,Asia,0.0005,Upi,Express,Delivered,5.0,Sofia
+ORD-2026-1254,2026-06-26,India,Electronics,Smartwatch,10,757.82,518.54,Amazon,Not Returned,Ava Anderson,Corporate,Asia,0.0,Debit Card,Express,Delivered,5.0,Emma
+ORD-2026-1146,2026-06-27,Australia,Books,Children's Book,6,35.64,26.44,Amazon,Not Returned,Karan Miller,Corporate,Oceania,0.002,Credit Card,Same Day,Pending,4.0,Priya
+ORD-2026-1291,2026-06-27,UAE,Home & Kitchen,Desk Lamp,10,241.86,180.11,Shopify,Not Returned,Sarah Verma,Consumer,Middle East,0.001,Paypal,Same Day,Delivered,4.0,Meera
+ORD-2026-1215,2026-06-28,France,Sports,Dumbbells,12,339.12,241.73,Shopify,Not Returned,Sofia Shah,Wholesale,Europe,0.0008,Upi,Economy,Cancelled,4.0,Priya
+ORD-2026-1794,2026-06-28,India,Books,Business Book,7,11.35,7.19,Amazon,Not Returned,Rohan Miller,Consumer,Asia,0.001,Credit Card,Economy,Delivered,3.0,Sofia
+ORD-2026-1674,2026-06-29,Japan,Electronics,Smartwatch,8,1708.15,1026.86,Shopify,Not Returned,Alex Smith,Corporate,Asia,0.0,Credit Card,Standard,Delivered,4.0,Aisha
+ORD-2026-1483,2026-06-29,Japan,Fashion,Sneakers,1,33.84,26.96,Ebay,Returned,Aisha Martin,Premium,Asia,0.0005,Credit Card,Express,Delivered,4.0,Vikram
+ORD-2026-1966,2026-06-30,Canada,Beauty,Lipstick,11,98.21,59.17,Amazon,Not Returned,Sneha Taylor,Wholesale,North America,0.0015,Upi,Economy,Delivered,4.0,Aisha
+ORD-2026-1643,2026-07-01,India,Beauty,Perfume,5,14.86,10.68,Shopify,Not Returned,Aisha Gupta,Wholesale,Asia,0.0008,Bank Transfer,Economy,Delivered,5.0,Vikram
+ORD-2026-1820,2026-07-01,UK,Electronics,Smartwatch,8,1041.47,559.54,Amazon,Not Returned,Emma Martin,Premium,Europe,0.0005,Cash On Delivery,Standard,Delivered,3.0,Priya
+ORD-2026-1614,2026-07-01,France,Home & Kitchen,Air Fryer,6,472.42,313.92,Ebay,Not Returned,James Davis,Consumer,Europe,0.001,Bank Transfer,Express,Delivered,5.0,Arjun
+ORD-2026-1768,2026-07-02,USA,Fashion,Sneakers,5,67.48,38.13,Shopify,Not Returned,Ryan Martin,Consumer,North America,0.001,Cash On Delivery,Express,Delivered,5.0,Emma
+ORD-2026-1405,2026-07-02,India,Home & Kitchen,Blender,8,442.2,247.92,Amazon,Not Returned,Olivia Smith,Consumer,Asia,0.0002,Bank Transfer,Express,Delivered,5.0,Daniel
+ORD-2026-1888,2026-07-03,France,Home & Kitchen,Vacuum Cleaner,11,282.58,177.49,Ebay,Not Returned,Ryan Wilson,Corporate,Europe,0.0008,Credit Card,Same Day,Delivered,3.0,Vikram
+ORD-2026-1542,2026-07-04,Singapore,Sports,Fitness Band,9,156.33,90.11,Amazon,Not Returned,Noah Wilson,Corporate,Asia,0.0015,Bank Transfer,Economy,Pending,1.0,Rahul
+ORD-2026-1500,2026-07-04,Canada,Electronics,Laptop,6,131.63,73.0,Amazon,Not Returned,Vivaan Shah,Corporate,North America,0.0005,Upi,Express,Delivered,5.0,Emma
+ORD-2026-1212,2026-07-04,UAE,Sports,Yoga Mat,3,83.61,64.37,Ebay,Not Returned,Meera Brown,Premium,Middle East,0.002,Paypal,Economy,Delivered,2.0,Arjun
+ORD-2026-1175,2026-07-04,India,Home & Kitchen,Vacuum Cleaner,7,78.55,52.62,Shopify,Returned,Ananya Davis,Wholesale,Asia,0.001,Upi,Express,Delivered,1.0,Sofia
+ORD-2026-1471,2026-07-04,Japan,Books,Business Book,12,35.19,26.08,Shopify,Not Returned,Karan Gupta,Wholesale,Asia,0.0,Paypal,Standard,Delivered,5.0,Arjun
+ORD-2026-1285,2026-07-04,USA,Books,Business Book,1,23.51,14.02,Shopify,Not Returned,Emily Thomas,Premium,North America,0.002,Upi,Standard,Delivered,4.0,Rahul
+ORD-2026-1355,2026-07-04,Australia,Beauty,Lipstick,7,102.67,73.79,Shopify,Not Returned,Priya Smith,Corporate,Oceania,0.0008,Debit Card,Standard,Delivered,5.0,Arjun
+ORD-2026-1067,2026-07-05,USA,Beauty,Skincare Set,7,169.64,102.45,Amazon,Not Returned,Mia Thomas,Premium,North America,0.0015,Credit Card,Economy,Delivered,5.0,Karan
+ORD-2026-1602,2026-07-05,Canada,Books,Self-Help Book,7,19.87,15.12,Ebay,Not Returned,Ethan Sharma,Corporate,North America,0.0015,Upi,Express,Delivered,3.0,Vikram
+ORD-2026-1433,2026-07-05,India,Books,Novel,12,74.06,53.43,Ebay,Not Returned,Vikram Thomas,Corporate,Asia,0.0005,Paypal,Economy,Delivered,5.0,Aisha
+ORD-2026-1951,2026-07-05,UK,Books,Cookbook,3,55.34,39.93,Amazon,Not Returned,Olivia Smith,Consumer,Europe,0.0008,Credit Card,Express,Delivered,5.0,Arjun
+ORD-2026-1004,2026-07-06,India,Books,Business Book,5,78.94,61.3,Amazon,Not Returned,Mia Williams,Corporate,Asia,0.002,Cash On Delivery,Same Day,Delivered,5.0,Arjun
+ORD-2026-1026,2026-07-06,India,Books,Self-Help Book,1,45.43,34.62,Shopify,Not Returned,Rahul Johnson,Premium,Asia,0.0015,Cash On Delivery,Standard,Delivered,5.0,Karan
+ORD-2026-1988,2026-07-07,Australia,Sports,Yoga Mat,4,156.28,118.66,Shopify,Not Returned,Neha Martin,Wholesale,Oceania,0.001,Cash On Delivery,Standard,Delivered,5.0,Vikram
+ORD-2026-1421,2026-07-07,Japan,Beauty,Skincare Set,11,69.97,56.91,Shopify,Not Returned,John Sharma,Premium,Asia,0.0005,Paypal,Standard,Delivered,3.0,Rahul
+ORD-2026-1063,2026-07-07,Japan,Fashion,Sneakers,2,229.21,141.66,Ebay,Not Returned,David Brown,Corporate,Asia,0.0008,Upi,Economy,Delivered,4.0,Karan
+ORD-2026-1389,2026-07-07,Japan,Fashion,T-Shirt,9,237.42,171.51,Shopify,Not Returned,Isha Thomas,Consumer,Asia,0.0,Bank Transfer,Express,Delivered,5.0,Daniel
+ORD-2026-1098,2026-07-08,Singapore,Fashion,T-Shirt,11,63.95,40.1,Shopify,Not Returned,Grace Wilson,Wholesale,Asia,0.002,Upi,Express,Delivered,4.0,Sofia
+ORD-2026-1104,2026-07-08,Canada,Sports,Running Shoes,2,345.09,261.45,Shopify,Not Returned,Emily Gupta,Consumer,North America,0.0002,Credit Card,Same Day,Delivered,5.0,Rahul
+ORD-2026-1922,2026-07-08,Germany,Sports,Yoga Mat,2,275.04,165.22,Ebay,Not Returned,Isha Gupta,Corporate,Europe,0.002,Debit Card,Standard,Delivered,4.0,Meera
+ORD-2026-1335,2026-07-08,Japan,Sports,Sports Bag,3,338.88,252.4,Shopify,Not Returned,Rahul Miller,Consumer,Asia,0.0005,Upi,Economy,Pending,4.0,Daniel
+ORD-2026-1540,2026-07-09,India,Beauty,Skincare Set,9,177.77,133.04,Ebay,Not Returned,Ethan Johnson,Corporate,Asia,0.0008,Upi,Economy,Delivered,4.0,Rahul
+ORD-2026-1969,2026-07-09,India,Home & Kitchen,Vacuum Cleaner,7,128.96,103.76,Ebay,Not Returned,Sofia Kumar,Premium,Asia,0.001,Cash On Delivery,Same Day,Delivered,4.0,Rahul
+ORD-2026-1261,2026-07-09,Japan,Sports,Running Shoes,12,261.56,209.71,Amazon,Not Returned,Aditya Shah,Premium,Asia,0.0,Paypal,Economy,Delivered,3.0,Sofia
+ORD-2026-1396,2026-07-10,Japan,Home & Kitchen,Vacuum Cleaner,5,200.59,116.65,Shopify,Not Returned,Sarah Mehta,Premium,Asia,0.0015,Credit Card,Standard,Delivered,4.0,Rahul
+ORD-2026-1469,2026-07-10,India,Sports,Sports Bag,5,99.64,74.95,Shopify,Not Returned,David Williams,Consumer,Asia,0.0015,Credit Card,Standard,Delivered,5.0,Sofia
+ORD-2026-1568,2026-07-11,UAE,Home & Kitchen,Air Fryer,2,199.35,111.64,Amazon,Not Returned,Ethan Verma,Consumer,Middle East,0.0005,Upi,Same Day,Pending,4.0,Sofia
+ORD-2026-1667,2026-07-11,USA,Home & Kitchen,Vacuum Cleaner,7,463.13,249.43,Ebay,Returned,Vivaan Mehta,Premium,North America,0.0005,Credit Card,Economy,Delivered,3.0,Rahul
+ORD-2026-1510,2026-07-11,Canada,Electronics,Headphones,4,817.52,656.12,Amazon,Not Returned,James Gupta,Premium,North America,0.0008,Cash On Delivery,Standard,Delivered,5.0,Sofia
+ORD-2026-1167,2026-07-12,UK,Books,Cookbook,4,62.83,45.42,Shopify,Not Returned,Rahul Singh,Wholesale,Europe,0.0008,Bank Transfer,Same Day,Delivered,5.0,Meera
+ORD-2026-1834,2026-07-13,Japan,Books,Cookbook,4,75.7,54.2,Shopify,Not Returned,Meera Taylor,Premium,Asia,0.0005,Bank Transfer,Standard,Delivered,5.0,Rahul
+ORD-2026-1423,2026-07-13,Singapore,Books,Self-Help Book,10,45.06,29.12,Ebay,Not Returned,Lucas Johnson,Consumer,Asia,0.0,Paypal,Standard,Delivered,5.0,Emma
+ORD-2026-1547,2026-07-14,USA,Electronics,Headphones,12,1098.58,633.27,Ebay,Not Returned,Aarav Smith,Consumer,North America,0.0,Bank Transfer,Express,Delivered,4.0,Rahul
+ORD-2026-1363,2026-07-14,France,Electronics,Laptop,3,878.11,582.07,Ebay,Not Returned,Lucas Taylor,Premium,Europe,0.0008,Debit Card,Economy,Delivered,4.0,Aisha
+ORD-2026-1957,2026-07-14,France,Sports,Fitness Band,5,32.85,18.13,Amazon,Refunded,Emma Johnson,Wholesale,Europe,0.0005,Credit Card,Same Day,Delivered,5.0,Arjun
+ORD-2026-1895,2026-07-14,Singapore,Electronics,Tablet,5,1015.22,553.18,Ebay,Not Returned,Ethan Verma,Wholesale,Asia,0.0015,Credit Card,Same Day,Delivered,3.0,Karan
+ORD-2026-1079,2026-07-14,Germany,Fashion,Sneakers,3,195.76,118.79,Ebay,Not Returned,Kavya Anderson,Premium,Europe,0.0,Credit Card,Economy,Delivered,3.0,Aisha
+ORD-2026-1985,2026-07-14,UAE,Books,Cookbook,1,64.7,48.17,Ebay,Not Returned,Vikram Anderson,Premium,Middle East,0.001,Upi,Same Day,Delivered,4.0,Daniel
+ORD-2026-1412,2026-07-14,Germany,Sports,Fitness Band,6,250.38,144.1,Shopify,Not Returned,Aisha Anderson,Corporate,Europe,0.0015,Paypal,Standard,Pending,4.0,Meera
+ORD-2026-1056,2026-07-15,Canada,Home & Kitchen,Air Fryer,10,206.91,160.73,Shopify,Not Returned,Priya Taylor,Consumer,North America,0.0008,Debit Card,Same Day,Delivered,5.0,Arjun
+ORD-2026-1531,2026-07-15,UK,Beauty,Lipstick,7,95.9,71.01,Shopify,Refunded,Rohan Smith,Corporate,Europe,0.002,Bank Transfer,Express,Delivered,4.0,Karan
+ORD-2026-1054,2026-07-16,Singapore,Books,Cookbook,9,58.79,37.9,Amazon,Not Returned,Robert Anderson,Corporate,Asia,0.0008,Credit Card,Same Day,Pending,5.0,Rahul
+ORD-2026-1535,2026-07-16,France,Home & Kitchen,Desk Lamp,10,477.09,368.53,Shopify,Not Returned,John Singh,Corporate,Europe,0.0,Paypal,Express,Delivered,5.0,Rahul
+ORD-2026-1746,2026-07-16,Singapore,Sports,Dumbbells,8,254.97,197.16,Ebay,Not Returned,Rohan Gupta,Consumer,Asia,0.0005,Upi,Same Day,Delivered,4.0,Emma
+ORD-2026-1162,2026-07-16,France,Home & Kitchen,Air Fryer,6,424.94,299.93,Ebay,Not Returned,David Taylor,Wholesale,Europe,0.002,Cash On Delivery,Economy,Delivered,3.0,Rahul
+ORD-2026-1734,2026-07-17,Japan,Fashion,Backpack,11,140.3,107.87,Amazon,Not Returned,Sarah Martin,Corporate,Asia,0.0015,Cash On Delivery,Economy,Delivered,5.0,Meera
+ORD-2026-1543,2026-07-17,Japan,Electronics,Headphones,7,1695.23,1360.33,Shopify,Returned,Robert Shah,Corporate,Asia,0.0008,Bank Transfer,Standard,Pending,5.0,Daniel
+ORD-2026-1194,2026-07-18,USA,Home & Kitchen,Air Fryer,5,278.5,210.93,Shopify,Refunded,Isha Mehta,Corporate,North America,0.0015,Bank Transfer,Same Day,Delivered,4.0,Meera
+ORD-2026-1304,2026-07-18,USA,Electronics,Smartphone,3,1582.41,918.78,Ebay,Not Returned,Sam Anderson,Premium,North America,0.0008,Credit Card,Same Day,Delivered,5.0,Emma
+ORD-2026-1321,2026-07-18,Canada,Books,Cookbook,6,53.02,31.33,Amazon,Not Returned,Emily Brown,Corporate,North America,0.001,Debit Card,Same Day,Delivered,4.0,Rahul
+ORD-2026-1066,2026-07-18,Australia,Electronics,Smartphone,1,1707.57,1043.85,Shopify,Not Returned,Mia Thomas,Wholesale,Oceania,0.0008,Bank Transfer,Express,Delivered,4.0,Rahul
+ORD-2026-1573,2026-07-19,Singapore,Books,Business Book,6,62.08,46.81,Amazon,Refunded,Vikram Kumar,Consumer,Asia,0.0008,Debit Card,Express,Delivered,5.0,Meera
+ORD-2026-1622,2026-07-19,UAE,Beauty,Perfume,10,119.55,91.88,Ebay,Not Returned,Isha Davis,Premium,Middle East,0.002,Bank Transfer,Express,Pending,5.0,Rahul
+ORD-2026-1604,2026-07-20,India,Fashion,T-Shirt,5,21.95,13.76,Ebay,Not Returned,Daniel Gupta,Consumer,Asia,0.0005,Upi,Economy,Pending,4.0,Vikram
+ORD-2026-1601,2026-07-20,Australia,Home & Kitchen,Blender,2,272.71,221.82,Amazon,Not Returned,Emily Lee,Consumer,Oceania,0.0002,Cash On Delivery,Economy,Delivered,2.0,Sofia
+ORD-2026-1626,2026-07-20,USA,Electronics,Smartphone,5,530.63,304.68,Amazon,Not Returned,Sam Sharma,Wholesale,North America,0.0,Credit Card,Economy,Delivered,5.0,Arjun
+ORD-2026-1386,2026-07-21,UK,Sports,Yoga Mat,7,343.46,182.73,Shopify,Not Returned,Karan Wilson,Wholesale,Europe,0.0008,Debit Card,Standard,Delivered,4.0,Vikram
+ORD-2026-1810,2026-07-21,USA,Sports,Yoga Mat,2,339.02,200.56,Ebay,Returned,Aditya Williams,Wholesale,North America,0.001,Paypal,Standard,Delivered,4.0,Rahul
+ORD-2026-1238,2026-07-21,India,Home & Kitchen,Vacuum Cleaner,3,415.37,308.52,Amazon,Not Returned,Ryan Shah,Premium,Asia,0.0008,Credit Card,Economy,Delivered,3.0,Aisha
+ORD-2026-1206,2026-07-22,India,Beauty,Skincare Set,7,174.16,126.46,Ebay,Not Returned,Aditya Anderson,Corporate,Asia,0.0008,Credit Card,Economy,Delivered,4.0,Daniel
+ORD-2026-1875,2026-07-22,Canada,Fashion,Backpack,2,114.91,85.64,Ebay,Not Returned,Priya Thomas,Consumer,North America,0.0008,Debit Card,Economy,Delivered,4.0,Daniel
+ORD-2026-1472,2026-07-22,India,Beauty,Perfume,8,46.51,25.27,Shopify,Not Returned,John Taylor,Wholesale,Asia,0.0015,Paypal,Economy,Delivered,4.0,Rahul
+ORD-2026-1948,2026-07-22,Japan,Home & Kitchen,Vacuum Cleaner,5,167.63,119.96,Shopify,Not Returned,Aarav Anderson,Corporate,Asia,0.0,Credit Card,Express,Delivered,5.0,Sofia
+ORD-2026-1509,2026-07-23,Canada,Beauty,Lipstick,10,138.83,72.69,Amazon,Not Returned,Kavya Shah,Wholesale,North America,0.0015,Debit Card,Economy,Delivered,3.0,Sofia
+ORD-2026-1710,2026-07-23,Australia,Home & Kitchen,Desk Lamp,12,143.13,75.01,Shopify,Refunded,Aditya Mehta,Premium,Oceania,0.002,Upi,Standard,Delivered,3.0,Emma
+ORD-2026-1416,2026-07-24,Germany,Beauty,Lipstick,5,140.02,104.99,Shopify,Not Returned,Alex Lee,Wholesale,Europe,0.001,Paypal,Same Day,Delivered,5.0,Daniel
+ORD-2026-1833,2026-07-25,France,Electronics,Smartphone,11,1479.46,1138.28,Amazon,Returned,Priya Gupta,Corporate,Europe,0.0002,Bank Transfer,Same Day,Pending,4.0,Rahul
+ORD-2026-1273,2026-07-25,UK,Beauty,Skincare Set,7,24.98,14.96,Ebay,Not Returned,Michael Smith,Consumer,Europe,0.0005,Debit Card,Economy,Delivered,4.0,Sofia
+ORD-2026-1182,2026-07-25,USA,Sports,Dumbbells,2,185.67,146.79,Amazon,Not Returned,Ryan Smith,Premium,North America,0.0002,Upi,Standard,Delivered,2.0,Vikram
+ORD-2026-1644,2026-07-26,Canada,Electronics,Tablet,5,716.02,382.88,Amazon,Not Returned,Robert Brown,Wholesale,North America,0.0008,Bank Transfer,Economy,Delivered,4.0,Arjun
+ORD-2026-1454,2026-07-27,France,Books,Novel,7,46.48,24.25,Ebay,Not Returned,Robert Taylor,Premium,Europe,0.0,Bank Transfer,Same Day,Delivered,4.0,Rahul
+ORD-2026-1080,2026-07-27,Australia,Electronics,Tablet,2,1562.83,1082.62,Amazon,Not Returned,Noah Mehta,Wholesale,Oceania,0.001,Cash On Delivery,Same Day,Delivered,4.0,Arjun
+ORD-2026-1925,2026-07-28,Singapore,Books,Children's Book,6,64.62,44.8,Amazon,Not Returned,David Taylor,Corporate,Asia,0.002,Credit Card,Express,Delivered,4.0,Arjun
+ORD-2026-1777,2026-07-29,Canada,Books,Cookbook,8,30.18,20.79,Shopify,Not Returned,Ananya Wilson,Premium,North America,0.002,Credit Card,Express,Delivered,4.0,Emma
+ORD-2026-1494,2026-07-30,France,Sports,Fitness Band,2,53.6,28.77,Amazon,Not Returned,Robert Lee,Consumer,Europe,0.0,Paypal,Economy,Delivered,3.0,Sofia
+ORD-2026-1780,2026-07-31,Canada,Fashion,Jeans,6,120.77,73.1,Amazon,Not Returned,Priya Martin,Premium,North America,0.0008,Bank Transfer,Express,Delivered,4.0,Vikram
+ORD-2026-1609,2026-07-31,Australia,Beauty,Skincare Set,11,31.93,20.12,Ebay,Not Returned,Maya Brown,Consumer,Oceania,0.002,Bank Transfer,Standard,Delivered,3.0,Emma
+ORD-2026-1326,2026-07-31,Australia,Beauty,Lipstick,3,37.84,22.25,Amazon,Not Returned,Meera Shah,Consumer,Oceania,0.0008,Debit Card,Economy,Delivered,4.0,Priya
+ORD-2026-1362,2026-07-31,Singapore,Home & Kitchen,Desk Lamp,1,187.85,102.44,Shopify,Returned,Sneha Wilson,Corporate,Asia,0.0002,Debit Card,Same Day,Delivered,5.0,Aisha
+ORD-2026-1817,2026-07-31,India,Fashion,Sneakers,1,217.23,144.45,Amazon,Not Returned,Michael Martin,Wholesale,Asia,0.0008,Cash On Delivery,Economy,Delivered,5.0,Karan
+ORD-2026-1967,2026-07-31,France,Electronics,Tablet,8,352.8,266.16,Amazon,Not Returned,Olivia Gupta,Premium,Europe,0.002,Upi,Express,Delivered,4.0,Rahul
+ORD-2026-1340,2026-07-31,India,Books,Business Book,8,19.19,12.63,Ebay,Not Returned,Arjun Anderson,Premium,Asia,0.002,Bank Transfer,Same Day,Delivered,5.0,Vikram
+ORD-2026-1208,2026-08-01,Canada,Fashion,Jeans,8,230.95,120.95,Amazon,Not Returned,Priya Martin,Consumer,North America,0.0015,Credit Card,Standard,Delivered,4.0,Karan
+ORD-2026-1752,2026-08-01,France,Sports,Yoga Mat,10,151.56,87.05,Ebay,Not Returned,Ananya Brown,Premium,Europe,0.0005,Paypal,Same Day,Delivered,1.0,Arjun
+ORD-2026-1458,2026-08-02,India,Sports,Yoga Mat,7,210.21,144.2,Shopify,Not Returned,Vikram Taylor,Premium,Asia,0.0005,Paypal,Economy,Cancelled,4.0,Aisha
+ORD-2026-1949,2026-08-02,Germany,Beauty,Face Cream,7,18.12,9.84,Amazon,Not Returned,David Smith,Consumer,Europe,0.002,Paypal,Express,Delivered,4.0,Vikram
+ORD-2026-1403,2026-08-02,India,Electronics,Smartphone,5,596.29,424.66,Amazon,Not Returned,Sam Verma,Consumer,Asia,0.0015,Credit Card,Same Day,Delivered,5.0,Sofia
+ORD-2026-1792,2026-08-03,Singapore,Electronics,Laptop,10,1460.09,1138.73,Amazon,Not Returned,Isha Anderson,Corporate,Asia,0.0015,Cash On Delivery,Express,Delivered,5.0,Meera
+ORD-2026-1267,2026-08-03,Japan,Sports,Yoga Mat,4,144.81,81.04,Amazon,Returned,Robert Kumar,Corporate,Asia,0.0,Paypal,Standard,Delivered,4.0,Vikram
+ORD-2026-1753,2026-08-04,Germany,Home & Kitchen,Coffee Maker,12,179.19,96.6,Ebay,Not Returned,Robert Johnson,Wholesale,Europe,0.0005,Paypal,Standard,Delivered,4.0,Meera
+ORD-2026-1035,2026-08-04,Singapore,Home & Kitchen,Coffee Maker,5,205.07,119.66,Shopify,Returned,Rohan Taylor,Consumer,Asia,0.0005,Cash On Delivery,Standard,Delivered,4.0,Meera
+ORD-2026-1231,2026-08-04,Canada,Fashion,Sneakers,2,112.18,90.72,Ebay,Not Returned,Neha Kumar,Corporate,North America,0.0005,Cash On Delivery,Standard,Delivered,4.0,Daniel
+ORD-2026-1978,2026-08-04,UK,Books,Novel,3,42.11,21.99,Amazon,Not Returned,Rohan Mehta,Corporate,Europe,0.0005,Credit Card,Express,Delivered,5.0,Rahul
+ORD-2026-1161,2026-08-05,USA,Home & Kitchen,Blender,2,111.95,81.5,Amazon,Not Returned,Sam Thomas,Corporate,North America,0.001,Bank Transfer,Express,Delivered,5.0,Sofia
+ORD-2026-1002,2026-08-05,Germany,Books,Children's Book,7,23.87,16.63,Shopify,Not Returned,Emma Gupta,Corporate,Europe,0.002,Upi,Standard,Delivered,3.0,Arjun
+ORD-2026-1074,2026-08-05,Canada,Home & Kitchen,Desk Lamp,1,303.57,209.0,Ebay,Not Returned,Arjun Smith,Premium,North America,0.0005,Upi,Standard,Delivered,5.0,Priya
+ORD-2026-1600,2026-08-05,India,Fashion,T-Shirt,3,33.8,24.09,Ebay,Not Returned,Ryan Thomas,Premium,Asia,0.001,Bank Transfer,Same Day,Delivered,1.0,Emma
+ORD-2026-1745,2026-08-05,India,Home & Kitchen,Blender,3,297.97,189.27,Amazon,Not Returned,Liam Miller,Premium,Asia,0.0008,Cash On Delivery,Standard,Delivered,5.0,Priya
+ORD-2026-1971,2026-08-06,India,Fashion,Jeans,7,150.63,78.39,Shopify,Not Returned,Emma Martin,Corporate,Asia,0.0002,Cash On Delivery,Economy,Delivered,5.0,Priya
+ORD-2026-1854,2026-08-06,Singapore,Beauty,Lipstick,1,128.2,77.06,Shopify,Not Returned,Ethan Gupta,Premium,Asia,0.0008,Cash On Delivery,Same Day,Delivered,5.0,Vikram
+ORD-2026-1322,2026-08-07,UK,Electronics,Tablet,9,1732.24,1219.04,Shopify,Not Returned,Robert Johnson,Wholesale,Europe,0.0015,Bank Transfer,Express,Delivered,5.0,Emma
+ORD-2026-1385,2026-08-08,UAE,Home & Kitchen,Coffee Maker,7,432.06,288.08,Ebay,Returned,Sneha Verma,Premium,Middle East,0.0002,Paypal,Express,Delivered,4.0,Priya
+ORD-2026-1155,2026-08-09,Germany,Books,Cookbook,3,54.58,29.11,Amazon,Not Returned,Aarav Kumar,Premium,Europe,0.0015,Debit Card,Express,Delivered,5.0,Sofia
+ORD-2026-1537,2026-08-09,France,Electronics,Smartphone,8,82.72,44.75,Amazon,Not Returned,Isha Williams,Corporate,Europe,0.0015,Cash On Delivery,Express,Delivered,4.0,Emma
+ORD-2026-1681,2026-08-09,France,Sports,Fitness Band,8,26.22,16.64,Ebay,Not Returned,Arjun Smith,Consumer,Europe,0.0008,Bank Transfer,Same Day,Delivered,3.0,Aisha
+ORD-2026-1899,2026-08-09,USA,Home & Kitchen,Air Fryer,3,376.67,302.84,Amazon,Not Returned,Michael Williams,Consumer,North America,0.001,Paypal,Economy,Delivered,5.0,Aisha
+ORD-2026-1606,2026-08-09,UAE,Sports,Sports Bag,11,192.68,144.62,Amazon,Not Returned,Lucas Verma,Corporate,Middle East,0.0008,Bank Transfer,Standard,Delivered,4.0,Daniel
+ORD-2026-1612,2026-08-09,UK,Beauty,Perfume,11,46.29,31.96,Shopify,Not Returned,Aisha Patel,Corporate,Europe,0.001,Credit Card,Economy,Delivered,5.0,Karan
+ORD-2026-1323,2026-08-09,UK,Sports,Sports Bag,11,284.03,221.2,Amazon,Returned,James Mehta,Premium,Europe,0.0005,Credit Card,Standard,Delivered,5.0,Daniel
+ORD-2026-1650,2026-08-09,India,Home & Kitchen,Vacuum Cleaner,4,338.2,190.23,Shopify,Not Returned,Aisha Singh,Corporate,Asia,0.0008,Paypal,Standard,Delivered,5.0,Karan
+ORD-2026-1147,2026-08-10,Japan,Sports,Fitness Band,6,29.78,17.93,Amazon,Not Returned,John Davis,Consumer,Asia,0.0008,Bank Transfer,Same Day,Delivered,5.0,Emma
+ORD-2026-1516,2026-08-10,Singapore,Fashion,Backpack,7,161.0,122.84,Shopify,Not Returned,Lucas Mehta,Consumer,Asia,0.0002,Paypal,Standard,Delivered,5.0,Emma
+ORD-2026-1857,2026-08-10,Japan,Electronics,Laptop,12,318.59,253.41,Ebay,Not Returned,Kavya Shah,Consumer,Asia,0.0,Cash On Delivery,Standard,Delivered,3.0,Rahul
+ORD-2026-1049,2026-08-10,USA,Beauty,Shampoo,12,78.43,47.19,Ebay,Not Returned,Noah Lee,Premium,North America,0.001,Credit Card,Standard,Delivered,2.0,Emma
+ORD-2026-1364,2026-08-10,France,Beauty,Lipstick,11,63.67,43.24,Ebay,Not Returned,Emma Johnson,Premium,Europe,0.0,Upi,Standard,Delivered,4.0,Karan
+ORD-2026-1150,2026-08-11,Germany,Sports,Sports Bag,3,246.15,140.51,Shopify,Not Returned,Ava Smith,Wholesale,Europe,0.0005,Credit Card,Same Day,Delivered,3.0,Karan
+ORD-2026-1873,2026-08-11,India,Electronics,Laptop,6,1030.43,649.84,Ebay,Not Returned,Noah Davis,Corporate,Asia,0.0005,Upi,Standard,Delivered,2.0,Karan
+ORD-2026-1915,2026-08-11,Australia,Home & Kitchen,Air Fryer,8,314.56,247.74,Ebay,Not Returned,Robert Davis,Wholesale,Oceania,0.0002,Debit Card,Express,Delivered,5.0,Arjun
+ORD-2026-1886,2026-08-11,France,Electronics,Headphones,4,483.89,316.66,Ebay,Not Returned,Sam Verma,Consumer,Europe,0.0,Upi,Same Day,Pending,5.0,Arjun
+ORD-2026-1668,2026-08-11,UK,Books,Children's Book,9,22.38,13.33,Ebay,Not Returned,Meera Singh,Consumer,Europe,0.0008,Cash On Delivery,Standard,Delivered,5.0,Emma
+ORD-2026-1100,2026-08-11,Singapore,Sports,Fitness Band,3,247.62,154.88,Shopify,Returned,Arjun Singh,Wholesale,Asia,0.0,Upi,Express,Delivered,5.0,Aisha
+ORD-2026-1618,2026-08-12,UAE,Beauty,Skincare Set,6,29.27,16.76,Shopify,Not Returned,Olivia Miller,Premium,Middle East,0.0008,Cash On Delivery,Standard,Delivered,3.0,Arjun
+ORD-2026-1025,2026-08-12,USA,Fashion,Sneakers,10,241.38,144.74,Ebay,Not Returned,David Kumar,Wholesale,North America,0.0,Bank Transfer,Express,Delivered,5.0,Karan
+ORD-2026-1153,2026-08-13,Japan,Home & Kitchen,Desk Lamp,9,110.47,82.88,Shopify,Not Returned,Rahul Miller,Wholesale,Asia,0.0,Debit Card,Same Day,Pending,5.0,Emma
+ORD-2026-1519,2026-08-13,USA,Books,Business Book,6,56.26,37.09,Amazon,Not Returned,Alex Brown,Corporate,North America,0.0008,Debit Card,Standard,Delivered,4.0,Priya
+ORD-2026-1462,2026-08-13,Canada,Electronics,Smartwatch,5,1621.67,1258.45,Shopify,Not Returned,Vikram Kumar,Consumer,North America,0.002,Bank Transfer,Standard,Delivered,5.0,Vikram
+ORD-2026-1090,2026-08-14,Germany,Sports,Running Shoes,5,338.65,255.79,Shopify,Not Returned,Olivia Davis,Wholesale,Europe,0.002,Debit Card,Express,Delivered,5.0,Priya
+ORD-2026-1520,2026-08-14,USA,Home & Kitchen,Blender,2,278.96,177.77,Shopify,Not Returned,Isha Shah,Consumer,North America,0.0,Cash On Delivery,Express,Delivered,4.0,Sofia
+ORD-2026-1619,2026-08-16,USA,Electronics,Laptop,10,1683.89,928.0,Ebay,Refunded,John Patel,Premium,North America,0.0015,Paypal,Express,Delivered,3.0,Emma
+ORD-2026-1805,2026-08-16,Canada,Electronics,Smartphone,5,321.56,205.94,Amazon,Refunded,Emma Johnson,Consumer,North America,0.0015,Cash On Delivery,Standard,Delivered,3.0,Vikram
+ORD-2026-1400,2026-08-16,Australia,Fashion,T-Shirt,5,99.33,60.83,Ebay,Not Returned,Ava Wilson,Premium,Oceania,0.0008,Debit Card,Economy,Delivered,5.0,Rahul
+ORD-2026-1879,2026-08-17,Australia,Home & Kitchen,Air Fryer,10,146.73,84.92,Ebay,Not Returned,David Davis,Corporate,Oceania,0.0005,Debit Card,Standard,Delivered,4.0,Aisha
+ORD-2026-1055,2026-08-17,Canada,Sports,Dumbbells,1,113.34,69.09,Ebay,Not Returned,Alex Williams,Premium,North America,0.001,Bank Transfer,Economy,Delivered,5.0,Sofia
+ORD-2026-1848,2026-08-17,Canada,Fashion,Sneakers,12,54.64,31.9,Shopify,Not Returned,Ethan Mehta,Premium,North America,0.002,Upi,Standard,Delivered,4.0,Vikram
+ORD-2026-1586,2026-08-17,Japan,Sports,Running Shoes,8,92.81,55.75,Amazon,Returned,Leo Williams,Corporate,Asia,0.001,Paypal,Standard,Delivered,4.0,Sofia
+ORD-2026-1235,2026-08-18,France,Electronics,Smartwatch,4,1026.85,650.6,Amazon,Not Returned,Sam Wilson,Premium,Europe,0.002,Credit Card,Economy,Delivered,5.0,Aisha
+ORD-2026-1944,2026-08-19,India,Electronics,Headphones,7,400.89,268.31,Amazon,Not Returned,Noah Miller,Premium,Asia,0.0015,Bank Transfer,Express,Pending,5.0,Aisha
+ORD-2026-1342,2026-08-20,Japan,Electronics,Headphones,12,1555.45,1140.07,Shopify,Not Returned,Aisha Anderson,Premium,Asia,0.0005,Debit Card,Standard,Delivered,4.0,Meera
+ORD-2026-1475,2026-08-20,Germany,Home & Kitchen,Vacuum Cleaner,1,83.11,51.91,Shopify,Not Returned,Lucas Taylor,Corporate,Europe,0.002,Debit Card,Economy,Delivered,4.0,Sofia
+ORD-2026-1042,2026-08-21,France,Books,Children's Book,6,42.07,28.58,Shopify,Not Returned,Liam Brown,Corporate,Europe,0.0008,Credit Card,Express,Pending,4.0,Meera
+ORD-2026-1806,2026-08-21,France,Sports,Yoga Mat,11,217.49,128.24,Amazon,Not Returned,Rahul Johnson,Premium,Europe,0.0008,Credit Card,Economy,Delivered,5.0,Karan
+ORD-2026-1015,2026-08-21,Australia,Beauty,Lipstick,4,156.99,124.14,Shopify,Refunded,Leo Thomas,Wholesale,Oceania,0.0002,Debit Card,Express,Delivered,4.0,Karan
+ORD-2026-1383,2026-08-21,USA,Beauty,Skincare Set,8,19.24,12.52,Amazon,Not Returned,Lucas Williams,Corporate,North America,0.0002,Paypal,Express,Cancelled,4.0,Meera
+ORD-2026-1624,2026-08-21,India,Books,Children's Book,3,10.0,7.32,Ebay,Not Returned,Daniel Mehta,Corporate,Asia,0.0,Cash On Delivery,Express,Delivered,5.0,Karan
+ORD-2026-1375,2026-08-22,Japan,Electronics,Smartphone,12,1195.91,627.03,Ebay,Not Returned,Neha Martin,Consumer,Asia,0.0015,Credit Card,Standard,Delivered,5.0,Sofia
+ORD-2026-1811,2026-08-22,Australia,Books,Novel,4,48.82,25.74,Shopify,Refunded,Daniel Williams,Premium,Oceania,0.0005,Debit Card,Same Day,Delivered,5.0,Sofia
+ORD-2026-1473,2026-08-22,UK,Home & Kitchen,Desk Lamp,3,255.26,167.79,Shopify,Not Returned,Aditya Mehta,Premium,Europe,0.0015,Credit Card,Economy,Delivered,5.0,Arjun
+ORD-2026-1800,2026-08-23,Canada,Sports,Dumbbells,2,278.04,180.16,Amazon,Not Returned,Vikram Thomas,Premium,North America,0.0,Debit Card,Same Day,Pending,4.0,Karan
+ORD-2026-1635,2026-08-25,Canada,Sports,Fitness Band,4,210.22,127.29,Shopify,Not Returned,Ananya Davis,Consumer,North America,0.0015,Bank Transfer,Standard,Delivered,1.0,Meera
+ORD-2026-1838,2026-08-25,Germany,Home & Kitchen,Blender,1,295.18,237.49,Amazon,Not Returned,Arjun Davis,Wholesale,Europe,0.0005,Debit Card,Same Day,Delivered,3.0,Vikram
+ORD-2026-1083,2026-08-25,UK,Beauty,Face Cream,8,85.18,52.03,Shopify,Not Returned,Aditya Patel,Premium,Europe,0.0005,Upi,Standard,Delivered,3.0,Arjun
+ORD-2026-1741,2026-08-26,Singapore,Home & Kitchen,Blender,2,248.63,180.51,Ebay,Not Returned,Sneha Kumar,Wholesale,Asia,0.0015,Debit Card,Same Day,Delivered,4.0,Daniel
+ORD-2026-1138,2026-08-27,Australia,Beauty,Skincare Set,11,71.07,42.53,Amazon,Not Returned,Alex Johnson,Corporate,Oceania,0.001,Upi,Same Day,Cancelled,4.0,Rahul
+ORD-2026-1234,2026-08-29,Canada,Books,Self-Help Book,3,68.41,47.03,Shopify,Not Returned,Neha Singh,Wholesale,North America,0.001,Upi,Express,Delivered,3.0,Meera
+ORD-2026-1317,2026-08-30,India,Home & Kitchen,Desk Lamp,3,437.66,335.27,Amazon,Not Returned,Ethan Shah,Corporate,Asia,0.0,Debit Card,Same Day,Delivered,4.0,Vikram
+ORD-2026-1397,2026-08-31,Singapore,Home & Kitchen,Vacuum Cleaner,6,99.13,80.4,Shopify,Not Returned,James Gupta,Wholesale,Asia,0.001,Upi,Standard,Pending,5.0,Sofia
+ORD-2026-1803,2026-09-01,UAE,Sports,Fitness Band,4,111.88,90.37,Shopify,Returned,Noah Gupta,Premium,Middle East,0.0008,Credit Card,Standard,Delivered,5.0,Karan
+ORD-2026-1420,2026-09-01,France,Books,Self-Help Book,8,63.01,43.52,Ebay,Not Returned,Neha Anderson,Consumer,Europe,0.0008,Paypal,Same Day,Delivered,5.0,Sofia
+ORD-2026-1545,2026-09-01,Australia,Books,Novel,3,74.89,46.28,Ebay,Not Returned,Vikram Gupta,Wholesale,Oceania,0.0008,Credit Card,Same Day,Delivered,4.0,Emma
+ORD-2026-1378,2026-09-01,India,Beauty,Face Cream,1,11.23,8.96,Ebay,Returned,Ananya Shah,Corporate,Asia,0.0015,Cash On Delivery,Same Day,Delivered,4.0,Vikram
+ORD-2026-1968,2026-09-02,India,Beauty,Skincare Set,2,109.7,68.49,Shopify,Not Returned,Emma Mehta,Wholesale,Asia,0.0015,Debit Card,Economy,Delivered,5.0,Daniel
+ORD-2026-1269,2026-09-02,Singapore,Beauty,Shampoo,10,146.79,116.31,Amazon,Not Returned,Rohan Smith,Wholesale,Asia,0.002,Upi,Express,Delivered,3.0,Aisha
+ORD-2026-1534,2026-09-02,UAE,Books,Self-Help Book,11,57.57,41.96,Amazon,Not Returned,Mia Sharma,Corporate,Middle East,0.0015,Upi,Economy,Delivered,4.0,Daniel
+ORD-2026-1137,2026-09-03,UAE,Home & Kitchen,Vacuum Cleaner,4,438.0,271.51,Amazon,Not Returned,Robert Shah,Wholesale,Middle East,0.0,Debit Card,Same Day,Delivered,5.0,Karan
+ORD-2026-1555,2026-09-03,India,Electronics,Laptop,2,289.93,206.55,Shopify,Not Returned,Karan Martin,Corporate,Asia,0.001,Paypal,Economy,Delivered,5.0,Rahul
+ORD-2026-1828,2026-09-03,Germany,Fashion,Sneakers,4,240.89,160.73,Ebay,Not Returned,John Kumar,Consumer,Europe,0.002,Cash On Delivery,Same Day,Delivered,5.0,Vikram
+ORD-2026-1264,2026-09-04,UK,Home & Kitchen,Air Fryer,6,310.96,237.91,Ebay,Not Returned,Alex Taylor,Corporate,Europe,0.0015,Bank Transfer,Express,Delivered,5.0,Rahul
+ORD-2026-1455,2026-09-04,France,Electronics,Smartphone,3,103.87,57.5,Ebay,Not Returned,Priya Verma,Wholesale,Europe,0.0,Cash On Delivery,Express,Delivered,2.0,Arjun
+ORD-2026-1499,2026-09-04,USA,Beauty,Face Cream,8,47.3,24.65,Ebay,Not Returned,Ethan Davis,Corporate,North America,0.0002,Paypal,Express,Delivered,4.0,Aisha
+ORD-2026-1280,2026-09-04,USA,Electronics,Laptop,11,1723.94,1151.25,Shopify,Not Returned,Anna Johnson,Wholesale,North America,0.0,Bank Transfer,Same Day,Delivered,2.0,Sofia
+ORD-2026-1932,2026-09-05,UK,Beauty,Skincare Set,10,53.38,42.43,Amazon,Not Returned,Kavya Wilson,Corporate,Europe,0.0,Cash On Delivery,Economy,Pending,2.0,Arjun
+ORD-2026-1409,2026-09-05,Germany,Fashion,Sneakers,4,49.95,27.15,Shopify,Not Returned,Aditya Shah,Consumer,Europe,0.0015,Credit Card,Standard,Delivered,1.0,Sofia
+ORD-2026-1429,2026-09-06,UK,Fashion,Sneakers,1,79.43,60.45,Amazon,Not Returned,Arjun Singh,Premium,Europe,0.0015,Bank Transfer,Same Day,Delivered,2.0,Arjun
+ORD-2026-1574,2026-09-06,UAE,Electronics,Smartphone,1,1246.69,776.24,Amazon,Not Returned,Leo Verma,Corporate,Middle East,0.001,Cash On Delivery,Express,Delivered,4.0,Emma
+ORD-2026-1351,2026-09-07,Australia,Beauty,Skincare Set,6,102.57,60.6,Amazon,Not Returned,John Lee,Wholesale,Oceania,0.0015,Upi,Standard,Delivered,5.0,Sofia
+ORD-2026-1936,2026-09-07,India,Beauty,Lipstick,7,36.19,23.96,Shopify,Not Returned,Grace Martin,Corporate,Asia,0.0,Paypal,Economy,Delivered,4.0,Emma
+ORD-2026-1078,2026-09-07,Japan,Beauty,Lipstick,5,46.65,31.43,Ebay,Not Returned,Liam Patel,Corporate,Asia,0.0005,Paypal,Standard,Delivered,5.0,Aisha
+ORD-2026-1930,2026-09-07,Japan,Beauty,Shampoo,10,65.51,41.3,Shopify,Not Returned,David Patel,Consumer,Asia,0.002,Debit Card,Economy,Delivered,4.0,Meera
+ORD-2026-1716,2026-09-08,UK,Electronics,Headphones,12,1052.34,675.56,Ebay,Not Returned,Sam Johnson,Corporate,Europe,0.0,Upi,Economy,Delivered,5.0,Sofia
+ORD-2026-1706,2026-09-08,UK,Beauty,Shampoo,11,29.3,21.36,Ebay,Returned,Ava Verma,Consumer,Europe,0.0015,Upi,Same Day,Delivered,5.0,Vikram
+ORD-2026-1975,2026-09-08,UAE,Books,Business Book,1,42.27,25.49,Amazon,Not Returned,Ava Johnson,Consumer,Middle East,0.0002,Credit Card,Express,Delivered,1.0,Priya
+ORD-2026-1890,2026-09-08,USA,Sports,Yoga Mat,5,328.39,236.24,Amazon,Not Returned,Noah Williams,Wholesale,North America,0.0002,Bank Transfer,Economy,Delivered,5.0,Emma
+ORD-2026-1570,2026-09-09,Japan,Beauty,Shampoo,5,70.16,36.59,Amazon,Not Returned,Rohan Anderson,Corporate,Asia,0.0015,Paypal,Standard,Delivered,3.0,Sofia
+ORD-2026-1044,2026-09-09,France,Electronics,Smartwatch,3,551.82,448.24,Amazon,Refunded,Aarav Martin,Premium,Europe,0.001,Paypal,Economy,Delivered,5.0,Sofia
+ORD-2026-1939,2026-09-09,India,Sports,Yoga Mat,1,222.74,170.71,Amazon,Returned,Emma Martin,Premium,Asia,0.0002,Bank Transfer,Standard,Delivered,5.0,Priya
+ORD-2026-1041,2026-09-09,India,Sports,Running Shoes,2,99.65,63.97,Shopify,Not Returned,Vivaan Singh,Premium,Asia,0.001,Debit Card,Economy,Delivered,5.0,Emma
+ORD-2026-1200,2026-09-10,USA,Fashion,Backpack,2,185.7,99.25,Shopify,Refunded,Daniel Thomas,Wholesale,North America,0.0008,Credit Card,Economy,Delivered,5.0,Priya
+ORD-2026-1123,2026-09-10,France,Electronics,Laptop,5,1056.89,583.6,Amazon,Refunded,David Wilson,Premium,Europe,0.0005,Debit Card,Standard,Delivered,4.0,Meera
+ORD-2026-1413,2026-09-10,USA,Beauty,Face Cream,9,33.11,24.79,Amazon,Not Returned,Lucas Smith,Wholesale,North America,0.0015,Bank Transfer,Same Day,Delivered,3.0,Sofia
+ORD-2026-1183,2026-09-10,Singapore,Electronics,Headphones,4,581.54,439.27,Amazon,Not Returned,Sarah Verma,Corporate,Asia,0.0015,Credit Card,Economy,Delivered,5.0,Aisha
+ORD-2026-1659,2026-09-11,India,Electronics,Smartwatch,11,958.61,704.66,Amazon,Not Returned,Kavya Gupta,Premium,Asia,0.0015,Cash On Delivery,Same Day,Delivered,5.0,Aisha
+ORD-2026-1945,2026-09-11,UK,Fashion,Jacket,2,131.99,107.77,Shopify,Not Returned,Meera Mehta,Wholesale,Europe,0.0002,Credit Card,Standard,Delivered,4.0,Meera
+ORD-2026-1703,2026-09-12,Germany,Home & Kitchen,Desk Lamp,7,439.25,257.43,Shopify,Not Returned,Ananya Shah,Consumer,Europe,0.0002,Bank Transfer,Express,Delivered,5.0,Aisha
+ORD-2026-1228,2026-09-12,Germany,Sports,Running Shoes,5,294.39,239.03,Amazon,Not Returned,Alex Johnson,Corporate,Europe,0.0005,Credit Card,Standard,Delivered,2.0,Arjun
+ORD-2026-1373,2026-09-13,UK,Electronics,Smartphone,1,1317.95,919.78,Ebay,Not Returned,Maya Sharma,Consumer,Europe,0.0008,Upi,Standard,Delivered,5.0,Meera
+ORD-2026-1417,2026-09-13,Singapore,Electronics,Laptop,5,921.67,543.09,Ebay,Not Returned,Vivaan Mehta,Wholesale,Asia,0.0002,Bank Transfer,Same Day,Delivered,5.0,Daniel
+ORD-2026-1263,2026-09-14,France,Beauty,Perfume,9,78.99,60.44,Amazon,Not Returned,Maya Mehta,Corporate,Europe,0.0005,Credit Card,Same Day,Delivered,5.0,Emma
+ORD-2026-1329,2026-09-14,UK,Beauty,Shampoo,10,166.24,120.85,Amazon,Not Returned,Isha Martin,Corporate,Europe,0.0002,Paypal,Economy,Delivered,3.0,Meera
+ORD-2026-1507,2026-09-14,Singapore,Fashion,Backpack,7,25.69,16.76,Ebay,Not Returned,Sarah Singh,Premium,Asia,0.0005,Debit Card,Standard,Delivered,3.0,Arjun
+ORD-2026-1761,2026-09-14,India,Home & Kitchen,Desk Lamp,8,243.12,176.29,Ebay,Not Returned,Vikram Lee,Premium,Asia,0.0008,Debit Card,Express,Pending,5.0,Sofia
+ORD-2026-1575,2026-09-15,France,Electronics,Headphones,12,505.45,387.27,Ebay,Not Returned,Isha Shah,Corporate,Europe,0.0002,Debit Card,Standard,Delivered,3.0,Daniel
+ORD-2026-1038,2026-09-17,France,Books,Children's Book,2,65.33,45.06,Ebay,Not Returned,Ethan Sharma,Wholesale,Europe,0.0,Paypal,Standard,Delivered,4.0,Rahul
+ORD-2026-1738,2026-09-17,Germany,Fashion,Backpack,10,97.71,70.7,Amazon,Refunded,Ava Miller,Premium,Europe,0.0005,Bank Transfer,Economy,Delivered,4.0,Priya
+ORD-2026-1154,2026-09-17,France,Books,Business Book,12,38.47,24.36,Ebay,Not Returned,Ava Thomas,Consumer,Europe,0.0008,Upi,Standard,Pending,4.0,Arjun
+ORD-2026-1900,2026-09-17,France,Beauty,Skincare Set,12,81.78,44.12,Amazon,Not Returned,Ananya Kumar,Consumer,Europe,0.0005,Debit Card,Standard,Delivered,4.0,Priya
+ORD-2026-1896,2026-09-17,UAE,Books,Self-Help Book,4,52.19,28.63,Shopify,Returned,Rahul Anderson,Corporate,Middle East,0.0015,Paypal,Same Day,Delivered,5.0,Priya
+ORD-2026-1821,2026-09-18,Singapore,Beauty,Perfume,7,46.58,30.54,Shopify,Not Returned,Priya Thomas,Premium,Asia,0.001,Credit Card,Standard,Delivered,4.0,Meera
+ORD-2026-1855,2026-09-18,Germany,Beauty,Shampoo,5,24.16,15.82,Amazon,Not Returned,Vivaan Gupta,Consumer,Europe,0.0015,Debit Card,Standard,Delivered,4.0,Daniel
+ORD-2026-1236,2026-09-18,USA,Beauty,Lipstick,1,104.71,54.45,Ebay,Refunded,Aisha Wilson,Premium,North America,0.0,Upi,Standard,Delivered,5.0,Emma
+ORD-2026-1399,2026-09-19,USA,Sports,Fitness Band,11,241.61,131.97,Amazon,Not Returned,Mia Davis,Corporate,North America,0.001,Cash On Delivery,Economy,Delivered,5.0,Meera
+ORD-2026-1468,2026-09-19,India,Sports,Dumbbells,7,259.28,192.39,Ebay,Not Returned,Liam Anderson,Premium,Asia,0.0002,Cash On Delivery,Express,Delivered,4.0,Aisha
+ORD-2026-1276,2026-09-20,Australia,Sports,Yoga Mat,5,77.76,52.24,Shopify,Not Returned,Sarah Martin,Premium,Oceania,0.001,Cash On Delivery,Economy,Delivered,5.0,Rahul
+ORD-2026-1712,2026-09-20,Japan,Home & Kitchen,Coffee Maker,12,304.39,194.0,Ebay,Not Returned,Vivaan Smith,Premium,Asia,0.002,Paypal,Express,Delivered,4.0,Arjun
+ORD-2026-1188,2026-09-20,France,Books,Children's Book,1,23.48,18.24,Amazon,Not Returned,Liam Brown,Corporate,Europe,0.0002,Credit Card,Economy,Delivered,4.0,Sofia
+ORD-2026-1928,2026-09-20,France,Fashion,T-Shirt,6,126.97,80.75,Ebay,Not Returned,Alex Patel,Wholesale,Europe,0.0015,Credit Card,Same Day,Delivered,4.0,Meera
+ORD-2026-1465,2026-09-22,Australia,Beauty,Lipstick,9,145.08,91.19,Amazon,Not Returned,Rohan Johnson,Premium,Oceania,0.0,Paypal,Express,Delivered,5.0,Rahul
+ORD-2026-1621,2026-09-23,France,Fashion,Jacket,11,75.56,59.7,Ebay,Not Returned,Robert Johnson,Premium,Europe,0.0008,Debit Card,Economy,Delivered,5.0,Emma
+ORD-2026-1558,2026-09-23,UAE,Fashion,Backpack,9,59.47,48.36,Shopify,Not Returned,Sarah Wilson,Corporate,Middle East,0.0015,Bank Transfer,Economy,Delivered,5.0,Meera
+ORD-2026-1128,2026-09-24,Canada,Electronics,Smartwatch,2,186.22,127.43,Shopify,Not Returned,Vikram Shah,Wholesale,North America,0.001,Credit Card,Economy,Delivered,3.0,Aisha
+ORD-2026-1852,2026-09-24,Japan,Beauty,Face Cream,10,161.48,104.21,Amazon,Not Returned,Sam Johnson,Corporate,Asia,0.0002,Credit Card,Express,Delivered,4.0,Karan
+ORD-2026-1224,2026-09-24,UK,Electronics,Tablet,9,1092.51,622.85,Ebay,Refunded,Michael Johnson,Wholesale,Europe,0.002,Cash On Delivery,Express,Delivered,4.0,Meera
+ORD-2026-1393,2026-09-24,Canada,Beauty,Lipstick,12,119.6,72.65,Ebay,Not Returned,Ethan Miller,Premium,North America,0.0,Cash On Delivery,Same Day,Delivered,5.0,Sofia
+ORD-2026-1909,2026-09-24,Japan,Home & Kitchen,Blender,4,351.37,220.82,Amazon,Not Returned,Vikram Smith,Corporate,Asia,0.001,Debit Card,Same Day,Delivered,4.0,Daniel
+ORD-2026-1477,2026-09-25,France,Sports,Yoga Mat,11,204.59,118.2,Amazon,Not Returned,Alex Anderson,Consumer,Europe,0.001,Credit Card,Express,Delivered,5.0,Aisha
+ORD-2026-1807,2026-09-25,USA,Books,Self-Help Book,7,50.12,39.24,Amazon,Not Returned,Rohan Lee,Premium,North America,0.0015,Debit Card,Economy,Delivered,4.0,Rahul
+ORD-2026-1085,2026-09-25,Singapore,Electronics,Headphones,12,225.05,160.65,Ebay,Not Returned,Neha Williams,Premium,Asia,0.0,Upi,Economy,Delivered,4.0,Rahul
+ORD-2026-1489,2026-09-25,Japan,Sports,Running Shoes,2,214.09,159.24,Ebay,Not Returned,Emma Shah,Consumer,Asia,0.0002,Cash On Delivery,Same Day,Delivered,4.0,Vikram
+ORD-2026-1664,2026-09-26,India,Home & Kitchen,Blender,9,431.52,289.53,Shopify,Not Returned,David Singh,Corporate,Asia,0.0005,Cash On Delivery,Express,Cancelled,4.0,Meera
+ORD-2026-1343,2026-09-26,India,Home & Kitchen,Coffee Maker,8,265.35,201.59,Shopify,Not Returned,Noah Gupta,Consumer,Asia,0.001,Bank Transfer,Express,Delivered,4.0,Emma
+ORD-2026-1613,2026-09-26,France,Books,Business Book,2,18.21,10.97,Amazon,Not Returned,Sofia Mehta,Consumer,Europe,0.0,Credit Card,Economy,Delivered,5.0,Meera
+ORD-2026-1576,2026-09-26,Australia,Electronics,Headphones,4,1678.05,1087.19,Shopify,Returned,Kavya Verma,Premium,Oceania,0.001,Paypal,Economy,Delivered,4.0,Aisha
+ORD-2026-1958,2026-09-26,Singapore,Fashion,Backpack,7,25.23,20.55,Ebay,Not Returned,Robert Kumar,Premium,Asia,0.0005,Credit Card,Standard,Delivered,3.0,Karan
+ORD-2026-1749,2026-09-26,UK,Books,Self-Help Book,7,72.28,45.07,Ebay,Not Returned,Ryan Patel,Consumer,Europe,0.0008,Upi,Same Day,Delivered,5.0,Aisha
+ORD-2026-1318,2026-09-27,Singapore,Sports,Running Shoes,12,250.59,131.69,Amazon,Not Returned,Sofia Mehta,Consumer,Asia,0.001,Upi,Express,Cancelled,4.0,Priya
+ORD-2026-1192,2026-09-27,Singapore,Electronics,Laptop,5,738.79,477.09,Amazon,Not Returned,Sarah Sharma,Wholesale,Asia,0.0015,Cash On Delivery,Same Day,Cancelled,4.0,Sofia
+ORD-2026-1996,2026-09-27,Canada,Books,Novel,7,60.45,46.06,Shopify,Not Returned,Vikram Thomas,Consumer,North America,0.002,Bank Transfer,Express,Delivered,5.0,Emma
+ORD-2026-1599,2026-09-28,USA,Home & Kitchen,Coffee Maker,1,295.36,225.69,Ebay,Not Returned,Liam Taylor,Wholesale,North America,0.0002,Cash On Delivery,Same Day,Delivered,3.0,Sofia
+ORD-2026-1223,2026-09-29,Australia,Electronics,Laptop,9,422.99,267.3,Amazon,Not Returned,Vivaan Sharma,Corporate,Oceania,0.0,Debit Card,Same Day,Cancelled,4.0,Karan
+ORD-2026-1016,2026-09-29,Germany,Electronics,Smartwatch,12,1012.58,753.76,Amazon,Not Returned,Arjun Anderson,Consumer,Europe,0.0,Debit Card,Standard,Delivered,5.0,Priya
+ORD-2026-1009,2026-09-29,UK,Sports,Yoga Mat,11,118.49,84.33,Amazon,Not Returned,Robert Johnson,Wholesale,Europe,0.001,Credit Card,Standard,Delivered,3.0,Meera
+ORD-2026-1320,2026-09-29,Singapore,Sports,Sports Bag,2,81.52,54.63,Shopify,Not Returned,Ethan Taylor,Wholesale,Asia,0.0008,Cash On Delivery,Express,Delivered,2.0,Aisha
+ORD-2026-1425,2026-09-29,Australia,Home & Kitchen,Desk Lamp,12,480.02,352.96,Shopify,Not Returned,Leo Shah,Premium,Oceania,0.001,Credit Card,Same Day,Delivered,3.0,Vikram
+ORD-2026-1388,2026-09-29,Australia,Home & Kitchen,Blender,11,245.54,174.34,Amazon,Not Returned,Olivia Miller,Premium,Oceania,0.002,Cash On Delivery,Express,Delivered,5.0,Arjun
+ORD-2026-1306,2026-09-30,France,Sports,Yoga Mat,12,43.23,26.42,Shopify,Not Returned,Meera Shah,Corporate,Europe,0.0002,Bank Transfer,Express,Pending,5.0,Vikram
+ORD-2026-1010,2026-09-30,France,Home & Kitchen,Coffee Maker,4,442.05,355.45,Amazon,Not Returned,Ananya Taylor,Corporate,Europe,0.0,Upi,Economy,Delivered,5.0,Emma
+ORD-2026-1815,2026-09-30,Japan,Books,Novel,4,14.72,10.8,Shopify,Not Returned,Grace Gupta,Wholesale,Asia,0.0015,Credit Card,Same Day,Delivered,5.0,Priya
+ORD-2026-1952,2026-10-01,India,Home & Kitchen,Coffee Maker,5,483.44,267.83,Shopify,Not Returned,David Kumar,Wholesale,Asia,0.0008,Cash On Delivery,Same Day,Delivered,5.0,Arjun
+ORD-2026-1284,2026-10-01,Germany,Home & Kitchen,Air Fryer,8,407.69,233.6,Ebay,Returned,Noah Taylor,Premium,Europe,0.0008,Upi,Standard,Delivered,5.0,Rahul
+ORD-2026-1870,2026-10-02,India,Fashion,Backpack,10,130.99,73.86,Amazon,Not Returned,Meera Lee,Consumer,Asia,0.0005,Upi,Standard,Pending,4.0,Emma
+ORD-2026-1912,2026-10-02,USA,Home & Kitchen,Air Fryer,2,196.63,149.52,Shopify,Not Returned,Ananya Kumar,Wholesale,North America,0.0,Debit Card,Standard,Delivered,3.0,Priya
+ORD-2026-1300,2026-10-02,USA,Books,Children's Book,6,75.02,61.45,Amazon,Not Returned,Ananya Taylor,Corporate,North America,0.0015,Upi,Same Day,Delivered,3.0,Sofia
+ORD-2026-1676,2026-10-02,Japan,Fashion,Backpack,4,98.92,78.68,Ebay,Not Returned,Aditya Sharma,Corporate,Asia,0.0002,Credit Card,Standard,Delivered,4.0,Aisha
+ORD-2026-1548,2026-10-03,Australia,Fashion,Backpack,11,234.8,130.99,Shopify,Not Returned,Noah Gupta,Premium,Oceania,0.0015,Debit Card,Economy,Delivered,4.0,Sofia
+ORD-2026-1769,2026-10-03,Canada,Books,Novel,7,53.1,42.78,Amazon,Not Returned,Arjun Wilson,Corporate,North America,0.001,Debit Card,Same Day,Delivered,4.0,Daniel
+ORD-2026-1033,2026-10-03,India,Sports,Fitness Band,8,21.95,13.73,Ebay,Returned,Sarah Lee,Corporate,Asia,0.002,Paypal,Express,Delivered,5.0,Karan
+ORD-2026-1039,2026-10-03,Canada,Books,Self-Help Book,12,19.02,10.9,Shopify,Not Returned,Ryan Miller,Premium,North America,0.001,Upi,Express,Pending,5.0,Arjun
+ORD-2026-1381,2026-10-03,Canada,Fashion,Sneakers,7,77.82,54.87,Amazon,Not Returned,Neha Sharma,Wholesale,North America,0.002,Bank Transfer,Standard,Delivered,2.0,Arjun
+ORD-2026-1120,2026-10-03,France,Electronics,Headphones,12,215.93,172.14,Shopify,Not Returned,Emily Brown,Corporate,Europe,0.0015,Credit Card,Express,Delivered,4.0,Emma
+ORD-2026-1687,2026-10-04,UAE,Books,Business Book,1,76.52,62.56,Ebay,Returned,Aditya Lee,Corporate,Middle East,0.0005,Upi,Standard,Delivered,5.0,Arjun
+ORD-2026-1195,2026-10-05,Japan,Electronics,Headphones,10,1049.4,722.97,Shopify,Not Returned,Isha Taylor,Consumer,Asia,0.0002,Credit Card,Standard,Delivered,5.0,Emma
+ORD-2026-1140,2026-10-05,Singapore,Books,Self-Help Book,8,20.11,15.25,Ebay,Not Returned,Arjun Anderson,Consumer,Asia,0.0002,Credit Card,Standard,Delivered,3.0,Aisha
+ORD-2026-1032,2026-10-05,Canada,Sports,Yoga Mat,3,69.77,44.3,Shopify,Not Returned,Ava Patel,Corporate,North America,0.0002,Paypal,Economy,Delivered,4.0,Priya
+ORD-2026-1095,2026-10-06,Japan,Fashion,Sneakers,10,115.81,83.3,Ebay,Not Returned,David Thomas,Consumer,Asia,0.0,Paypal,Economy,Delivered,5.0,Aisha
+ORD-2026-1253,2026-10-07,USA,Fashion,Jacket,7,110.88,79.64,Shopify,Not Returned,Priya Smith,Premium,North America,0.0008,Credit Card,Express,Delivered,5.0,Arjun
+ORD-2026-1983,2026-10-07,Singapore,Home & Kitchen,Air Fryer,4,356.92,195.17,Amazon,Not Returned,Noah Wilson,Corporate,Asia,0.0002,Cash On Delivery,Same Day,Delivered,5.0,Meera
+ORD-2026-1962,2026-10-08,UAE,Home & Kitchen,Vacuum Cleaner,1,348.67,272.84,Amazon,Not Returned,Arjun Miller,Corporate,Middle East,0.001,Bank Transfer,Economy,Delivered,3.0,Emma
+ORD-2026-1282,2026-10-08,Singapore,Fashion,T-Shirt,1,175.04,110.95,Shopify,Not Returned,Sneha Brown,Wholesale,Asia,0.0,Bank Transfer,Same Day,Delivered,4.0,Meera
+ORD-2026-1350,2026-10-08,USA,Fashion,Jeans,11,36.31,22.17,Amazon,Not Returned,Alex Davis,Consumer,North America,0.0008,Upi,Express,Delivered,5.0,Priya
+ORD-2026-1933,2026-10-08,USA,Books,Self-Help Book,6,52.41,42.65,Ebay,Refunded,Ethan Johnson,Corporate,North America,0.002,Cash On Delivery,Same Day,Delivered,5.0,Priya
+ORD-2026-1435,2026-10-08,Australia,Fashion,Jacket,2,209.61,152.92,Ebay,Not Returned,Noah Wilson,Consumer,Oceania,0.001,Credit Card,Express,Delivered,5.0,Sofia
+ORD-2026-1255,2026-10-09,Japan,Fashion,Sneakers,2,61.71,46.89,Shopify,Not Returned,Emily Singh,Premium,Asia,0.002,Cash On Delivery,Standard,Delivered,5.0,Karan
+ORD-2026-1051,2026-10-09,Australia,Fashion,Backpack,11,44.06,25.04,Amazon,Not Returned,Ryan Singh,Premium,Oceania,0.0008,Upi,Same Day,Delivered,5.0,Arjun
+ORD-2026-1247,2026-10-09,India,Home & Kitchen,Blender,10,49.16,39.31,Shopify,Not Returned,Rahul Johnson,Corporate,Asia,0.001,Debit Card,Standard,Delivered,5.0,Vikram
+ORD-2026-1272,2026-10-09,USA,Books,Business Book,8,64.38,51.81,Ebay,Not Returned,Arjun Mehta,Wholesale,North America,0.0,Cash On Delivery,Standard,Delivered,4.0,Arjun
+ORD-2026-1014,2026-10-09,Germany,Home & Kitchen,Air Fryer,9,238.09,153.94,Amazon,Returned,Arjun Thomas,Consumer,Europe,0.0005,Credit Card,Express,Delivered,3.0,Daniel
+ORD-2026-1959,2026-10-09,Canada,Fashion,T-Shirt,3,152.57,105.99,Ebay,Not Returned,Rohan Thomas,Premium,North America,0.0,Bank Transfer,Same Day,Delivered,5.0,Arjun
+ORD-2026-1259,2026-10-10,UAE,Books,Novel,10,49.68,37.3,Shopify,Not Returned,Sarah Thomas,Wholesale,Middle East,0.0002,Cash On Delivery,Express,Cancelled,4.0,Meera
+ORD-2026-1956,2026-10-10,Singapore,Electronics,Smartphone,2,1102.8,759.19,Ebay,Not Returned,Ethan Kumar,Consumer,Asia,0.0,Cash On Delivery,Same Day,Delivered,5.0,Emma
+ORD-2026-1053,2026-10-10,Singapore,Books,Self-Help Book,2,10.08,7.15,Shopify,Not Returned,Rohan Verma,Consumer,Asia,0.002,Paypal,Standard,Delivered,5.0,Daniel
+ORD-2026-1202,2026-10-11,Australia,Books,Business Book,10,72.06,40.87,Ebay,Refunded,Sarah Brown,Premium,Oceania,0.0,Upi,Express,Delivered,4.0,Arjun
+ORD-2026-1566,2026-10-11,Australia,Fashion,T-Shirt,11,38.28,28.29,Shopify,Not Returned,Aarav Miller,Corporate,Oceania,0.0,Paypal,Economy,Delivered,5.0,Vikram
+ORD-2026-1239,2026-10-11,Japan,Electronics,Tablet,8,1212.55,978.35,Shopify,Not Returned,John Taylor,Corporate,Asia,0.0002,Cash On Delivery,Express,Pending,5.0,Daniel
+ORD-2026-1517,2026-10-11,UK,Fashion,Jeans,5,173.33,93.6,Amazon,Not Returned,Mia Singh,Consumer,Europe,0.0015,Bank Transfer,Same Day,Delivered,4.0,Rahul
+ORD-2026-1623,2026-10-11,Germany,Electronics,Smartphone,9,283.6,196.56,Amazon,Not Returned,Noah Shah,Consumer,Europe,0.0008,Credit Card,Standard,Delivered,4.0,Rahul
+ORD-2026-1457,2026-10-11,Canada,Electronics,Laptop,11,1537.92,998.93,Shopify,Not Returned,Aditya Taylor,Wholesale,North America,0.0008,Paypal,Economy,Delivered,5.0,Emma
+ORD-2026-1112,2026-10-11,Australia,Home & Kitchen,Blender,12,198.74,127.39,Shopify,Not Returned,Rahul Davis,Wholesale,Oceania,0.0,Bank Transfer,Same Day,Delivered,3.0,Priya
+ORD-2026-1994,2026-10-12,France,Fashion,Jeans,10,240.79,163.52,Ebay,Not Returned,David Anderson,Corporate,Europe,0.0,Upi,Same Day,Delivered,4.0,Daniel
+ORD-2026-1271,2026-10-12,Canada,Sports,Dumbbells,11,151.16,87.84,Shopify,Not Returned,Sofia Smith,Premium,North America,0.001,Cash On Delivery,Economy,Delivered,4.0,Daniel
+ORD-2026-1636,2026-10-12,India,Electronics,Tablet,2,1507.34,971.52,Shopify,Not Returned,Sam Lee,Consumer,Asia,0.0005,Paypal,Same Day,Delivered,4.0,Sofia
+ORD-2026-1064,2026-10-13,Canada,Electronics,Tablet,2,322.1,260.88,Shopify,Not Returned,Rohan Davis,Consumer,North America,0.002,Upi,Standard,Delivered,4.0,Sofia
+ORD-2026-1275,2026-10-14,Canada,Books,Self-Help Book,7,50.2,33.9,Ebay,Returned,Daniel Williams,Premium,North America,0.0015,Debit Card,Express,Delivered,4.0,Sofia
+ORD-2026-1546,2026-10-15,Japan,Sports,Yoga Mat,11,133.26,105.68,Shopify,Not Returned,Kavya Verma,Premium,Asia,0.0015,Credit Card,Same Day,Delivered,5.0,Arjun
+ORD-2026-1102,2026-10-15,UK,Sports,Dumbbells,7,123.75,74.7,Amazon,Not Returned,Sofia Brown,Wholesale,Europe,0.0,Debit Card,Same Day,Delivered,4.0,Sofia
+ORD-2026-1065,2026-10-15,Canada,Books,Cookbook,10,35.43,25.21,Shopify,Not Returned,Anna Verma,Consumer,North America,0.0005,Cash On Delivery,Economy,Delivered,2.0,Karan
+ORD-2026-1697,2026-10-16,Australia,Fashion,Jacket,3,136.99,95.4,Ebay,Not Returned,Michael Martin,Wholesale,Oceania,0.002,Upi,Same Day,Delivered,4.0,Rahul
+ORD-2026-1846,2026-10-16,UAE,Beauty,Perfume,8,14.05,8.18,Amazon,Not Returned,Grace Martin,Corporate,Middle East,0.001,Debit Card,Economy,Delivered,5.0,Meera
+ORD-2026-1809,2026-10-17,Japan,Beauty,Perfume,10,83.74,50.22,Shopify,Not Returned,Robert Anderson,Wholesale,Asia,0.002,Credit Card,Standard,Delivered,5.0,Priya
+ORD-2026-1715,2026-10-18,UAE,Home & Kitchen,Air Fryer,8,306.87,167.3,Amazon,Not Returned,Arjun Taylor,Premium,Middle East,0.0008,Paypal,Same Day,Delivered,5.0,Meera
+ORD-2026-1198,2026-10-18,France,Books,Cookbook,3,20.79,10.82,Amazon,Not Returned,Isha Lee,Premium,Europe,0.0015,Bank Transfer,Express,Pending,5.0,Priya
+ORD-2026-1438,2026-10-18,France,Books,Business Book,1,36.87,23.92,Amazon,Refunded,Aarav Anderson,Wholesale,Europe,0.0005,Paypal,Economy,Delivered,3.0,Arjun
+ORD-2026-1961,2026-10-19,UAE,Electronics,Headphones,3,1096.27,754.63,Ebay,Not Returned,Karan Sharma,Wholesale,Middle East,0.002,Debit Card,Express,Delivered,3.0,Daniel
+ORD-2026-1515,2026-10-19,Singapore,Fashion,Sneakers,1,247.95,162.09,Shopify,Not Returned,Ryan Wilson,Consumer,Asia,0.002,Cash On Delivery,Standard,Delivered,4.0,Karan
+ORD-2026-1262,2026-10-19,India,Electronics,Headphones,2,1290.43,872.86,Amazon,Not Returned,Lucas Davis,Premium,Asia,0.002,Bank Transfer,Standard,Delivered,5.0,Vikram
+ORD-2026-1914,2026-10-20,Japan,Fashion,Sneakers,3,205.31,157.58,Ebay,Not Returned,Anna Brown,Wholesale,Asia,0.0002,Credit Card,Standard,Delivered,3.0,Emma
+ORD-2026-1084,2026-10-20,Japan,Sports,Sports Bag,7,172.69,118.52,Ebay,Not Returned,Meera Johnson,Wholesale,Asia,0.002,Bank Transfer,Express,Delivered,5.0,Aisha
+ORD-2026-1913,2026-10-20,India,Electronics,Laptop,6,1760.16,1295.25,Shopify,Not Returned,Emily Williams,Corporate,Asia,0.0005,Debit Card,Standard,Delivered,5.0,Vikram
+ORD-2026-1700,2026-10-20,Japan,Electronics,Smartwatch,9,1454.27,759.13,Shopify,Not Returned,Maya Anderson,Corporate,Asia,0.002,Paypal,Same Day,Delivered,4.0,Arjun
+ORD-2026-1437,2026-10-20,France,Home & Kitchen,Desk Lamp,6,404.78,234.61,Amazon,Not Returned,Vivaan Sharma,Corporate,Europe,0.0008,Credit Card,Economy,Delivered,4.0,Emma
+ORD-2026-1116,2026-10-21,Japan,Beauty,Perfume,9,116.93,82.54,Ebay,Returned,Vikram Shah,Consumer,Asia,0.002,Paypal,Same Day,Delivered,4.0,Rahul
+ORD-2026-1359,2026-10-21,UAE,Sports,Dumbbells,10,37.42,23.32,Ebay,Not Returned,Ethan Miller,Premium,Middle East,0.002,Upi,Same Day,Delivered,5.0,Daniel
+ORD-2026-1075,2026-10-21,UAE,Home & Kitchen,Air Fryer,11,254.04,196.67,Amazon,Not Returned,Leo Thomas,Consumer,Middle East,0.0005,Bank Transfer,Same Day,Delivered,5.0,Aisha
+ORD-2026-1152,2026-10-22,Canada,Sports,Running Shoes,8,123.68,100.1,Amazon,Not Returned,Noah Davis,Premium,North America,0.0005,Paypal,Same Day,Delivered,4.0,Arjun
+ORD-2026-1785,2026-10-22,USA,Home & Kitchen,Desk Lamp,6,240.67,181.55,Shopify,Not Returned,Aarav Lee,Wholesale,North America,0.0015,Credit Card,Standard,Delivered,2.0,Emma
+ORD-2026-1786,2026-10-22,Canada,Beauty,Perfume,5,155.45,108.09,Shopify,Not Returned,James Gupta,Corporate,North America,0.002,Debit Card,Express,Delivered,5.0,Karan
+ORD-2026-1642,2026-10-23,Australia,Beauty,Skincare Set,9,44.51,28.49,Ebay,Not Returned,Karan Gupta,Wholesale,Oceania,0.0,Credit Card,Standard,Delivered,4.0,Emma
+ORD-2026-1498,2026-10-24,Germany,Books,Business Book,2,32.59,23.48,Ebay,Not Returned,Ethan Lee,Premium,Europe,0.0015,Paypal,Same Day,Delivered,5.0,Daniel
+ORD-2026-1374,2026-10-24,India,Beauty,Face Cream,4,147.21,106.02,Amazon,Returned,Rahul Patel,Corporate,Asia,0.0008,Paypal,Standard,Pending,4.0,Sofia
+ORD-2026-1096,2026-10-25,Australia,Fashion,Backpack,12,23.74,17.96,Ebay,Not Returned,Ethan Gupta,Consumer,Oceania,0.0005,Upi,Same Day,Delivered,3.0,Daniel
+ORD-2026-1981,2026-10-25,Japan,Electronics,Smartphone,1,475.15,346.9,Ebay,Not Returned,Ananya Patel,Corporate,Asia,0.002,Bank Transfer,Express,Delivered,5.0,Daniel
+ORD-2026-1704,2026-10-26,Australia,Electronics,Tablet,9,1131.29,829.23,Amazon,Not Returned,Daniel Taylor,Corporate,Oceania,0.0,Upi,Express,Delivered,4.0,Karan
+ORD-2026-1266,2026-10-26,USA,Home & Kitchen,Vacuum Cleaner,10,496.57,387.42,Amazon,Not Returned,Anna Anderson,Premium,North America,0.0002,Debit Card,Same Day,Delivered,3.0,Sofia
+ORD-2026-1252,2026-10-27,Singapore,Books,Self-Help Book,7,30.78,19.6,Amazon,Not Returned,Rahul Williams,Consumer,Asia,0.0,Upi,Same Day,Delivered,5.0,Priya
+ORD-2026-1850,2026-10-27,UK,Beauty,Lipstick,7,91.07,68.32,Ebay,Not Returned,Isha Wilson,Consumer,Europe,0.001,Paypal,Same Day,Delivered,5.0,Meera
+ORD-2026-1630,2026-10-28,UAE,Beauty,Perfume,5,39.4,28.61,Shopify,Not Returned,Neha Shah,Wholesale,Middle East,0.0015,Paypal,Economy,Delivered,5.0,Rahul
+ORD-2026-1742,2026-10-28,Australia,Fashion,Backpack,11,187.99,121.7,Amazon,Not Returned,Kavya Lee,Corporate,Oceania,0.0008,Debit Card,Same Day,Delivered,5.0,Meera
+ORD-2026-1960,2026-10-29,Australia,Electronics,Headphones,7,239.9,148.73,Amazon,Not Returned,Karan Taylor,Consumer,Oceania,0.0015,Paypal,Same Day,Delivered,5.0,Rahul
+ORD-2026-1696,2026-10-29,Australia,Books,Self-Help Book,12,68.11,41.33,Ebay,Not Returned,Rohan Gupta,Consumer,Oceania,0.0008,Bank Transfer,Same Day,Delivered,5.0,Sofia
+ORD-2026-1046,2026-10-29,UAE,Beauty,Skincare Set,10,144.43,84.88,Shopify,Returned,Liam Martin,Consumer,Middle East,0.001,Bank Transfer,Standard,Delivered,4.0,Emma
+ORD-2026-1772,2026-10-29,Singapore,Fashion,Jeans,1,153.79,119.7,Ebay,Not Returned,Anna Wilson,Consumer,Asia,0.0,Upi,Economy,Delivered,5.0,Priya
+ORD-2026-1979,2026-10-30,USA,Beauty,Perfume,12,148.14,88.86,Ebay,Returned,Ethan Wilson,Corporate,North America,0.001,Bank Transfer,Express,Delivered,4.0,Sofia
+ORD-2026-1401,2026-10-30,UK,Sports,Sports Bag,2,67.4,41.18,Shopify,Not Returned,Rohan Sharma,Wholesale,Europe,0.002,Cash On Delivery,Same Day,Delivered,5.0,Rahul
+ORD-2026-1689,2026-10-30,Australia,Books,Cookbook,8,75.86,46.14,Amazon,Not Returned,Karan Lee,Corporate,Oceania,0.0,Upi,Same Day,Delivered,5.0,Emma
+ORD-2026-1722,2026-10-31,Germany,Fashion,Sneakers,5,149.64,83.5,Ebay,Not Returned,Emma Lee,Wholesale,Europe,0.001,Debit Card,Express,Delivered,4.0,Aisha
+ORD-2026-1070,2026-10-31,UK,Fashion,T-Shirt,3,190.6,129.19,Amazon,Not Returned,Maya Anderson,Corporate,Europe,0.0015,Bank Transfer,Standard,Delivered,4.0,Vikram
+ORD-2026-1207,2026-11-01,UK,Home & Kitchen,Air Fryer,3,45.27,24.6,Shopify,Refunded,Noah Singh,Consumer,Europe,0.0015,Paypal,Economy,Delivered,5.0,Vikram
+ORD-2026-1999,2026-11-02,UAE,Electronics,Smartphone,12,728.94,482.33,Amazon,Not Returned,Ava Sharma,Corporate,Middle East,0.0015,Paypal,Same Day,Delivered,5.0,Priya
+ORD-2026-1043,2026-11-02,USA,Books,Children's Book,12,21.33,12.48,Shopify,Not Returned,Karan Shah,Premium,North America,0.0008,Debit Card,Same Day,Delivered,5.0,Daniel
+ORD-2026-1527,2026-11-03,Singapore,Fashion,Sneakers,3,106.42,75.84,Shopify,Not Returned,Ethan Gupta,Premium,Asia,0.0002,Upi,Standard,Cancelled,4.0,Vikram
+ORD-2026-1905,2026-11-03,Germany,Books,Business Book,8,52.27,39.58,Ebay,Not Returned,Olivia Taylor,Consumer,Europe,0.0008,Paypal,Standard,Delivered,3.0,Rahul
+ORD-2026-1747,2026-11-03,UAE,Sports,Fitness Band,7,36.02,21.77,Ebay,Not Returned,Mia Brown,Wholesale,Middle East,0.0,Upi,Same Day,Delivered,2.0,Aisha
+ORD-2026-1839,2026-11-05,USA,Home & Kitchen,Air Fryer,11,117.31,84.16,Ebay,Not Returned,Olivia Thomas,Corporate,North America,0.0008,Debit Card,Same Day,Delivered,5.0,Aisha
+ORD-2026-1113,2026-11-05,Japan,Electronics,Smartphone,2,757.51,574.55,Ebay,Not Returned,Grace Anderson,Consumer,Asia,0.0005,Credit Card,Standard,Delivered,3.0,Daniel
+ORD-2026-1579,2026-11-05,UAE,Sports,Dumbbells,4,234.58,136.76,Amazon,Not Returned,Aditya Martin,Corporate,Middle East,0.0008,Debit Card,Economy,Delivered,5.0,Arjun
+ORD-2026-1101,2026-11-06,UK,Sports,Fitness Band,1,61.66,36.43,Amazon,Not Returned,Maya Williams,Premium,Europe,0.0015,Paypal,Standard,Delivered,5.0,Priya
+ORD-2026-1592,2026-11-06,France,Fashion,T-Shirt,10,96.76,60.78,Amazon,Not Returned,Isha Miller,Premium,Europe,0.0,Bank Transfer,Express,Cancelled,4.0,Rahul
+ORD-2026-1561,2026-11-06,Canada,Sports,Sports Bag,10,74.13,56.82,Amazon,Not Returned,Rahul Brown,Consumer,North America,0.0005,Bank Transfer,Standard,Pending,2.0,Vikram
+ORD-2026-1441,2026-11-07,Australia,Books,Children's Book,5,13.26,9.11,Ebay,Not Returned,Robert Patel,Consumer,Oceania,0.0,Upi,Economy,Delivered,5.0,Karan
+ORD-2026-1582,2026-11-07,Singapore,Books,Children's Book,9,77.95,44.4,Shopify,Not Returned,Aisha Mehta,Consumer,Asia,0.002,Debit Card,Express,Delivered,4.0,Priya
+ORD-2026-1398,2026-11-08,India,Home & Kitchen,Desk Lamp,2,171.34,109.74,Ebay,Not Returned,Meera Martin,Corporate,Asia,0.002,Upi,Express,Delivered,4.0,Aisha
+ORD-2026-1093,2026-11-08,UK,Books,Self-Help Book,8,52.31,41.42,Ebay,Returned,Leo Kumar,Premium,Europe,0.0,Debit Card,Same Day,Delivered,4.0,Arjun
+ORD-2026-1695,2026-11-08,Canada,Home & Kitchen,Vacuum Cleaner,12,289.55,212.41,Ebay,Returned,Karan Patel,Consumer,North America,0.0,Cash On Delivery,Same Day,Delivered,4.0,Sofia
+ORD-2026-1303,2026-11-10,Germany,Fashion,T-Shirt,11,242.45,185.65,Shopify,Not Returned,Noah Miller,Premium,Europe,0.0002,Credit Card,Standard,Delivered,5.0,Vikram
+ORD-2026-1866,2026-11-10,Singapore,Home & Kitchen,Vacuum Cleaner,8,31.16,19.08,Amazon,Not Returned,Robert Gupta,Premium,Asia,0.0002,Upi,Same Day,Delivered,5.0,Daniel
+ORD-2026-1638,2026-11-10,UAE,Electronics,Laptop,5,1599.31,852.31,Shopify,Not Returned,Emma Mehta,Corporate,Middle East,0.0,Bank Transfer,Economy,Pending,4.0,Arjun
+ORD-2026-1346,2026-11-10,UAE,Fashion,Jeans,6,82.34,66.12,Shopify,Not Returned,Sarah Wilson,Consumer,Middle East,0.002,Debit Card,Standard,Delivered,3.0,Sofia
+ORD-2026-1191,2026-11-11,Singapore,Electronics,Tablet,11,813.86,509.63,Ebay,Not Returned,Anna Verma,Premium,Asia,0.0002,Paypal,Economy,Delivered,3.0,Vikram
+ORD-2026-1132,2026-11-11,Germany,Beauty,Shampoo,3,56.86,45.56,Amazon,Not Returned,Sneha Shah,Consumer,Europe,0.0015,Credit Card,Standard,Delivered,5.0,Sofia
+ORD-2026-1970,2026-11-11,India,Electronics,Smartwatch,2,494.91,299.34,Ebay,Refunded,Michael Mehta,Wholesale,Asia,0.002,Bank Transfer,Standard,Delivered,5.0,Daniel
+ORD-2026-1114,2026-11-12,Canada,Beauty,Skincare Set,8,35.32,27.83,Ebay,Not Returned,Liam Martin,Premium,North America,0.0002,Bank Transfer,Economy,Delivered,3.0,Priya
+ORD-2026-1141,2026-11-12,Australia,Home & Kitchen,Air Fryer,2,360.91,188.66,Shopify,Not Returned,Sam Sharma,Consumer,Oceania,0.001,Bank Transfer,Economy,Delivered,5.0,Aisha
+ORD-2026-1698,2026-11-12,Canada,Home & Kitchen,Air Fryer,1,411.64,304.77,Shopify,Not Returned,Karan Williams,Premium,North America,0.0015,Debit Card,Standard,Delivered,5.0,Karan
+ORD-2026-1737,2026-11-12,Canada,Fashion,T-Shirt,3,230.02,140.75,Shopify,Not Returned,John Martin,Wholesale,North America,0.0008,Cash On Delivery,Economy,Delivered,4.0,Sofia
+ORD-2026-1837,2026-11-12,Singapore,Electronics,Laptop,4,145.41,92.54,Shopify,Not Returned,Maya Gupta,Wholesale,Asia,0.0,Bank Transfer,Standard,Delivered,4.0,Vikram
+ORD-2026-1077,2026-11-13,Canada,Home & Kitchen,Blender,5,367.76,276.94,Amazon,Returned,Rohan Brown,Wholesale,North America,0.001,Cash On Delivery,Economy,Delivered,3.0,Sofia
+ORD-2026-1209,2026-11-13,UAE,Fashion,Jacket,5,108.1,71.96,Ebay,Not Returned,Grace Patel,Wholesale,Middle East,0.001,Upi,Express,Delivered,4.0,Aisha
+ORD-2026-1461,2026-11-13,Canada,Fashion,Backpack,11,56.48,43.4,Amazon,Not Returned,Vikram Thomas,Corporate,North America,0.001,Paypal,Same Day,Delivered,4.0,Meera
+ORD-2026-1991,2026-11-13,Germany,Beauty,Perfume,9,120.12,76.87,Ebay,Not Returned,Olivia Mehta,Premium,Europe,0.0002,Paypal,Same Day,Delivered,5.0,Daniel
+ORD-2026-1778,2026-11-13,France,Fashion,Backpack,1,94.02,71.2,Ebay,Not Returned,Maya Brown,Consumer,Europe,0.0005,Credit Card,Express,Delivered,5.0,Daniel
+ORD-2026-1467,2026-11-13,Canada,Electronics,Headphones,9,1129.89,637.32,Ebay,Not Returned,Maya Williams,Wholesale,North America,0.0008,Debit Card,Same Day,Delivered,4.0,Arjun
+ORD-2026-1248,2026-11-13,UK,Beauty,Skincare Set,9,78.58,49.1,Ebay,Not Returned,Alex Thomas,Consumer,Europe,0.0002,Credit Card,Same Day,Delivered,4.0,Sofia
+ORD-2026-1893,2026-11-14,USA,Beauty,Shampoo,11,78.51,57.26,Ebay,Not Returned,Alex Lee,Consumer,North America,0.0005,Cash On Delivery,Economy,Delivered,4.0,Aisha
+ORD-2026-1220,2026-11-14,Canada,Fashion,Backpack,10,87.63,67.95,Amazon,Not Returned,Alex Shah,Consumer,North America,0.0008,Cash On Delivery,Economy,Delivered,5.0,Vikram
+ORD-2026-1663,2026-11-14,USA,Sports,Fitness Band,1,211.58,112.19,Shopify,Not Returned,Aditya Williams,Corporate,North America,0.0015,Paypal,Economy,Cancelled,4.0,Karan
+ORD-2026-1151,2026-11-14,Germany,Books,Self-Help Book,10,52.4,34.45,Shopify,Refunded,Ethan Wilson,Premium,Europe,0.0002,Paypal,Express,Delivered,4.0,Karan
+ORD-2026-1034,2026-11-15,Australia,Beauty,Face Cream,7,67.14,48.59,Ebay,Returned,Vivaan Davis,Consumer,Oceania,0.0008,Credit Card,Economy,Delivered,5.0,Daniel
+ORD-2026-1506,2026-11-15,France,Sports,Yoga Mat,3,268.04,163.11,Shopify,Not Returned,Leo Wilson,Wholesale,Europe,0.001,Paypal,Economy,Delivered,4.0,Meera
+ORD-2026-1845,2026-11-16,France,Home & Kitchen,Vacuum Cleaner,3,248.36,169.59,Shopify,Returned,Arjun Shah,Corporate,Europe,0.0008,Upi,Express,Delivered,5.0,Rahul
+ORD-2026-1453,2026-11-16,UK,Beauty,Face Cream,2,80.76,59.06,Shopify,Not Returned,Ethan Mehta,Corporate,Europe,0.0005,Debit Card,Standard,Delivered,5.0,Priya
+ORD-2026-1720,2026-11-16,UK,Beauty,Face Cream,1,63.01,36.31,Shopify,Not Returned,Robert Mehta,Consumer,Europe,0.0015,Upi,Express,Delivered,3.0,Meera
+ORD-2026-1203,2026-11-17,India,Beauty,Skincare Set,9,152.78,86.49,Ebay,Not Returned,Alex Shah,Consumer,Asia,0.0005,Credit Card,Express,Delivered,5.0,Daniel
+ORD-2026-1250,2026-11-17,India,Fashion,Sneakers,6,138.2,111.18,Amazon,Not Returned,Aisha Shah,Wholesale,Asia,0.0002,Credit Card,Express,Pending,4.0,Vikram
+ORD-2026-1843,2026-11-17,Australia,Fashion,Sneakers,1,125.78,92.22,Shopify,Refunded,Aisha Davis,Wholesale,Oceania,0.001,Paypal,Economy,Delivered,3.0,Sofia
+ORD-2026-1052,2026-11-17,Australia,Sports,Yoga Mat,11,306.89,202.12,Shopify,Not Returned,Arjun Shah,Premium,Oceania,0.0,Bank Transfer,Express,Delivered,5.0,Karan
+ORD-2026-1134,2026-11-17,France,Home & Kitchen,Desk Lamp,4,221.44,133.43,Ebay,Returned,Leo Thomas,Wholesale,Europe,0.001,Credit Card,Same Day,Pending,5.0,Rahul
+ORD-2026-1911,2026-11-18,France,Beauty,Lipstick,9,109.21,65.87,Shopify,Not Returned,Robert Kumar,Wholesale,Europe,0.001,Paypal,Economy,Delivered,5.0,Meera
+ORD-2026-1976,2026-11-18,France,Electronics,Tablet,12,680.21,426.54,Ebay,Not Returned,Vivaan Brown,Corporate,Europe,0.0008,Debit Card,Express,Delivered,5.0,Emma
+ORD-2026-1470,2026-11-18,France,Sports,Yoga Mat,8,131.86,77.91,Ebay,Not Returned,Sarah Lee,Corporate,Europe,0.0015,Upi,Same Day,Pending,5.0,Karan
+ORD-2026-1947,2026-11-18,India,Beauty,Skincare Set,9,59.33,48.59,Amazon,Not Returned,Alex Miller,Wholesale,Asia,0.0008,Bank Transfer,Express,Delivered,4.0,Meera
+ORD-2026-1878,2026-11-18,Canada,Books,Novel,10,71.48,48.09,Ebay,Not Returned,Anna Smith,Premium,North America,0.002,Bank Transfer,Same Day,Delivered,4.0,Vikram
+ORD-2026-1082,2026-11-18,Germany,Electronics,Smartphone,5,419.31,293.82,Shopify,Not Returned,Ryan Martin,Wholesale,Europe,0.002,Cash On Delivery,Same Day,Delivered,5.0,Meera
+ORD-2026-1372,2026-11-19,Singapore,Fashion,Sneakers,3,147.53,119.54,Ebay,Not Returned,Daniel Taylor,Consumer,Asia,0.0015,Cash On Delivery,Economy,Delivered,5.0,Emma
+ORD-2026-1029,2026-11-19,Germany,Home & Kitchen,Air Fryer,1,46.95,38.27,Ebay,Not Returned,Meera Davis,Wholesale,Europe,0.001,Paypal,Express,Delivered,4.0,Daniel
+ORD-2026-1336,2026-11-19,USA,Books,Cookbook,6,45.95,31.13,Ebay,Not Returned,Rohan Taylor,Premium,North America,0.0015,Paypal,Same Day,Delivered,5.0,Karan
+ORD-2026-1464,2026-11-19,Australia,Electronics,Smartphone,8,667.07,447.94,Ebay,Not Returned,Sneha Gupta,Wholesale,Oceania,0.0,Debit Card,Express,Delivered,4.0,Rahul
+ORD-2026-1312,2026-11-20,Canada,Beauty,Lipstick,2,157.86,92.82,Shopify,Refunded,Arjun Smith,Consumer,North America,0.0015,Upi,Express,Delivered,5.0,Meera
+ORD-2026-1434,2026-11-20,Australia,Fashion,Backpack,2,235.35,175.81,Shopify,Returned,Ava Patel,Premium,Oceania,0.0005,Credit Card,Economy,Delivered,5.0,Sofia
+ORD-2026-1584,2026-11-20,France,Home & Kitchen,Blender,1,330.15,196.34,Ebay,Not Returned,Mia Johnson,Consumer,Europe,0.002,Cash On Delivery,Same Day,Delivered,5.0,Daniel
+ORD-2026-1094,2026-11-20,India,Home & Kitchen,Vacuum Cleaner,11,402.1,264.23,Ebay,Not Returned,James Verma,Corporate,Asia,0.0,Upi,Economy,Delivered,4.0,Aisha
+ORD-2026-1076,2026-11-21,UK,Fashion,Backpack,6,100.74,57.87,Amazon,Not Returned,Rohan Anderson,Corporate,Europe,0.0002,Paypal,Economy,Delivered,3.0,Sofia
+ORD-2026-1987,2026-11-22,India,Sports,Fitness Band,8,28.66,20.06,Shopify,Returned,Rohan Williams,Premium,Asia,0.0,Bank Transfer,Express,Delivered,4.0,Rahul
+ORD-2026-1530,2026-11-22,Singapore,Fashion,Sneakers,12,65.43,42.35,Amazon,Not Returned,Emma Taylor,Consumer,Asia,0.001,Upi,Economy,Delivered,4.0,Rahul
+ORD-2026-1661,2026-11-22,Singapore,Home & Kitchen,Air Fryer,9,148.63,104.61,Amazon,Not Returned,Isha Gupta,Corporate,Asia,0.0008,Debit Card,Express,Delivered,4.0,Sofia
+ORD-2026-1324,2026-11-23,Canada,Home & Kitchen,Coffee Maker,6,443.06,285.42,Ebay,Not Returned,Emma Gupta,Corporate,North America,0.0008,Credit Card,Express,Delivered,5.0,Daniel
+ORD-2026-1338,2026-11-23,Singapore,Books,Novel,12,69.06,52.48,Amazon,Not Returned,Aarav Shah,Premium,Asia,0.0008,Upi,Standard,Delivered,5.0,Karan
+ORD-2026-1984,2026-11-23,India,Electronics,Laptop,1,1413.52,1028.0,Ebay,Not Returned,Rohan Singh,Corporate,Asia,0.002,Paypal,Standard,Delivered,4.0,Sofia
+ORD-2026-1488,2026-11-23,Germany,Beauty,Shampoo,1,57.73,45.68,Shopify,Not Returned,Vikram Brown,Wholesale,Europe,0.0015,Debit Card,Express,Delivered,5.0,Priya
+ORD-2026-1218,2026-11-23,Australia,Beauty,Face Cream,10,130.37,90.17,Shopify,Not Returned,Daniel Anderson,Premium,Oceania,0.0002,Debit Card,Express,Delivered,5.0,Karan
+ORD-2026-1887,2026-11-24,Japan,Fashion,Jacket,8,145.26,91.8,Shopify,Not Returned,Ava Mehta,Wholesale,Asia,0.0005,Upi,Economy,Delivered,4.0,Meera
+ORD-2026-1197,2026-11-24,Canada,Books,Self-Help Book,10,15.27,9.32,Shopify,Not Returned,Noah Mehta,Premium,North America,0.0002,Debit Card,Express,Pending,4.0,Rahul
+ORD-2026-1813,2026-11-24,Canada,Sports,Sports Bag,12,285.7,231.35,Shopify,Not Returned,Noah Lee,Wholesale,North America,0.0005,Cash On Delivery,Express,Delivered,5.0,Rahul
+ORD-2026-1669,2026-11-25,India,Home & Kitchen,Coffee Maker,6,392.83,271.24,Ebay,Not Returned,Sam Shah,Corporate,Asia,0.002,Bank Transfer,Economy,Delivered,5.0,Vikram
+ORD-2026-1688,2026-11-25,UAE,Beauty,Face Cream,9,23.17,13.47,Shopify,Returned,Olivia Gupta,Consumer,Middle East,0.001,Upi,Same Day,Delivered,4.0,Meera
+ORD-2026-1257,2026-11-25,UK,Sports,Sports Bag,6,286.54,231.41,Shopify,Not Returned,Emma Williams,Corporate,Europe,0.0002,Cash On Delivery,Same Day,Delivered,4.0,Sofia
+ORD-2026-1569,2026-11-26,France,Fashion,Sneakers,1,189.75,131.05,Ebay,Not Returned,Aditya Wilson,Wholesale,Europe,0.0002,Credit Card,Same Day,Cancelled,4.0,Aisha
+ORD-2026-1841,2026-11-27,Japan,Electronics,Smartphone,11,140.54,96.08,Shopify,Returned,Olivia Lee,Wholesale,Asia,0.0,Paypal,Express,Delivered,5.0,Sofia
+ORD-2026-1293,2026-11-27,Japan,Home & Kitchen,Coffee Maker,9,202.48,130.3,Shopify,Not Returned,Lucas Verma,Premium,Asia,0.001,Credit Card,Economy,Delivered,5.0,Emma
+ORD-2026-1130,2026-11-27,USA,Sports,Yoga Mat,2,345.43,228.54,Shopify,Not Returned,Mia Davis,Wholesale,North America,0.0005,Paypal,Economy,Delivered,5.0,Arjun
+ORD-2026-1620,2026-11-27,Singapore,Sports,Fitness Band,2,84.53,55.86,Ebay,Not Returned,Grace Sharma,Premium,Asia,0.0,Debit Card,Same Day,Delivered,4.0,Karan
+ORD-2026-1665,2026-11-27,Japan,Fashion,Jacket,12,217.49,122.23,Shopify,Not Returned,Lucas Taylor,Corporate,Asia,0.002,Bank Transfer,Same Day,Delivered,4.0,Daniel
+ORD-2026-1767,2026-11-28,Japan,Home & Kitchen,Blender,11,99.04,76.83,Amazon,Not Returned,Michael Taylor,Corporate,Asia,0.0005,Paypal,Economy,Delivered,5.0,Aisha
+ORD-2026-1812,2026-11-28,India,Fashion,Jacket,12,247.92,148.49,Shopify,Not Returned,Grace Williams,Corporate,Asia,0.002,Paypal,Standard,Delivered,5.0,Meera
+ORD-2026-1177,2026-11-29,USA,Fashion,T-Shirt,9,231.81,188.3,Ebay,Not Returned,Rahul Smith,Wholesale,North America,0.0002,Cash On Delivery,Express,Delivered,5.0,Aisha
+ORD-2026-1436,2026-11-29,UK,Electronics,Tablet,4,1160.67,712.79,Amazon,Not Returned,Robert Miller,Premium,Europe,0.0,Paypal,Economy,Delivered,5.0,Daniel
+ORD-2026-1906,2026-11-29,USA,Sports,Yoga Mat,12,314.24,177.13,Shopify,Not Returned,Liam Thomas,Premium,North America,0.0015,Upi,Economy,Delivered,4.0,Vikram
+ORD-2026-1268,2026-11-29,UAE,Electronics,Laptop,8,1214.16,959.91,Shopify,Returned,Michael Miller,Premium,Middle East,0.001,Credit Card,Economy,Delivered,5.0,Emma
+ORD-2026-1725,2026-11-30,UAE,Beauty,Lipstick,12,144.12,104.57,Shopify,Not Returned,Isha Sharma,Premium,Middle East,0.001,Paypal,Same Day,Cancelled,4.0,Rahul
+ORD-2026-1692,2026-12-01,Singapore,Books,Self-Help Book,6,13.74,9.46,Shopify,Not Returned,Robert Verma,Wholesale,Asia,0.0,Paypal,Express,Cancelled,4.0,Priya
+ORD-2026-1013,2026-12-01,Singapore,Beauty,Perfume,2,26.48,17.19,Ebay,Returned,Karan Patel,Wholesale,Asia,0.0008,Cash On Delivery,Same Day,Delivered,2.0,Arjun
+ORD-2026-1557,2026-12-01,USA,Home & Kitchen,Desk Lamp,12,110.47,75.83,Amazon,Not Returned,Rohan Thomas,Premium,North America,0.002,Credit Card,Standard,Delivered,5.0,Arjun
+ORD-2026-1019,2026-12-01,France,Home & Kitchen,Blender,2,442.65,279.25,Ebay,Not Returned,Aarav Thomas,Premium,Europe,0.0002,Cash On Delivery,Standard,Delivered,4.0,Daniel
+ORD-2026-1943,2026-12-02,Australia,Electronics,Smartwatch,12,1090.79,873.97,Amazon,Not Returned,Mia Mehta,Wholesale,Oceania,0.0002,Debit Card,Same Day,Cancelled,4.0,Arjun
+ORD-2026-1686,2026-12-02,France,Fashion,Backpack,8,49.26,34.93,Amazon,Not Returned,Isha Anderson,Wholesale,Europe,0.0002,Bank Transfer,Same Day,Delivered,4.0,Aisha
+ORD-2026-1181,2026-12-02,India,Beauty,Shampoo,7,166.44,95.48,Shopify,Not Returned,Kavya Johnson,Corporate,Asia,0.002,Paypal,Same Day,Delivered,5.0,Karan
+ORD-2026-1158,2026-12-03,UK,Sports,Running Shoes,6,204.75,165.34,Shopify,Not Returned,Grace Sharma,Corporate,Europe,0.0002,Paypal,Economy,Delivered,3.0,Rahul
+ORD-2026-1459,2026-12-03,UK,Fashion,Sneakers,8,99.08,58.42,Shopify,Not Returned,Ananya Smith,Wholesale,Europe,0.0002,Paypal,Same Day,Delivered,5.0,Sofia
+ORD-2026-1017,2026-12-03,USA,Books,Business Book,7,16.63,13.09,Ebay,Not Returned,James Anderson,Premium,North America,0.0002,Upi,Express,Delivered,3.0,Meera
+ORD-2026-1062,2026-12-04,Singapore,Fashion,Sneakers,10,204.44,119.74,Ebay,Not Returned,Ananya Kumar,Consumer,Asia,0.0002,Upi,Economy,Delivered,5.0,Aisha
+ORD-2026-1466,2026-12-05,India,Beauty,Face Cream,11,166.83,94.31,Ebay,Not Returned,Olivia Miller,Wholesale,Asia,0.001,Cash On Delivery,Same Day,Delivered,5.0,Meera
+ORD-2026-1217,2026-12-05,France,Books,Cookbook,4,18.79,14.09,Shopify,Not Returned,Ananya Sharma,Wholesale,Europe,0.0,Upi,Same Day,Delivered,5.0,Rahul
+ORD-2026-1653,2026-12-05,France,Electronics,Tablet,1,453.8,348.36,Amazon,Not Returned,Arjun Brown,Corporate,Europe,0.0,Upi,Same Day,Delivered,4.0,Vikram
+ORD-2026-1352,2026-12-05,UK,Fashion,Jacket,2,157.6,114.36,Amazon,Not Returned,Rohan Shah,Corporate,Europe,0.001,Bank Transfer,Standard,Delivered,4.0,Daniel
+ORD-2026-1797,2026-12-05,Canada,Books,Self-Help Book,11,50.54,34.12,Amazon,Not Returned,John Patel,Wholesale,North America,0.0005,Cash On Delivery,Standard,Delivered,4.0,Emma
+ORD-2026-1418,2026-12-05,France,Sports,Sports Bag,2,270.86,194.57,Shopify,Not Returned,Sam Anderson,Premium,Europe,0.001,Bank Transfer,Same Day,Delivered,4.0,Vikram
+ORD-2026-1260,2026-12-06,Australia,Home & Kitchen,Desk Lamp,12,432.15,242.08,Amazon,Not Returned,Anna Mehta,Corporate,Oceania,0.001,Paypal,Express,Delivered,4.0,Daniel
+ORD-2026-1544,2026-12-06,Singapore,Electronics,Headphones,11,1793.64,1463.91,Ebay,Not Returned,Sneha Verma,Corporate,Asia,0.0008,Debit Card,Standard,Delivered,3.0,Arjun
+ORD-2026-1528,2026-12-07,Australia,Books,Cookbook,1,24.49,18.12,Amazon,Not Returned,Kavya Lee,Wholesale,Oceania,0.0005,Bank Transfer,Same Day,Delivered,5.0,Daniel
+ORD-2026-1127,2026-12-07,UK,Beauty,Perfume,8,137.11,96.21,Amazon,Returned,Sneha Lee,Consumer,Europe,0.0008,Bank Transfer,Economy,Delivered,5.0,Vikram
+ORD-2026-1699,2026-12-08,France,Beauty,Lipstick,4,160.51,97.36,Shopify,Not Returned,Priya Kumar,Corporate,Europe,0.0005,Bank Transfer,Express,Pending,5.0,Aisha
+ORD-2026-1903,2026-12-08,Singapore,Beauty,Lipstick,4,26.84,17.08,Amazon,Returned,David Gupta,Consumer,Asia,0.0015,Paypal,Standard,Delivered,3.0,Priya
+ORD-2026-1938,2026-12-08,India,Beauty,Perfume,1,32.69,26.65,Ebay,Returned,Rohan Patel,Corporate,Asia,0.0005,Upi,Same Day,Delivered,5.0,Arjun
+ORD-2026-1572,2026-12-08,Canada,Books,Business Book,2,21.65,11.52,Amazon,Not Returned,Alex Brown,Consumer,North America,0.0008,Paypal,Economy,Delivered,2.0,Vikram
+ORD-2026-1205,2026-12-08,UK,Beauty,Face Cream,5,84.76,50.77,Amazon,Not Returned,Rohan Williams,Wholesale,Europe,0.002,Bank Transfer,Express,Delivered,5.0,Vikram
+ORD-2026-1022,2026-12-08,UK,Electronics,Headphones,6,1626.25,1234.06,Amazon,Not Returned,Daniel Thomas,Wholesale,Europe,0.002,Bank Transfer,Express,Delivered,5.0,Emma
+ORD-2026-1610,2026-12-09,UAE,Electronics,Smartphone,2,579.94,329.09,Amazon,Not Returned,Daniel Wilson,Wholesale,Middle East,0.0008,Cash On Delivery,Economy,Delivered,5.0,Arjun
+ORD-2026-1012,2026-12-09,Germany,Electronics,Laptop,12,1165.5,686.11,Shopify,Not Returned,Aisha Thomas,Corporate,Europe,0.0,Cash On Delivery,Economy,Delivered,4.0,Emma
+ORD-2026-1554,2026-12-10,Germany,Beauty,Lipstick,5,126.96,102.38,Ebay,Not Returned,Rohan Wilson,Wholesale,Europe,0.0015,Upi,Economy,Delivered,5.0,Meera
+ORD-2026-1486,2026-12-10,UAE,Books,Self-Help Book,7,46.75,35.35,Shopify,Not Returned,Vikram Williams,Wholesale,Middle East,0.0015,Bank Transfer,Same Day,Delivered,5.0,Rahul
+ORD-2026-1315,2026-12-10,Japan,Books,Children's Book,4,25.45,15.27,Shopify,Refunded,Leo Williams,Premium,Asia,0.0008,Debit Card,Same Day,Delivered,3.0,Meera
+ORD-2026-1160,2026-12-11,UAE,Books,Cookbook,10,35.98,22.95,Ebay,Returned,Liam Lee,Consumer,Middle East,0.0,Cash On Delivery,Express,Delivered,5.0,Meera
+ORD-2026-1286,2026-12-11,USA,Fashion,Jeans,4,152.68,109.16,Ebay,Not Returned,Sam Wilson,Consumer,North America,0.001,Paypal,Same Day,Delivered,4.0,Sofia
+ORD-2026-1729,2026-12-11,Singapore,Books,Novel,6,15.02,10.26,Shopify,Not Returned,Neha Martin,Premium,Asia,0.002,Bank Transfer,Standard,Delivered,1.0,Rahul
+ORD-2026-1775,2026-12-11,Germany,Fashion,Jeans,5,93.6,63.57,Amazon,Refunded,Noah Mehta,Corporate,Europe,0.0,Paypal,Express,Delivered,4.0,Daniel
+ORD-2026-1180,2026-12-12,Singapore,Sports,Dumbbells,1,184.87,127.57,Ebay,Not Returned,Vikram Verma,Consumer,Asia,0.0005,Credit Card,Standard,Delivered,5.0,Emma
+ORD-2026-1242,2026-12-12,UAE,Sports,Dumbbells,12,58.08,36.34,Ebay,Refunded,Sarah Smith,Wholesale,Middle East,0.0008,Credit Card,Standard,Delivered,5.0,Aisha
+ORD-2026-1861,2026-12-12,Canada,Books,Novel,10,62.41,40.51,Amazon,Not Returned,Noah Martin,Premium,North America,0.0015,Cash On Delivery,Standard,Delivered,1.0,Priya
+ORD-2026-1858,2026-12-13,Canada,Books,Children's Book,4,42.28,24.49,Ebay,Not Returned,Arjun Wilson,Corporate,North America,0.0008,Bank Transfer,Standard,Delivered,4.0,Arjun
+ORD-2026-1060,2026-12-13,Japan,Home & Kitchen,Air Fryer,8,328.0,215.78,Ebay,Not Returned,Neha Singh,Wholesale,Asia,0.0015,Upi,Same Day,Delivered,5.0,Rahul
+ORD-2026-1718,2026-12-13,UAE,Beauty,Perfume,12,158.62,102.38,Shopify,Not Returned,Michael Johnson,Premium,Middle East,0.0,Bank Transfer,Express,Delivered,4.0,Daniel
+ORD-2026-1414,2026-12-14,Germany,Sports,Fitness Band,5,345.04,223.72,Shopify,Returned,Isha Sharma,Wholesale,Europe,0.002,Cash On Delivery,Standard,Delivered,4.0,Rahul
+ORD-2026-1497,2026-12-14,Japan,Sports,Running Shoes,3,174.94,122.63,Amazon,Not Returned,Arjun Verma,Consumer,Asia,0.0005,Paypal,Same Day,Delivered,5.0,Emma
+ORD-2026-1353,2026-12-14,UK,Beauty,Skincare Set,5,76.3,52.9,Shopify,Returned,Leo Williams,Consumer,Europe,0.0002,Bank Transfer,Standard,Delivered,4.0,Priya
+ORD-2026-1487,2026-12-15,UK,Books,Novel,2,41.31,33.08,Ebay,Not Returned,Daniel Shah,Consumer,Europe,0.0008,Bank Transfer,Same Day,Delivered,5.0,Emma
+ORD-2026-1007,2026-12-15,Australia,Fashion,Sneakers,3,137.19,75.08,Shopify,Not Returned,Robert Singh,Wholesale,Oceania,0.0,Paypal,Economy,Delivered,3.0,Vikram
+ORD-2026-1219,2026-12-15,USA,Beauty,Perfume,12,53.97,41.15,Shopify,Not Returned,Rohan Verma,Premium,North America,0.002,Debit Card,Same Day,Cancelled,4.0,Rahul
+ORD-2026-1973,2026-12-15,USA,Sports,Running Shoes,4,155.54,82.93,Ebay,Refunded,Maya Gupta,Corporate,North America,0.0008,Cash On Delivery,Express,Delivered,3.0,Emma
+ORD-2026-1946,2026-12-15,Canada,Sports,Dumbbells,6,20.9,13.9,Ebay,Not Returned,David Brown,Wholesale,North America,0.002,Bank Transfer,Express,Pending,3.0,Rahul
+ORD-2026-1860,2026-12-16,Australia,Sports,Dumbbells,4,160.75,123.35,Shopify,Not Returned,Olivia Mehta,Consumer,Oceania,0.0015,Credit Card,Standard,Delivered,5.0,Sofia
+ORD-2026-1578,2026-12-16,France,Sports,Yoga Mat,7,81.0,65.16,Ebay,Not Returned,Ananya Johnson,Premium,Europe,0.0005,Cash On Delivery,Same Day,Delivered,5.0,Priya
+ORD-2026-1744,2026-12-16,UK,Fashion,Backpack,7,175.31,116.44,Ebay,Not Returned,Karan Wilson,Consumer,Europe,0.0005,Upi,Standard,Pending,3.0,Rahul
+ORD-2026-1605,2026-12-16,USA,Sports,Running Shoes,1,213.77,135.67,Shopify,Not Returned,Rohan Singh,Corporate,North America,0.001,Debit Card,Express,Delivered,3.0,Daniel
+ORD-2026-1214,2026-12-16,Japan,Home & Kitchen,Air Fryer,11,131.93,76.79,Amazon,Not Returned,Alex Gupta,Corporate,Asia,0.0015,Bank Transfer,Standard,Delivered,5.0,Emma
+ORD-2026-1784,2026-12-17,USA,Sports,Running Shoes,9,299.28,163.5,Shopify,Refunded,Emma Wilson,Wholesale,North America,0.0008,Cash On Delivery,Express,Delivered,5.0,Meera
+ORD-2026-1108,2026-12-17,Japan,Beauty,Skincare Set,11,15.15,11.92,Shopify,Refunded,Liam Wilson,Consumer,Asia,0.001,Cash On Delivery,Standard,Delivered,4.0,Daniel
+ORD-2026-1950,2026-12-17,UAE,Fashion,T-Shirt,4,232.89,148.28,Shopify,Not Returned,Rohan Johnson,Corporate,Middle East,0.0015,Paypal,Standard,Delivered,4.0,Arjun
+ORD-2026-1232,2026-12-17,USA,Beauty,Skincare Set,8,146.39,105.92,Ebay,Not Returned,Ananya Taylor,Wholesale,North America,0.0002,Credit Card,Economy,Delivered,5.0,Sofia
+ORD-2026-1591,2026-12-17,India,Home & Kitchen,Vacuum Cleaner,7,95.0,68.08,Shopify,Not Returned,Vikram Taylor,Corporate,Asia,0.0002,Credit Card,Express,Cancelled,4.0,Arjun
+ORD-2026-1830,2026-12-17,India,Beauty,Face Cream,6,105.41,74.09,Ebay,Not Returned,Arjun Anderson,Consumer,Asia,0.0005,Debit Card,Standard,Delivered,4.0,Karan
+ORD-2026-1427,2026-12-17,UAE,Sports,Fitness Band,10,259.78,139.75,Shopify,Not Returned,Leo Miller,Premium,Middle East,0.0002,Credit Card,Express,Delivered,3.0,Rahul
+ORD-2026-1045,2026-12-18,Canada,Home & Kitchen,Coffee Maker,5,472.01,313.09,Amazon,Not Returned,Priya Gupta,Premium,North America,0.002,Credit Card,Express,Delivered,5.0,Arjun
+ORD-2026-1073,2026-12-18,Australia,Fashion,Jacket,7,115.68,63.45,Shopify,Not Returned,Rahul Singh,Consumer,Oceania,0.0008,Credit Card,Economy,Delivered,5.0,Arjun
+ORD-2026-1549,2026-12-19,UK,Sports,Dumbbells,3,266.53,206.49,Amazon,Not Returned,Emma Martin,Wholesale,Europe,0.002,Cash On Delivery,Express,Delivered,4.0,Sofia
+ORD-2026-1115,2026-12-19,France,Beauty,Face Cream,6,66.31,36.66,Ebay,Not Returned,Vivaan Lee,Wholesale,Europe,0.0008,Upi,Express,Delivered,5.0,Aisha
+ORD-2026-1325,2026-12-19,India,Sports,Sports Bag,5,219.85,154.71,Shopify,Not Returned,Ananya Anderson,Wholesale,Asia,0.001,Cash On Delivery,Same Day,Delivered,4.0,Daniel
+ORD-2026-1894,2026-12-19,Singapore,Fashion,Backpack,1,78.83,52.19,Ebay,Not Returned,Anna Williams,Wholesale,Asia,0.002,Credit Card,Economy,Delivered,3.0,Aisha
+ORD-2026-1406,2026-12-19,USA,Sports,Running Shoes,9,126.46,77.76,Shopify,Not Returned,Karan Thomas,Premium,North America,0.002,Debit Card,Standard,Delivered,5.0,Daniel
+ORD-2026-1299,2026-12-19,India,Home & Kitchen,Blender,10,81.83,61.92,Ebay,Not Returned,Priya Williams,Consumer,Asia,0.0,Debit Card,Express,Pending,5.0,Sofia
+ORD-2026-1226,2026-12-20,Australia,Books,Cookbook,9,52.87,36.91,Amazon,Not Returned,Ava Wilson,Wholesale,Oceania,0.0,Credit Card,Same Day,Delivered,1.0,Sofia
+ORD-2026-1118,2026-12-21,Australia,Fashion,Sneakers,8,229.79,143.09,Shopify,Returned,Anna Taylor,Corporate,Oceania,0.0005,Debit Card,Same Day,Delivered,5.0,Vikram
+ORD-2026-1244,2026-12-21,Japan,Books,Children's Book,4,61.45,42.3,Ebay,Not Returned,Arjun Davis,Wholesale,Asia,0.0002,Paypal,Same Day,Delivered,5.0,Vikram
+ORD-2026-1640,2026-12-22,USA,Fashion,Backpack,12,39.04,26.84,Amazon,Not Returned,Rahul Taylor,Consumer,North America,0.002,Debit Card,Standard,Delivered,5.0,Emma
+ORD-2026-1301,2026-12-23,Germany,Electronics,Tablet,6,1325.97,789.23,Shopify,Not Returned,Meera Martin,Corporate,Europe,0.0,Bank Transfer,Same Day,Delivered,4.0,Meera
+ORD-2026-1356,2026-12-23,India,Home & Kitchen,Vacuum Cleaner,11,232.45,189.93,Ebay,Not Returned,Leo Lee,Corporate,Asia,0.0,Paypal,Economy,Delivered,5.0,Vikram
+ORD-2026-1168,2026-12-24,Singapore,Beauty,Shampoo,10,10.42,7.84,Shopify,Refunded,Rahul Thomas,Wholesale,Asia,0.0015,Debit Card,Economy,Delivered,5.0,Emma
+ORD-2026-1061,2026-12-25,France,Beauty,Shampoo,4,179.89,139.59,Shopify,Not Returned,Vivaan Davis,Premium,Europe,0.0,Credit Card,Standard,Delivered,5.0,Priya
+ORD-2026-1186,2026-12-25,Japan,Sports,Yoga Mat,7,238.61,133.43,Ebay,Not Returned,Noah Johnson,Wholesale,Asia,0.0005,Upi,Express,Delivered,5.0,Arjun
+ORD-2026-1347,2026-12-25,India,Electronics,Tablet,1,228.13,145.45,Shopify,Not Returned,Anna Williams,Premium,Asia,0.0015,Upi,Express,Delivered,5.0,Vikram
+ORD-2026-1713,2026-12-26,France,Books,Children's Book,8,35.11,22.78,Ebay,Not Returned,David Verma,Wholesale,Europe,0.0002,Credit Card,Economy,Pending,4.0,Rahul
+ORD-2026-1126,2026-12-27,India,Books,Novel,8,30.09,19.31,Shopify,Not Returned,Vikram Smith,Premium,Asia,0.001,Bank Transfer,Express,Cancelled,4.0,Emma
+ORD-2026-1872,2026-12-28,Singapore,Books,Self-Help Book,9,19.3,12.61,Ebay,Not Returned,Ryan Smith,Corporate,Asia,0.0005,Bank Transfer,Express,Delivered,4.0,Meera
+ORD-2026-1779,2026-12-28,Canada,Books,Self-Help Book,12,50.69,40.84,Shopify,Not Returned,Sneha Brown,Wholesale,North America,0.0,Credit Card,Standard,Delivered,5.0,Aisha
+ORD-2026-1370,2026-12-29,UK,Books,Novel,1,55.85,33.51,Shopify,Not Returned,Alex Miller,Wholesale,Europe,0.0015,Cash On Delivery,Standard,Delivered,1.0,Vikram
+ORD-2026-1395,2026-12-29,UK,Fashion,Backpack,8,239.93,169.29,Ebay,Not Returned,Priya Mehta,Corporate,Europe,0.0002,Credit Card,Standard,Delivered,5.0,Meera
+ORD-2026-1199,2026-12-29,USA,Beauty,Perfume,6,136.71,80.85,Ebay,Returned,Ethan Wilson,Consumer,North America,0.0005,Upi,Express,Delivered,3.0,Emma
+ORD-2026-1135,2026-12-29,UAE,Fashion,Jacket,7,54.32,34.38,Amazon,Not Returned,Ryan Patel,Wholesale,Middle East,0.002,Paypal,Express,Delivered,4.0,Rahul
+ORD-2026-1823,2026-12-29,Australia,Sports,Fitness Band,7,145.83,96.59,Shopify,Not Returned,Sofia Taylor,Consumer,Oceania,0.002,Debit Card,Same Day,Delivered,4.0,Rahul
+ORD-2026-1589,2026-12-29,UK,Books,Children's Book,1,65.05,34.01,Amazon,Not Returned,Meera Gupta,Wholesale,Europe,0.002,Bank Transfer,Economy,Delivered,4.0,Daniel
+ORD-2026-1245,2026-12-30,India,Electronics,Headphones,4,1147.37,865.44,Ebay,Not Returned,Mia Martin,Corporate,Asia,0.002,Cash On Delivery,Express,Delivered,5.0,Karan
+ORD-2026-1348,2026-12-30,USA,Beauty,Skincare Set,3,25.8,19.63,Shopify,Not Returned,Alex Verma,Corporate,North America,0.0015,Debit Card,Same Day,Delivered,5.0,Meera
+ORD-2026-1514,2026-12-30,UAE,Beauty,Lipstick,12,21.69,17.49,Ebay,Returned,Alex Mehta,Premium,Middle East,0.002,Bank Transfer,Express,Delivered,4.0,Vikram
+ORD-2026-1145,2026-12-31,India,Electronics,Headphones,9,1049.24,555.96,Shopify,Refunded,Rahul Smith,Corporate,Asia,0.002,Bank Transfer,Express,Delivered,5.0,Priya
+ORD-2026-1964,2026-12-31,Japan,Home & Kitchen,Blender,12,85.89,49.41,Amazon,Refunded,Kavya Verma,Consumer,Asia,0.0015,Cash On Delivery,Standard,Delivered,4.0,Rahul
+ORD-2026-1176,2026-12-31,USA,Electronics,Smartwatch,2,103.72,60.65,Ebay,Not Returned,Ava Miller,Wholesale,North America,0.0,Credit Card,Express,Pending,4.0,Karan
