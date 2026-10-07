@@ -53,13 +53,13 @@ The dataset contains e-commerce transaction-level information.
 
 ## Dashboard KPIs
 
-| KPI | Value |
-|---|---:|
-| Total Sales | 1.79M |
-| Gross Profit | 588.35K |
-| Profit Margin | 32.84% |
-| Units Sold | 6,490 |
-| Total Orders | 1,000 |
+| KPI           |   Value |
+| ------------- | ------: |
+| Total Sales   |   1.79M |
+| Gross Profit  | 588.35K |
+| Profit Margin |  32.84% |
+| Units Sold    |   6,490 |
+| Total Orders  |   1,000 |
 
 ## Dashboard Features
 
@@ -125,7 +125,7 @@ These filters allow users to explore the dashboard dynamically.
 
 ## Dashboard Preview
 
-![E-Commerce Sales Dashboard](dashboard.png)
+![E-Commerce Sales Dashboard](E-Commerce-Sales-Dashboard.png)
 
 ## Project Structure
 
